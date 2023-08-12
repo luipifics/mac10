@@ -1691,3 +1691,741 @@ http://uhd3.one:80/play/live.php?mac=00:1a:79:d5:9f:64&stream=151996&extension=t
 http://uhd3.one:80/play/live.php?mac=00:1a:79:d5:9f:64&stream=151998&extension=ts
 #EXTINF:-1 tvg-id="uy.VTV" tvg-name="UY| VTV &extension=ts PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="LAT| URUGUAY",UY| VTV &extension=ts PLUS
 http://uhd3.one:80/play/live.php?mac=00:1a:79:d5:9f:64&stream=805850&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ FORO TV" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ FORO TV
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374433
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ TDN" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ TDN
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374432
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ HOLA TV" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ HOLA TV
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374431
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ CINE LATINO" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ CINE LATINO
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374430
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ LIFETIME" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ LIFETIME
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374429
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ MILENIO TV" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ MILENIO TV
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374428
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ ARTS" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ ARTS
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374427
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ 52MX" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ 52MX
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374426
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ AMERICATEVE" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ AMERICATEVE
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374425
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ GLITZ" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ GLITZ
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374424
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ TBS" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ TBS
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374423
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ TELEMUNDO INTERNACIONAL" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ TELEMUNDO INTERNACIONAL
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374422
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ UNIMAS" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ UNIMAS
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374421
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ ISAT" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ ISAT
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374420
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ PASIONES" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ PASIONES
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374419
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ GALAVISION HD" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ GALAVISION HD
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374418
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ HBO" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ HBO
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374417
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ HBO 2" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ HBO 2
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374416
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ HBO PLUS" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ HBO PLUS
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374415
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ HBO FAMILY" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ HBO FAMILY
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374414
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ HBO SIGNATURE" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ HBO SIGNATURE
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374413
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ HBO ESTE" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ HBO ESTE
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374412
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ FOX PREMIUM COMEDY" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ FOX PREMIUM COMEDY
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374411
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ FOX PREMIUM FAMILY" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ FOX PREMIUM FAMILY
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374410
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ FOX PREMIUM SERIES" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ FOX PREMIUM SERIES
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374409
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ UNIVISION" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ UNIVISION
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374408
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ UNIVISION TELENOVELAS" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ UNIVISION TELENOVELAS
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374407
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ TELENOVELAS" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ TELENOVELAS
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374406
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ UNICABLE" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ UNICABLE
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374405
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ TELEMUNDO" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ TELEMUNDO
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374404
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ TLC" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ TLC
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374403
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ SYFY" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ SYFY
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374402
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ FX" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ FX
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374401
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ FOX" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ FOX
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374400
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ FOX ACTION" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ FOX ACTION
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374399
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ FOX CINEMA" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ FOX CINEMA
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374398
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ FOX CLASSIC" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ FOX CLASSIC
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374397
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ UNIVERSAL PREMIER" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ UNIVERSAL PREMIER
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374396
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ AMC" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ AMC
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374395
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ AXN" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ AXN
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374394
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ GALA TV" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ GALA TV
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374393
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ UNIVERSAL CHANNEL" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ UNIVERSAL CHANNEL
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374392
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ AZ UNO" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ AZ UNO
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374391
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ AZTECA 7" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ AZTECA 7
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374390
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ AZTECA CINEMA" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ AZTECA CINEMA
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374389
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ AZTECA CORAZON" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ AZTECA CORAZON
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374388
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ AZTECA CLIC" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ AZTECA CLIC
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374387
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ CINE CANAL" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ CINE CANAL
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374386
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ MULTIPREMIER" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ MULTIPREMIER
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374385
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ DHE" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ DHE
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374384
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ WARNER CHANNEL" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ WARNER CHANNEL
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374383
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ CLARO CINEMA" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ CLARO CINEMA
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374382
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ GOLDEN PREMIER" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ GOLDEN PREMIER
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374381
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ PARAMOUNT" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ PARAMOUNT
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374380
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ SONY" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ SONY
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374379
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ SPACE" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ SPACE
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374378
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ STUDIO UNIVERSAL" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ STUDIO UNIVERSAL
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374377
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ TCM" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ TCM
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374376
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ TNT SERIES" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ TNT SERIES
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374375
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ TNT" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ TNT
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374374
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ GOLDEN EDGE" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ GOLDEN EDGE
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374373
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ GOLDEN" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ GOLDEN
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374372
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ MAX UP" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ MAX UP
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374371
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ CINEMA DINAMITA" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ CINEMA DINAMITA
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374370
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ A&E" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ A&E
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374369
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ MASCHIC" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ MASCHIC
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374368
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ DISTRITO COMEDIA" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ DISTRITO COMEDIA
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374367
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ E! ENTERTAINMENT" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ E! ENTERTAINMENT
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374366
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ TRU TV" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ TRU TV
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374365
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ GOURMET" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ GOURMET
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374364
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ DISNEY CHANNEL." tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ DISNEY CHANNEL.
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374363
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ DISNEY JR" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ DISNEY JR
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374362
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ NICK JR" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ NICK JR
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374361
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ NICK 2" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ NICK 2
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374360
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ NICKELODEON" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ NICKELODEON
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374359
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ COMEDY CENTRAL" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ COMEDY CENTRAL
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374358
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ BOOMERANG" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ BOOMERANG
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374357
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ CANAL 11" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ CANAL 11
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374356
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ CANAL 5" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ CANAL 5
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374355
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ CANAL DE LAS ESTRELLAS." tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ CANAL DE LAS ESTRELLAS.
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374354
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ CARTOON NETWORK" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ CARTOON NETWORK
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374353
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ CINE MAX" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ CINE MAX
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374352
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ ONCE" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ ONCE
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374351
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ NAT GEO" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ NAT GEO
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374350
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ NAT GEO WILD" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ NAT GEO WILD
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374349
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ DISCOVERY CHANNEL" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ DISCOVERY CHANNEL
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374348
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ DISCOVERY INVESTIGATION" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ DISCOVERY INVESTIGATION
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374347
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ DISCOVERY HOME&HEALTH" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ DISCOVERY HOME&HEALTH
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374346
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ DISCOVERY KIDS" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ DISCOVERY KIDS
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374345
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ DISCOVERY TURBO" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ DISCOVERY TURBO
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374344
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ DISCOVERY THEATER" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ DISCOVERY THEATER
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374343
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ DISCOVERY SCIENCE" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ DISCOVERY SCIENCE
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374342
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ ANIMAL PLANET" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ ANIMAL PLANET
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374341
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ HISTORY" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ HISTORY
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374340
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ ID" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ ID
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374339
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ H2" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ H2
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374338
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ ESPN" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ ESPN
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374337
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ ESPN 2." tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ ESPN 2.
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374336
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ ESPN 3" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ ESPN 3
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374335
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ FOX SPORT" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ FOX SPORT
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374334
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ FOX SPORT 2" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ FOX SPORT 2
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374333
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ UNIVISION DEPORTES" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ UNIVISION DEPORTES
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374332
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ CLARO SPORT 2" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ CLARO SPORT 2
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374331
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ WINSPORTS HD" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ WINSPORTS HD
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374330
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ CLARO SPORT" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ CLARO SPORT
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374329
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ TUDN Live 1" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ TUDN Live 1
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374328
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ TUDN Live 2" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ TUDN Live 2
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374327
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ TUDN Live 3" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ TUDN Live 3
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374326
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ TUDN Live 4" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ TUDN Live 4
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374325
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ TUDN Live 5" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ TUDN Live 5
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374324
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ TUDN Live 6" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ TUDN Live 6
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374323
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ TUDN LIVE 7" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ TUDN LIVE 7
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374322
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ TUDN LIVE 8" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ TUDN LIVE 8
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374321
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ TUDN LIVE 9" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ TUDN LIVE 9
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374320
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ TUDN LIVE 10" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ TUDN LIVE 10
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374319
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ TUDN LIVE 11" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ TUDN LIVE 11
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374318
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ CNN" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ CNN
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374317
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ HTV" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ HTV
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374316
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ MTV" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ MTV
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374315
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ VH1" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ VH1
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374314
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ TELECENTRO" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ TELECENTRO
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374313
+#EXTINF:-1 tvg-id="" tvg-name="┃LATIN┃ PBC JAMAICA SD" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃LATIN┃ PBC JAMAICA SD
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374312
+#EXTINF:-1 tvg-id="" tvg-name="┃HONDURAS┃ AZTECA HONDURAS" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃HONDURAS┃ AZTECA HONDURAS
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374311
+#EXTINF:-1 tvg-id="" tvg-name="┃HONDURAS┃ CAMPUS TV" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃HONDURAS┃ CAMPUS TV
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374310
+#EXTINF:-1 tvg-id="" tvg-name="┃HONDURAS┃ CANAL 11 HD" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃HONDURAS┃ CANAL 11 HD
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374309
+#EXTINF:-1 tvg-id="" tvg-name="┃HONDURAS┃ CANAL 5 HD" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃HONDURAS┃ CANAL 5 HD
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374308
+#EXTINF:-1 tvg-id="" tvg-name="┃HONDURAS┃ TVC EL LIDER" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃HONDURAS┃ TVC EL LIDER
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374307
+#EXTINF:-1 tvg-id="" tvg-name="┃HONDURAS┃ CANAL 6 HD" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃HONDURAS┃ CANAL 6 HD
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374306
+#EXTINF:-1 tvg-id="" tvg-name="┃HONDURAS┃ TELE CADENA" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃HONDURAS┃ TELE CADENA
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374305
+#EXTINF:-1 tvg-id="" tvg-name="┃HONDURAS┃ TELE PROGRESO" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃HONDURAS┃ TELE PROGRESO
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374304
+#EXTINF:-1 tvg-id="" tvg-name="┃HONDURAS┃ TSI" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃HONDURAS┃ TSI
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374303
+#EXTINF:-1 tvg-id="" tvg-name="┃HONDURAS┃ UNE TV" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃HONDURAS┃ UNE TV
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374302
+#EXTINF:-1 tvg-id="" tvg-name="┃HONDURAS┃ TELE SISTEMA" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃HONDURAS┃ TELE SISTEMA
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374301
+#EXTINF:-1 tvg-id="" tvg-name="┃HONDURAS┃ CANAL 10" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃HONDURAS┃ CANAL 10
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374300
+#EXTINF:-1 tvg-id="" tvg-name="┃GUATEMALA┃ CANAL 11" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃GUATEMALA┃ CANAL 11
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374299
+#EXTINF:-1 tvg-id="" tvg-name="┃GUATEMALA┃ CANAL 3" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃GUATEMALA┃ CANAL 3
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374298
+#EXTINF:-1 tvg-id="" tvg-name="┃GUATEMALA┃ CANAL ANTIGUA" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃GUATEMALA┃ CANAL ANTIGUA
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374297
+#EXTINF:-1 tvg-id="" tvg-name="┃GUATEMALA┃ GUATEVISION" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃GUATEMALA┃ GUATEVISION
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374296
+#EXTINF:-1 tvg-id="" tvg-name="┃GUATEMALA┃ RETRO TV" tvg-logo="" group-title="┃LAT┃ LATINO GENERAL",┃GUATEMALA┃ RETRO TV
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374295
+#EXTINF:-1 tvg-id="" tvg-name="┃PAN┃ NEX CANAL 21" tvg-logo="" group-title="┃LAT┃ PANAMA",┃PAN┃ NEX CANAL 21
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374060
+#EXTINF:-1 tvg-id="" tvg-name="┃PAN┃ RPC TV" tvg-logo="" group-title="┃LAT┃ PANAMA",┃PAN┃ RPC TV
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374059
+#EXTINF:-1 tvg-id="" tvg-name="┃PAN┃ TELEMETRO" tvg-logo="" group-title="┃LAT┃ PANAMA",┃PAN┃ TELEMETRO
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374058
+#EXTINF:-1 tvg-id="" tvg-name="┃PAN┃ TVN" tvg-logo="" group-title="┃LAT┃ PANAMA",┃PAN┃ TVN
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374057
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Canal 2 HD San Carlos" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Canal 2 HD San Carlos
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374178
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Canal 2 Visión Canaria" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Canal 2 Visión Canaria
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374177
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Canal 2 San Carlos" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Canal 2 San Carlos
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374176
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Canal 4 Paysandu" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Canal 4 Paysandu
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374175
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Canal 4 Tacuarembo" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Canal 4 Tacuarembo
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374174
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Canal 4 Juan Lacaze" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Canal 4 Juan Lacaze
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374173
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Canal 4 Salto" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Canal 4 Salto
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374172
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Canal 5" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Canal 5
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374171
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Canal 6 Durazno" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Canal 6 Durazno
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374170
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Canal 7 Punta" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Canal 7 Punta
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374169
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Canal 8 Artigas" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Canal 8 Artigas
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374168
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Canal 8 Durazno" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Canal 8 Durazno
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374167
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Canal 8 Rivera" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Canal 8 Rivera
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374166
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Canal 8 Salto" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Canal 8 Salto
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374165
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Canal 9 Telerocha" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Canal 9 Telerocha
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374164
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ CANAL 10" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ CANAL 10
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374163
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Canal 11 Las Piedras" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Canal 11 Las Piedras
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374162
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Canal 11 Treinta y Tres" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Canal 11 Treinta y Tres
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374161
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Canal 12" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Canal 12
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374160
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Canal 26" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Canal 26
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374159
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Canal 26 Radio y Television de Aguascalientes" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Canal 26 Radio y Television de Aguascalientes
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374158
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Cámara de Representantes" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Cámara de Representantes
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374157
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ El Canal de la Región - Noreste Canelones" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ El Canal de la Región - Noreste Canelones
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374156
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ France 24" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ France 24
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374155
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ RIO URUGUAY TV" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ RIO URUGUAY TV
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374154
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Uruguay Presidencia" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Uruguay Presidencia
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374153
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Pantalla IMPO" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Pantalla IMPO
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374152
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Camara de Senadores" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Camara de Senadores
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374151
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Artigas Television" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Artigas Television
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374150
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Durazno TV" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Durazno TV
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374149
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Cardinal" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Cardinal
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374148
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Plazacanal Treinta y Tres" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Plazacanal Treinta y Tres
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374147
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Telesur" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Telesur
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374146
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Maronas Entertainment" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Maronas Entertainment
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374145
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Florida Televisora Color" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Florida Televisora Color
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374144
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ ANPI TV" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ ANPI TV
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374143
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ RDTV 24HS" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ RDTV 24HS
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374142
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ RT Espanol" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ RT Espanol
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374141
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ DW Espanol" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ DW Espanol
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374140
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ A&V" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ A&V
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374139
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ 1000 x Hora TV" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ 1000 x Hora TV
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374138
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Aljazeera" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Aljazeera
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374137
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Canal-M" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Canal-M
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374136
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Latina Tv Paysandu" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Latina Tv Paysandu
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374135
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Al_Jazeera" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Al_Jazeera
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374134
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Television Nacional Uruguay  (P)" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Television Nacional Uruguay  (P)
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374133
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ TELE R" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ TELE R
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374132
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Canal M" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Canal M
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374130
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Warner Channel" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Warner Channel
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374129
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Universal Chile" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Universal Chile
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374128
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Tru tv" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Tru tv
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374127
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ TNT Series" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ TNT Series
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374126
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ TNT" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ TNT
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374125
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Telemundo Internacional" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Telemundo Internacional
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374124
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ TLC" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ TLC
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374123
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ TELEDOCE HD" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ TELEDOCE HD
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374122
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ TCM" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ TCM
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374121
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ TBS" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ TBS
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374120
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ SyFy" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ SyFy
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374119
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Studio Universal" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Studio Universal
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374118
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Star Channel (South)" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Star Channel (South)
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374117
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Space" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Space
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374116
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Sony" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Sony
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374115
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ RAI International Spanish" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ RAI International Spanish
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374114
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Paramount Network" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Paramount Network
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374113
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Nick Jr" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Nick Jr
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374112
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ NBA TV International HD" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ NBA TV International HD
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374111
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ National Geographic" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ National Geographic
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374110
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ MTV" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ MTV
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374109
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Mas Chic" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Mas Chic
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374108
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ LN+ HD" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ LN+ HD
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374107
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ IVC Net HD" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ IVC Net HD
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374106
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ I-SAT" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ I-SAT
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374105
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ HTV" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ HTV
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374104
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ HOLATV" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ HOLATV
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374103
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ History Channel" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ History Channel
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374102
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ H2 History" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ H2 History
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374101
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Golf Channel" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Golf Channel
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374100
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Glitz" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Glitz
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374099
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ FX |Am|erica Colombia" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ FX |Am|erica Colombia
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374098
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ FOX Sports 3" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ FOX Sports 3
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374097
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Food Network" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Food Network
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374096
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ ESPN3" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ ESPN3
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374095
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ ESPN" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ ESPN
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374094
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ ESPN 4 Sur" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ ESPN 4 Sur
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374093
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ ESPN 2 |An|dina HD" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ ESPN 2 |An|dina HD
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374092
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ El Nueve HD" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ El Nueve HD
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374091
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ El Gourmet" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ El Gourmet
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374090
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ E! Entertainment" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ E! Entertainment
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374089
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Disney Junior" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Disney Junior
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374088
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Disney Channel Sur" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Disney Channel Sur
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374087
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Discovery Turbo" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Discovery Turbo
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374086
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Discovery Kids" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Discovery Kids
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374085
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Discovery ID" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Discovery ID
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374084
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Discovery Home & Health" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Discovery Home & Health
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374083
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Discovery Channel" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Discovery Channel
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374082
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ DIRECTV Sports Plus" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ DIRECTV Sports Plus
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374081
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ DIRECTV Sports (Uru)" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ DIRECTV Sports (Uru)
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374080
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ DIRECTV Sports (Arg)" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ DIRECTV Sports (Arg)
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374079
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ DIRECTV Sports 2" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ DIRECTV Sports 2
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374078
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ DIRECTV eventos 2" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ DIRECTV eventos 2
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374077
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ DIRECTV eventos 5" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ DIRECTV eventos 5
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374076
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Comedy Central" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Comedy Central
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374075
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ CNN Internacional" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ CNN Internacional
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374074
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ CNN en Español" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ CNN en Español
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374073
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Cinemax" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Cinemax
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374072
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Cinecanal Sur" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Cinecanal Sur
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374071
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Cine Latino" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Cine Latino
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374070
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Cartoonito" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Cartoonito
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374069
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Cartoon Network" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Cartoon Network
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374068
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Bloomberg" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Bloomberg
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374067
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ AXN" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ AXN
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374066
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ Atreseries" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ Atreseries
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374065
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ A&E" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ A&E
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374064
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ VTV+" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ VTV+
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374063
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ TV CIUDAD" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ TV CIUDAD
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374062
+#EXTINF:-1 tvg-id="" tvg-name="┃URY┃ VTV HD" tvg-logo="" group-title="┃LAT┃ URUGUAY",┃URY┃ VTV HD
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374061
+#EXTINF:-1 tvg-id="" tvg-name="┃VE┃ TELESUR" tvg-logo="" group-title="┃LAT┃ VENEZUELA",┃VE┃ TELESUR
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374180
+#EXTINF:-1 tvg-id="" tvg-name="┃VE┃ CANAL ONCE" tvg-logo="" group-title="┃LAT┃ VENEZUELA",┃VE┃ CANAL ONCE
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374179
+#EXTINF:-1 tvg-id="" tvg-name="┃COL┃ CARACOL" tvg-logo="" group-title="┃LAT┃ COLOMBIA",┃COL┃ CARACOL
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374204
+#EXTINF:-1 tvg-id="" tvg-name="┃COL┃ CARACOL HD2" tvg-logo="" group-title="┃LAT┃ COLOMBIA",┃COL┃ CARACOL HD2
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374203
+#EXTINF:-1 tvg-id="" tvg-name="┃COL┃ CARACOL INTERNACIONAL" tvg-logo="" group-title="┃LAT┃ COLOMBIA",┃COL┃ CARACOL INTERNACIONAL
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374202
+#EXTINF:-1 tvg-id="" tvg-name="┃COL┃ RCN" tvg-logo="" group-title="┃LAT┃ COLOMBIA",┃COL┃ RCN
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374201
+#EXTINF:-1 tvg-id="" tvg-name="┃COL┃ RCN HD2" tvg-logo="" group-title="┃LAT┃ COLOMBIA",┃COL┃ RCN HD2
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374200
+#EXTINF:-1 tvg-id="" tvg-name="┃COL┃ RCN NOVELAS" tvg-logo="" group-title="┃LAT┃ COLOMBIA",┃COL┃ RCN NOVELAS
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374199
+#EXTINF:-1 tvg-id="" tvg-name="┃COL┃ SENAL COLOMBIA" tvg-logo="" group-title="┃LAT┃ COLOMBIA",┃COL┃ SENAL COLOMBIA
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374198
+#EXTINF:-1 tvg-id="" tvg-name="┃COL┃ TELEPACIFICO" tvg-logo="" group-title="┃LAT┃ COLOMBIA",┃COL┃ TELEPACIFICO
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374197
+#EXTINF:-1 tvg-id="" tvg-name="┃COL┃ TELE MEDELLIN" tvg-logo="" group-title="┃LAT┃ COLOMBIA",┃COL┃ TELE MEDELLIN
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374196
+#EXTINF:-1 tvg-id="" tvg-name="┃COL┃ TRECE" tvg-logo="" group-title="┃LAT┃ COLOMBIA",┃COL┃ TRECE
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374195
+#EXTINF:-1 tvg-id="" tvg-name="┃COL┃ CABLENOTICIAS" tvg-logo="" group-title="┃LAT┃ COLOMBIA",┃COL┃ CABLENOTICIAS
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374194
+#EXTINF:-1 tvg-id="" tvg-name="┃COL┃ CITY TV" tvg-logo="" group-title="┃LAT┃ COLOMBIA",┃COL┃ CITY TV
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374193
+#EXTINF:-1 tvg-id="" tvg-name="┃COL┃ CANAL CAPITAL" tvg-logo="" group-title="┃LAT┃ COLOMBIA",┃COL┃ CANAL CAPITAL
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374192
+#EXTINF:-1 tvg-id="" tvg-name="┃COL┃ CANAL INSTITUCIONAL" tvg-logo="" group-title="┃LAT┃ COLOMBIA",┃COL┃ CANAL INSTITUCIONAL
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374191
+#EXTINF:-1 tvg-id="" tvg-name="┃COL┃ CANAL UNO HD" tvg-logo="" group-title="┃LAT┃ COLOMBIA",┃COL┃ CANAL UNO HD
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374190
+#EXTINF:-1 tvg-id="" tvg-name="┃COL┃ CARACOL FHD" tvg-logo="" group-title="┃LAT┃ COLOMBIA",┃COL┃ CARACOL FHD
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374189
+#EXTINF:-1 tvg-id="" tvg-name="┃COL┃ EL TIEMPO" tvg-logo="" group-title="┃LAT┃ COLOMBIA",┃COL┃ EL TIEMPO
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374188
+#EXTINF:-1 tvg-id="" tvg-name="┃COL┃ NTN24" tvg-logo="" group-title="┃LAT┃ COLOMBIA",┃COL┃ NTN24
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374187
+#EXTINF:-1 tvg-id="" tvg-name="┃COL┃ CANAL TRECE HD" tvg-logo="" group-title="┃LAT┃ COLOMBIA",┃COL┃ CANAL TRECE HD
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374186
+#EXTINF:-1 tvg-id="" tvg-name="┃COL┃ TELEVID" tvg-logo="" group-title="┃LAT┃ COLOMBIA",┃COL┃ TELEVID
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374185
+#EXTINF:-1 tvg-id="" tvg-name="┃COL┃ WINSPORTS PLUS HD" tvg-logo="" group-title="┃LAT┃ COLOMBIA",┃COL┃ WINSPORTS PLUS HD
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374184
+#EXTINF:-1 tvg-id="" tvg-name="┃COL┃ DIRECTV SPORTS 1" tvg-logo="" group-title="┃LAT┃ COLOMBIA",┃COL┃ DIRECTV SPORTS 1
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374183
+#EXTINF:-1 tvg-id="" tvg-name="┃COL┃ DIRECTV SPORTS 2" tvg-logo="" group-title="┃LAT┃ COLOMBIA",┃COL┃ DIRECTV SPORTS 2
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374182
+#EXTINF:-1 tvg-id="" tvg-name="┃COL┃ TV AGRO" tvg-logo="" group-title="┃LAT┃ COLOMBIA",┃COL┃ TV AGRO
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374181
+#EXTINF:-1 tvg-id="" tvg-name="┃ARG┃ TV PUBLICA" tvg-logo="" group-title="┃LAT┃ ARGENTINA",┃ARG┃ TV PUBLICA
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374236
+#EXTINF:-1 tvg-id="" tvg-name="┃ARG┃ AMERICA TV" tvg-logo="" group-title="┃LAT┃ ARGENTINA",┃ARG┃ AMERICA TV
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374235
+#EXTINF:-1 tvg-id="" tvg-name="┃ARG┃ TELEFE" tvg-logo="" group-title="┃LAT┃ ARGENTINA",┃ARG┃ TELEFE
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374234
+#EXTINF:-1 tvg-id="" tvg-name="┃ARG┃ EL TRECE" tvg-logo="" group-title="┃LAT┃ ARGENTINA",┃ARG┃ EL TRECE
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374233
+#EXTINF:-1 tvg-id="" tvg-name="┃ARG┃ ELNUEVE" tvg-logo="" group-title="┃LAT┃ ARGENTINA",┃ARG┃ ELNUEVE
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374232
+#EXTINF:-1 tvg-id="" tvg-name="┃ARG┃ ENCUENTRO" tvg-logo="" group-title="┃LAT┃ ARGENTINA",┃ARG┃ ENCUENTRO
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374231
+#EXTINF:-1 tvg-id="" tvg-name="┃ARG┃ LN+" tvg-logo="" group-title="┃LAT┃ ARGENTINA",┃ARG┃ LN+
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374230
+#EXTINF:-1 tvg-id="" tvg-name="┃ARG┃ CANAL DE LA CIUDAD" tvg-logo="" group-title="┃LAT┃ ARGENTINA",┃ARG┃ CANAL DE LA CIUDAD
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374229
+#EXTINF:-1 tvg-id="" tvg-name="┃ARG┃ 13 MAX" tvg-logo="" group-title="┃LAT┃ ARGENTINA",┃ARG┃ 13 MAX
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374228
+#EXTINF:-1 tvg-id="" tvg-name="┃ARG┃ CINE AR" tvg-logo="" group-title="┃LAT┃ ARGENTINA",┃ARG┃ CINE AR
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374227
+#EXTINF:-1 tvg-id="" tvg-name="┃ARG┃ CRONICA" tvg-logo="" group-title="┃LAT┃ ARGENTINA",┃ARG┃ CRONICA
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374226
+#EXTINF:-1 tvg-id="" tvg-name="┃ARG┃ CANAL 4" tvg-logo="" group-title="┃LAT┃ ARGENTINA",┃ARG┃ CANAL 4
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374225
+#EXTINF:-1 tvg-id="" tvg-name="┃ARG┃ TOP LATINO TV" tvg-logo="" group-title="┃LAT┃ ARGENTINA",┃ARG┃ TOP LATINO TV
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374224
+#EXTINF:-1 tvg-id="" tvg-name="┃ARG┃ TN" tvg-logo="" group-title="┃LAT┃ ARGENTINA",┃ARG┃ TN
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374223
+#EXTINF:-1 tvg-id="" tvg-name="┃ARG┃ TYC" tvg-logo="" group-title="┃LAT┃ ARGENTINA",┃ARG┃ TYC
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374205
+#EXTINF:-1 tvg-id="" tvg-name="┃ARG┃ C5N" tvg-logo="" group-title="┃LAT┃ ARGENTINA",┃ARG┃ C5N
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374222
+#EXTINF:-1 tvg-id="" tvg-name="┃ARG┃ CANAL 26" tvg-logo="" group-title="┃LAT┃ ARGENTINA",┃ARG┃ CANAL 26
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374221
+#EXTINF:-1 tvg-id="" tvg-name="┃ARG┃ A24" tvg-logo="" group-title="┃LAT┃ ARGENTINA",┃ARG┃ A24
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374220
+#EXTINF:-1 tvg-id="" tvg-name="┃ARG┃ MUSIC TOP" tvg-logo="" group-title="┃LAT┃ ARGENTINA",┃ARG┃ MUSIC TOP
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374219
+#EXTINF:-1 tvg-id="" tvg-name="┃ARG┃ PAKAPAKA" tvg-logo="" group-title="┃LAT┃ ARGENTINA",┃ARG┃ PAKAPAKA
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374218
+#EXTINF:-1 tvg-id="" tvg-name="┃ARG┃ FOX SPORT" tvg-logo="" group-title="┃LAT┃ ARGENTINA",┃ARG┃ FOX SPORT
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374217
+#EXTINF:-1 tvg-id="" tvg-name="┃ARG┃ FOX SPORT 2" tvg-logo="" group-title="┃LAT┃ ARGENTINA",┃ARG┃ FOX SPORT 2
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374216
+#EXTINF:-1 tvg-id="" tvg-name="┃ARG┃ FOX SPORT 3" tvg-logo="" group-title="┃LAT┃ ARGENTINA",┃ARG┃ FOX SPORT 3
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374215
+#EXTINF:-1 tvg-id="" tvg-name="┃ARG┃ ESPN PREMIUM" tvg-logo="" group-title="┃LAT┃ ARGENTINA",┃ARG┃ ESPN PREMIUM
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374214
+#EXTINF:-1 tvg-id="" tvg-name="┃ARG┃ TNT SPORT" tvg-logo="" group-title="┃LAT┃ ARGENTINA",┃ARG┃ TNT SPORT
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374213
+#EXTINF:-1 tvg-id="" tvg-name="┃ARG┃ DIRECT TV SPORTS" tvg-logo="" group-title="┃LAT┃ ARGENTINA",┃ARG┃ DIRECT TV SPORTS
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374212
+#EXTINF:-1 tvg-id="" tvg-name="┃ARG┃ DIRECT TV SPORTS 2" tvg-logo="" group-title="┃LAT┃ ARGENTINA",┃ARG┃ DIRECT TV SPORTS 2
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374211
+#EXTINF:-1 tvg-id="" tvg-name="┃ARG┃ DIRECT TV SPORTS PLUS" tvg-logo="" group-title="┃LAT┃ ARGENTINA",┃ARG┃ DIRECT TV SPORTS PLUS
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374210
+#EXTINF:-1 tvg-id="" tvg-name="┃ARG┃ ESPN" tvg-logo="" group-title="┃LAT┃ ARGENTINA",┃ARG┃ ESPN
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374209
+#EXTINF:-1 tvg-id="" tvg-name="┃ARG┃ ESPN 2" tvg-logo="" group-title="┃LAT┃ ARGENTINA",┃ARG┃ ESPN 2
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374208
+#EXTINF:-1 tvg-id="" tvg-name="┃ARG┃ ESPN 3" tvg-logo="" group-title="┃LAT┃ ARGENTINA",┃ARG┃ ESPN 3
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374207
+#EXTINF:-1 tvg-id="" tvg-name="┃ARG┃ ESPN+" tvg-logo="" group-title="┃LAT┃ ARGENTINA",┃ARG┃ ESPN+
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374206
+#EXTINF:-1 tvg-id="" tvg-name="┃PR┃ MEGA TV" tvg-logo="" group-title="┃LAT┃ PUERTO RICO",┃PR┃ MEGA TV
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374238
+#EXTINF:-1 tvg-id="" tvg-name="┃PR┃ UNIVISION" tvg-logo="" group-title="┃LAT┃ PUERTO RICO",┃PR┃ UNIVISION
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374239
+#EXTINF:-1 tvg-id="" tvg-name="┃PR┃ TELEMUNDO" tvg-logo="" group-title="┃LAT┃ PUERTO RICO",┃PR┃ TELEMUNDO
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374240
+#EXTINF:-1 tvg-id="" tvg-name="┃PR┃ WAPA" tvg-logo="" group-title="┃LAT┃ PUERTO RICO",┃PR┃ WAPA
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374241
+#EXTINF:-1 tvg-id="" tvg-name="┃PR┃ TIVA TV" tvg-logo="" group-title="┃LAT┃ PUERTO RICO",┃PR┃ TIVA TV
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374242
+#EXTINF:-1 tvg-id="" tvg-name="┃ECU┃ CANAL UNO" tvg-logo="" group-title="┃LAT┃ ECUADOR",┃ECU┃ CANAL UNO
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374251
+#EXTINF:-1 tvg-id="" tvg-name="┃ECU┃ ECUADOR TV" tvg-logo="" group-title="┃LAT┃ ECUADOR",┃ECU┃ ECUADOR TV
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374250
+#EXTINF:-1 tvg-id="" tvg-name="┃ECU┃ ECUAVISA" tvg-logo="" group-title="┃LAT┃ ECUADOR",┃ECU┃ ECUAVISA
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374249
+#EXTINF:-1 tvg-id="" tvg-name="┃ECU┃ RTS" tvg-logo="" group-title="┃LAT┃ ECUADOR",┃ECU┃ RTS
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374248
+#EXTINF:-1 tvg-id="" tvg-name="┃ECU┃ TC ECUADOR" tvg-logo="" group-title="┃LAT┃ ECUADOR",┃ECU┃ TC ECUADOR
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374247
+#EXTINF:-1 tvg-id="" tvg-name="┃ECU┃ TELE AMAZONAS" tvg-logo="" group-title="┃LAT┃ ECUADOR",┃ECU┃ TELE AMAZONAS
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374246
+#EXTINF:-1 tvg-id="" tvg-name="┃ECU┃ GOL TV" tvg-logo="" group-title="┃LAT┃ ECUADOR",┃ECU┃ GOL TV
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374245
+#EXTINF:-1 tvg-id="" tvg-name="┃ECU┃ GAMA TV" tvg-logo="" group-title="┃LAT┃ ECUADOR",┃ECU┃ GAMA TV
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374244
+#EXTINF:-1 tvg-id="" tvg-name="┃ECU┃ CANAL DEL FUTBOL" tvg-logo="" group-title="┃LAT┃ ECUADOR",┃ECU┃ CANAL DEL FUTBOL
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374243
+#EXTINF:-1 tvg-id="" tvg-name="┃MX┃ DE PELICULA PLUS" tvg-logo="" group-title="┃LAT┃ MEXICO",┃MX┃ DE PELICULA PLUS
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/373778
+#EXTINF:-1 tvg-id="" tvg-name="┃MX┃ TELEVISA PUEBLO HD" tvg-logo="" group-title="┃LAT┃ MEXICO",┃MX┃ TELEVISA PUEBLO HD
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/373780
+#EXTINF:-1 tvg-id="" tvg-name="┃MX┃ CANAL 4" tvg-logo="" group-title="┃LAT┃ MEXICO",┃MX┃ CANAL 4
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/373782
+#EXTINF:-1 tvg-id="" tvg-name="┃MX┃ CANAL 6" tvg-logo="" group-title="┃LAT┃ MEXICO",┃MX┃ CANAL 6
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/373783
+#EXTINF:-1 tvg-id="" tvg-name="┃MX┃ CANAL 22" tvg-logo="" group-title="┃LAT┃ MEXICO",┃MX┃ CANAL 22
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/373785
+#EXTINF:-1 tvg-id="" tvg-name="┃MX┃ CANAL CATORCE" tvg-logo="" group-title="┃LAT┃ MEXICO",┃MX┃ CANAL CATORCE
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/373784
+#EXTINF:-1 tvg-id="" tvg-name="┃MX┃ MTV" tvg-logo="" group-title="┃LAT┃ MEXICO",┃MX┃ MTV
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/373779
+#EXTINF:-1 tvg-id="" tvg-name="┃MX┃ BANDAMAX" tvg-logo="" group-title="┃LAT┃ MEXICO",┃MX┃ BANDAMAX
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/373781
+#EXTINF:-1 tvg-id="" tvg-name="┃CR┃ CANAL 14 TV SUR" tvg-logo="" group-title="┃LAT┃ COSTA RICA",┃CR┃ CANAL 14 TV SUR
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374257
+#EXTINF:-1 tvg-id="" tvg-name="┃CR┃ TIGO SPORTS" tvg-logo="" group-title="┃LAT┃ COSTA RICA",┃CR┃ TIGO SPORTS
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374256
+#EXTINF:-1 tvg-id="" tvg-name="┃CR┃ REPRETEL 11 HD" tvg-logo="" group-title="┃LAT┃ COSTA RICA",┃CR┃ REPRETEL 11 HD
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374255
+#EXTINF:-1 tvg-id="" tvg-name="┃CR┃ TELETICA 7 HD" tvg-logo="" group-title="┃LAT┃ COSTA RICA",┃CR┃ TELETICA 7 HD
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374254
+#EXTINF:-1 tvg-id="" tvg-name="┃CR┃ 88 STEREO" tvg-logo="" group-title="┃LAT┃ COSTA RICA",┃CR┃ 88 STEREO
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374253
+#EXTINF:-1 tvg-id="" tvg-name="┃CR┃ TELEUNO" tvg-logo="" group-title="┃LAT┃ COSTA RICA",┃CR┃ TELEUNO
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374252
+#EXTINF:-1 tvg-id="" tvg-name="┃PERU┃ LATINA" tvg-logo="" group-title="┃LAT┃ PERU",┃PERU┃ LATINA
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374267
+#EXTINF:-1 tvg-id="" tvg-name="┃PERU┃ AMERICA TELEVISION" tvg-logo="" group-title="┃LAT┃ PERU",┃PERU┃ AMERICA TELEVISION
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374266
+#EXTINF:-1 tvg-id="" tvg-name="┃PERU┃ ATV" tvg-logo="" group-title="┃LAT┃ PERU",┃PERU┃ ATV
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374265
+#EXTINF:-1 tvg-id="" tvg-name="┃PERU┃ ATV+" tvg-logo="" group-title="┃LAT┃ PERU",┃PERU┃ ATV+
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374264
+#EXTINF:-1 tvg-id="" tvg-name="┃PERU┃ PANAMERICANA" tvg-logo="" group-title="┃LAT┃ PERU",┃PERU┃ PANAMERICANA
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374263
+#EXTINF:-1 tvg-id="" tvg-name="┃PERU┃ TV PERU" tvg-logo="" group-title="┃LAT┃ PERU",┃PERU┃ TV PERU
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374262
+#EXTINF:-1 tvg-id="" tvg-name="┃PERU┃ CAPITAL TV" tvg-logo="" group-title="┃LAT┃ PERU",┃PERU┃ CAPITAL TV
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374261
+#EXTINF:-1 tvg-id="" tvg-name="┃PERU┃ GOL TV" tvg-logo="" group-title="┃LAT┃ PERU",┃PERU┃ GOL TV
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374260
+#EXTINF:-1 tvg-id="" tvg-name="┃PERU┃ CANAL N" tvg-logo="" group-title="┃LAT┃ PERU",┃PERU┃ CANAL N
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374259
+#EXTINF:-1 tvg-id="" tvg-name="┃PERU┃ LIGA1MAX" tvg-logo="" group-title="┃LAT┃ PERU",┃PERU┃ LIGA1MAX
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374258
+#EXTINF:-1 tvg-id="" tvg-name="┃CUBA┃ CUBAVISION" tvg-logo="" group-title="┃CU┃ CUBA",┃CUBA┃ CUBAVISION
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374269
+#EXTINF:-1 tvg-id="" tvg-name="┃CUBA┃ CUBAVISION INTERNACIONAL" tvg-logo="" group-title="┃CU┃ CUBA",┃CUBA┃ CUBAVISION INTERNACIONAL
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374268
+#EXTINF:-1 tvg-id="" tvg-name="┃CHL┃ CHILEVISION" tvg-logo="" group-title="┃LAT┃ CHILE",┃CHL┃ CHILEVISION
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374280
+#EXTINF:-1 tvg-id="" tvg-name="┃CHL┃ TVN" tvg-logo="" group-title="┃LAT┃ CHILE",┃CHL┃ TVN
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374279
+#EXTINF:-1 tvg-id="" tvg-name="┃CHL┃ 13 CABLE" tvg-logo="" group-title="┃LAT┃ CHILE",┃CHL┃ 13 CABLE
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374278
+#EXTINF:-1 tvg-id="" tvg-name="┃CHL┃ CANAL13" tvg-logo="" group-title="┃LAT┃ CHILE",┃CHL┃ CANAL13
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374277
+#EXTINF:-1 tvg-id="" tvg-name="┃CHL┃ LA RED" tvg-logo="" group-title="┃LAT┃ CHILE",┃CHL┃ LA RED
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374276
+#EXTINF:-1 tvg-id="" tvg-name="┃CHL┃ MEGA" tvg-logo="" group-title="┃LAT┃ CHILE",┃CHL┃ MEGA
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374275
+#EXTINF:-1 tvg-id="" tvg-name="┃CHL┃ CNN" tvg-logo="" group-title="┃LAT┃ CHILE",┃CHL┃ CNN
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374274
+#EXTINF:-1 tvg-id="" tvg-name="┃CHL┃ FOX SPORTS" tvg-logo="" group-title="┃LAT┃ CHILE",┃CHL┃ FOX SPORTS
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374273
+#EXTINF:-1 tvg-id="" tvg-name="┃CHL┃ TNT SPORTS 1 HD" tvg-logo="" group-title="┃LAT┃ CHILE",┃CHL┃ TNT SPORTS 1 HD
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374272
+#EXTINF:-1 tvg-id="" tvg-name="┃CHL┃ TNT SPORTS 2 HD" tvg-logo="" group-title="┃LAT┃ CHILE",┃CHL┃ TNT SPORTS 2 HD
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374271
+#EXTINF:-1 tvg-id="" tvg-name="┃CHL┃ TNT SPORTS 3 HD" tvg-logo="" group-title="┃LAT┃ CHILE",┃CHL┃ TNT SPORTS 3 HD
+http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374270
