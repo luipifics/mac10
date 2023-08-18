@@ -2414,18 +2414,4 @@ http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374279
 #EXTINF:-1 tvg-id="" tvg-name="┃CHL┃ 13 CABLE" tvg-logo="" group-title="┃LAT┃ CHILE",┃CHL┃ 13 CABLE
 http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374278
 #EXTINF:-1 tvg-id="" tvg-name="┃CHL┃ CANAL13" tvg-logo="" group-title="┃LAT┃ CHILE",┃CHL┃ CANAL13
-http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374277
-#EXTINF:-1 tvg-id="" tvg-name="┃CHL┃ LA RED" tvg-logo="" group-title="┃LAT┃ CHILE",┃CHL┃ LA RED
-http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374276
-#EXTINF:-1 tvg-id="" tvg-name="┃CHL┃ MEGA" tvg-logo="" group-title="┃LAT┃ CHILE",┃CHL┃ MEGA
-http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374275
-#EXTINF:-1 tvg-id="" tvg-name="┃CHL┃ CNN" tvg-logo="" group-title="┃LAT┃ CHILE",┃CHL┃ CNN
-http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374274
-#EXTINF:-1 tvg-id="" tvg-name="┃CHL┃ FOX SPORTS" tvg-logo="" group-title="┃LAT┃ CHILE",┃CHL┃ FOX SPORTS
-http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374273
-#EXTINF:-1 tvg-id="" tvg-name="┃CHL┃ TNT SPORTS 1 HD" tvg-logo="" group-title="┃LAT┃ CHILE",┃CHL┃ TNT SPORTS 1 HD
-http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374272
-#EXTINF:-1 tvg-id="" tvg-name="┃CHL┃ TNT SPORTS 2 HD" tvg-logo="" group-title="┃LAT┃ CHILE",┃CHL┃ TNT SPORTS 2 HD
-http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374271
-#EXTINF:-1 tvg-id="" tvg-name="┃CHL┃ TNT SPORTS 3 HD" tvg-logo="" group-title="┃LAT┃ CHILE",┃CHL┃ TNT SPORTS 3 HD
-http://line.tivi-one.net:80/5TN2YC/y3YlH9zZOj/374270
+
