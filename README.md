@@ -4787,3 +4787,1329 @@ http://line2.protv.cc:80/play/live.php?mac=00:1A:79:00:05:B6&stream=151996&exten
 http://line2.protv.cc:80/play/live.php?mac=00:1A:79:00:05:B6&stream=151998&extension=ts
 #EXTINF:-1 tvg-id="uy.VTV" tvg-name="UY| VTV &extension=ts PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="LAT| URUGUAY",UY| VTV &extension=ts PLUS
 http://line2.protv.cc:80/play/live.php?mac=00:1A:79:00:05:B6&stream=805850&extension=ts
+#EXTINF:-1 tvg-id="ar.América 24 (AME24) [4]" tvg-name="ARG| AMERICA 24" tvg-logo="http://logo.protv.cc/picons/logos/AMERICA-24-ARG.png" group-title="LAT| ARGENTINA",ARG| AMERICA 24
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/389451
+#EXTINF:-1 tvg-id="ar.América TV Internacional (AMERI) [9]" tvg-name="ARG| AMERICA TV" tvg-logo="http://logo.protv.cc/picons/logos/laz.americatv.png" group-title="LAT| ARGENTINA",ARG| AMERICA TV
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25308
+#EXTINF:-1 tvg-id="ar.Magazine (MAGZN) [15]" tvg-name="ARG| ARGENTINA MAGAZINE" tvg-logo="http://logo.protv.cc/picons/logos/ARGENTINA-MAGAZINE.jpg" group-title="LAT| ARGENTINA",ARG| ARGENTINA MAGAZINE
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79283
+#EXTINF:-1 tvg-id="ar.Pakapaka (PAKAPAKA) [22]" tvg-name="ARG| ARGENTINA PAKAPAKA" tvg-logo="http://logo.protv.cc/picons/logos/ARGENTINA-PAKAPAKA.jpg" group-title="LAT| ARGENTINA",ARG| ARGENTINA PAKAPAKA
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79282
+#EXTINF:-1 tvg-id="ar.C5N (C5N) [5]" tvg-name="ARG| C5N" tvg-logo="http://logo.protv.cc/picons/logos/C5N-.png" group-title="LAT| ARGENTINA",ARG| C5N
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25309
+#EXTINF:-1 tvg-id="ar.Canal 10 Córdoba (C10) [16]" tvg-name="ARG| CANAL 10 CORDOBA" tvg-logo="http://logo.protv.cc/picons/logos/CANAL-10.png" group-title="LAT| ARGENTINA",ARG| CANAL 10 CORDOBA
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/26292
+#EXTINF:-1 tvg-id="ar.El Trece (Canal 13) (CNL13) [33.1]" tvg-name="ARG| CANAL 13" tvg-logo="http://logo.protv.cc/picons/logos/CANAL-13.png" group-title="LAT| ARGENTINA",ARG| CANAL 13
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79298
+#EXTINF:-1 tvg-id="ar.Canal 26 Noticias HDTV (26TV) [26.1]" tvg-name="ARG| CANAL 26 HD" tvg-logo="http://logo.protv.cc/picons/logos/CANAL-26-HD.jpg" group-title="LAT| ARGENTINA",ARG| CANAL 26 HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25305
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CANAL 4" tvg-logo="http://logo.protv.cc/picons/logos/CANAL-4.jpg" group-title="LAT| ARGENTINA",ARG| CANAL 4
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79297
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CANAL 4 (ARG)" tvg-logo="http://logo.protv.cc/picons/logos/CANAL-4.jpg" group-title="LAT| ARGENTINA",ARG| CANAL 4 (ARG)
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25313
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CANALE 3" tvg-logo="http://logo.protv.cc/picons/logos/CANALE-3.jpeg" group-title="LAT| ARGENTINA",ARG| CANALE 3
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/32466
+#EXTINF:-1 tvg-id="AR - Canal 9" tvg-name="ARG| CANAL 9" tvg-logo="http://logo.protv.cc/picons/logos/canal9.png" group-title="LAT| ARGENTINA",ARG| CANAL 9
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25312
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CANAL ORBE" tvg-logo="http://logo.protv.cc/picons/logos/CANAL-ORBE.png" group-title="LAT| ARGENTINA",ARG| CANAL ORBE
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/856705
+#EXTINF:-1 tvg-id="ARG| CIUDAD MAGAZINE" tvg-name="ARG| CIUDAD MAGAZINE" tvg-logo="http://logo.protv.cc/picons/logos/CIUDAD-MAGAZINE.jpeg" group-title="LAT| ARGENTINA",ARG| CIUDAD MAGAZINE
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/26295
+#EXTINF:-1 tvg-id="ar.DeporTV (DEPTV) [100]" tvg-name="ARG| DEPORTV" tvg-logo="http://logo.protv.cc/picons/logos/DEPORTV-.jpeg" group-title="LAT| ARGENTINA",ARG| DEPORTV
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79296
+#EXTINF:-1 tvg-id="ar.DIRECTV Sports HDTV" tvg-name="ARG| DIRECT TV" tvg-logo="http://logo.protv.cc/picons/logos/DIRECT-TV.jpg" group-title="LAT| ARGENTINA",ARG| DIRECT TV
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79295
+#EXTINF:-1 tvg-id="ARG| EL NUEVE HD" tvg-name="ARG| EL NUEVE HD" tvg-logo="http://logo.protv.cc/picons/logos/ELNUEVE.png" group-title="LAT| ARGENTINA",ARG| EL NUEVE HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79306
+#EXTINF:-1 tvg-id="ar.El Trece (Canal 13) (CNL13) [14]" tvg-name="ARG| EL TRECE HD" tvg-logo="http://logo.protv.cc/picons/logos/EL-TRECE-HD.png" group-title="LAT| ARGENTINA",ARG| EL TRECE HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79305
+#EXTINF:-1 tvg-id="ar.Encuentro (ENCU) [19]" tvg-name="ARG| ENCUENTRO" tvg-logo="http://logo.protv.cc/picons/logos/ENCUENTRO-.png" group-title="LAT| ARGENTINA",ARG| ENCUENTRO
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79292
+#EXTINF:-1 tvg-id="ar.ESPN Extra Latin America" tvg-name="ARG| ESPN ARGENTINA" tvg-logo="http://logo.protv.cc/picons/logos/espn.png" group-title="LAT| ARGENTINA",ARG| ESPN ARGENTINA
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79291
+#EXTINF:-1 tvg-id="" tvg-name="ARG| ESPN EXTRA" tvg-logo="http://logo.protv.cc/picons/logos/espnextra.png" group-title="LAT| ARGENTINA",ARG| ESPN EXTRA
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926536
+#EXTINF:-1 tvg-id="" tvg-name="ARG| ESPN PREMIUM" tvg-logo="http://logo.protv.cc/picons/logos/ESPN-PREMIUM.png" group-title="LAT| ARGENTINA",ARG| ESPN PREMIUM
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926450
+#EXTINF:-1 tvg-id="ar.ESPN Latin South Sur (ESPNS) [104]" tvg-name="ARG| ESPN HD" tvg-logo="https://imageserver.one/logos/ESPN_HD.png" group-title="LAT| ARGENTINA",ARG| ESPN HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/436980
+#EXTINF:-1 tvg-id="ar.ESPN2[1622]" tvg-name="ARG| ESPN 2 HD" tvg-logo="https://imageserver.one/logos/ESPN_2_HD.png" group-title="LAT| ARGENTINA",ARG| ESPN 2 HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/436982
+#EXTINF:-1 tvg-id="la.ESPN 3" tvg-name="ARG| ESPN 3 HD" tvg-logo="https://imageserver.one/logos/ESPN_3.png" group-title="LAT| ARGENTINA",ARG| ESPN 3 HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/436983
+#EXTINF:-1 tvg-id="" tvg-name="ARG| EWTN" tvg-logo="http://logo.protv.cc/picons/logos/ewtn.png" group-title="LAT| ARGENTINA",ARG| EWTN
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/856706
+#EXTINF:-1 tvg-id="" tvg-name="ARG| A&E MUNDO" tvg-logo="http://logo.protv.cc/picons/logos/A&E_HD.png" group-title="LAT| ARGENTINA",ARG| A&E MUNDO
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926589
+#EXTINF:-1 tvg-id="" tvg-name="ARG| A24" tvg-logo="http://logo.protv.cc/picons/logos/A24-TV.png" group-title="LAT| ARGENTINA",ARG| A24
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926588
+#EXTINF:-1 tvg-id="" tvg-name="ARG| A3CINE" tvg-logo="http://logo.protv.cc/picons/logos/A3CINE.jpeg" group-title="LAT| ARGENTINA",ARG| A3CINE
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926587
+#EXTINF:-1 tvg-id="" tvg-name="ARG| AL JAZEERA" tvg-logo="http://logo.protv.cc/picons/logos/aljazeera.png" group-title="LAT| ARGENTINA",ARG| AL JAZEERA
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926586
+#EXTINF:-1 tvg-id="" tvg-name="ARG| ALLEGRO" tvg-logo="http://logo.protv.cc/picons/logos/ALLEGRO-TV.png" group-title="LAT| ARGENTINA",ARG| ALLEGRO
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926585
+#EXTINF:-1 tvg-id="" tvg-name="ARG| AMC" tvg-logo="http://logo.protv.cc/picons/logos/amc.png" group-title="LAT| ARGENTINA",ARG| AMC
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926584
+#EXTINF:-1 tvg-id="" tvg-name="ARG| AMERICA 2" tvg-logo="http://logo.protv.cc/picons/logos/AMERICA-2-TV.png" group-title="LAT| ARGENTINA",ARG| AMERICA 2
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926583
+#EXTINF:-1 tvg-id="" tvg-name="ARG| AMERICA SPORTS SATELITAL" tvg-logo="http://logo.protv.cc/picons/logos/AMERICA-SPORTS-SATELITAL.jpeg" group-title="LAT| ARGENTINA",ARG| AMERICA SPORTS SATELITAL
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926582
+#EXTINF:-1 tvg-id="" tvg-name="ARG| ANIMAL PLANET" tvg-logo="http://logo.protv.cc/picons/logos/ANIMAL-PLANET-HD.png" group-title="LAT| ARGENTINA",ARG| ANIMAL PLANET
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926581
+#EXTINF:-1 tvg-id="" tvg-name="ARG| ANTENA3" tvg-logo="http://logo.protv.cc/picons/logos/antena3.png" group-title="LAT| ARGENTINA",ARG| ANTENA3
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926580
+#EXTINF:-1 tvg-id="" tvg-name="ARG| ARGENTINISIMA SATELITAL" tvg-logo="http://logo.protv.cc/picons/logos/ARGENTINISIMA-SATELITAL.jpeg" group-title="LAT| ARGENTINA",ARG| ARGENTINISIMA SATELITAL
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926579
+#EXTINF:-1 tvg-id="" tvg-name="ARG| ARIRANG" tvg-logo="http://logo.protv.cc/picons/logos/ARIRANG.png" group-title="LAT| ARGENTINA",ARG| ARIRANG
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926578
+#EXTINF:-1 tvg-id="" tvg-name="ARG| ATRESERIES" tvg-logo="http://logo.protv.cc/picons/logos/atreseries.png" group-title="LAT| ARGENTINA",ARG| ATRESERIES
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926577
+#EXTINF:-1 tvg-id="" tvg-name="ARG| AXN" tvg-logo="http://logo.protv.cc/picons/logos/axn.png" group-title="LAT| ARGENTINA",ARG| AXN
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926576
+#EXTINF:-1 tvg-id="" tvg-name="ARG| BABY TV" tvg-logo="http://logo.protv.cc/picons/logos/babytv.png" group-title="LAT| ARGENTINA",ARG| BABY TV
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926575
+#EXTINF:-1 tvg-id="" tvg-name="ARG| BAND INTERNACIONAL" tvg-logo="http://logo.protv.cc/picons/logos/BAND-INTERNACIONAL.png" group-title="LAT| ARGENTINA",ARG| BAND INTERNACIONAL
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926574
+#EXTINF:-1 tvg-id="" tvg-name="ARG| BBC WORLD" tvg-logo="http://logo.protv.cc/picons/logos/bbcworld.png" group-title="LAT| ARGENTINA",ARG| BBC WORLD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926573
+#EXTINF:-1 tvg-id="" tvg-name="ARG| BLOOMBERG" tvg-logo="http://logo.protv.cc/picons/logos/bloomberg.png" group-title="LAT| ARGENTINA",ARG| BLOOMBERG
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926572
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CANAL 90" tvg-logo="http://logo.protv.cc/picons/logos/CANAL-90.png" group-title="LAT| ARGENTINA",ARG| CANAL 90
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926571
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CANAL DE LA MUSICA" tvg-logo="http://logo.protv.cc/picons/logos/CANAL-DE-LA-MUSICA.jpeg" group-title="LAT| ARGENTINA",ARG| CANAL DE LA MUSICA
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926568
+#EXTINF:-1 tvg-id="AR - FOX Sports Premium" tvg-name="ARG| FOX SPORTS PREMIUM" tvg-logo="http://logo.protv.cc/picons/logos/FOX-SPORTS-PREMIUM.png" group-title="LAT| ARGENTINA",ARG| FOX SPORTS PREMIUM
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79300
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CANAL A" tvg-logo="http://logo.protv.cc/picons/logos/CANAL-A.jpeg" group-title="LAT| ARGENTINA",ARG| CANAL A
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926570
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CANAL DE LA CIUDAD" tvg-logo="http://logo.protv.cc/picons/logos/CANAL-DE-LA-CIUDAD.png" group-title="LAT| ARGENTINA",ARG| CANAL DE LA CIUDAD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926569
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CANAL DE LAS ESTRELLAS" tvg-logo="http://logo.protv.cc/picons/logos/CANAL-DE-LAS-ESTRELLAS.png" group-title="LAT| ARGENTINA",ARG| CANAL DE LAS ESTRELLAS
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926567
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CANAL LUZ" tvg-logo="http://logo.protv.cc/picons/logos/CANAL-LUZ.jpeg" group-title="LAT| ARGENTINA",ARG| CANAL LUZ
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926566
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CANAL ORBE 21" tvg-logo="http://logo.protv.cc/picons/logos/canalorbe21.png" group-title="LAT| ARGENTINA",ARG| CANAL ORBE 21
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926565
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CANAL RURAL" tvg-logo="http://logo.protv.cc/picons/logos/Canal_Rural.png" group-title="LAT| ARGENTINA",ARG| CANAL RURAL
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926564
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CANAL SANTA MARÍA" tvg-logo="http://logo.protv.cc/picons/logos/CANAL-SANTA-MARIA.jpeg" group-title="LAT| ARGENTINA",ARG| CANAL SANTA MARÍA
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926563
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CANAL UNIVERSIDAD DE LA PLATA" tvg-logo="http://logo.protv.cc/picons/logos/CANAL-UNIVERSIDAD.png" group-title="LAT| ARGENTINA",ARG| CANAL UNIVERSIDAD DE LA PLATA
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926562
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CARTOON NETWORK" tvg-logo="http://logo.protv.cc/picons/logos/CARTOON-NETWORK-HD.png" group-title="LAT| ARGENTINA",ARG| CARTOON NETWORK
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926561
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CARTOONITO" tvg-logo="http://logo.protv.cc/picons/logos/cartoonito.png" group-title="LAT| ARGENTINA",ARG| CARTOONITO
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926560
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CHACRA TV" tvg-logo="http://logo.protv.cc/picons/logos/CHACRA-TV.png" group-title="LAT| ARGENTINA",ARG| CHACRA TV
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926559
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CINE.AR" tvg-logo="http://logo.protv.cc/picons/logos/CINE-AR.png" group-title="LAT| ARGENTINA",ARG| CINE.AR
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926558
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CINECANAL" tvg-logo="http://logo.protv.cc/picons/logos/laz.cinecanal.png" group-title="LAT| ARGENTINA",ARG| CINECANAL
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926557
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CINEMAX" tvg-logo="http://logo.protv.cc/picons/logos/CINEMAX-HD.png" group-title="LAT| ARGENTINA",ARG| CINEMAX
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926556
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CNN" tvg-logo="http://logo.protv.cc/picons/logos/CNN.jpg" group-title="LAT| ARGENTINA",ARG| CNN
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926555
+#EXTINF:-1 tvg-id="" tvg-name="ARG| COMEDY CENTRAL" tvg-logo="http://logo.protv.cc/picons/logos/comedycentral.png" group-title="LAT| ARGENTINA",ARG| COMEDY CENTRAL
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926553
+#EXTINF:-1 tvg-id="" tvg-name="ARG| CRONICA" tvg-logo="http://logo.protv.cc/picons/logos/CRONICA.png" group-title="LAT| ARGENTINA",ARG| CRONICA
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926552
+#EXTINF:-1 tvg-id="" tvg-name="ARG| DEUTSCHE WELLE" tvg-logo="http://logo.protv.cc/picons/logos/deutschewelle.png" group-title="LAT| ARGENTINA",ARG| DEUTSCHE WELLE
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926550
+#EXTINF:-1 tvg-id="" tvg-name="ARG| DIPUTADOS TV" tvg-logo="http://logo.protv.cc/picons/logos/DIPUTADOS-TV.png" group-title="LAT| ARGENTINA",ARG| DIPUTADOS TV
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926549
+#EXTINF:-1 tvg-id="" tvg-name="ARG| DISC TURBO" tvg-logo="http://logo.protv.cc/picons/logos/discturbo.png" group-title="LAT| ARGENTINA",ARG| DISC TURBO
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926548
+#EXTINF:-1 tvg-id="" tvg-name="ARG| DISCOVERY" tvg-logo="http://logo.protv.cc/picons/logos/027discovery.png" group-title="LAT| ARGENTINA",ARG| DISCOVERY
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926547
+#EXTINF:-1 tvg-id="" tvg-name="ARG| DISCOVERY THEATER" tvg-logo="http://logo.protv.cc/picons/logos/laz.discoverytheater.png" group-title="LAT| ARGENTINA",ARG| DISCOVERY THEATER
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926546
+#EXTINF:-1 tvg-id="" tvg-name="ARG| DISCOVERY ID" tvg-logo="http://logo.protv.cc/picons/logos/discoveryid.png" group-title="LAT| ARGENTINA",ARG| DISCOVERY ID
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926545
+#EXTINF:-1 tvg-id="" tvg-name="ARG| DISCOVERY KIDS" tvg-logo="http://logo.protv.cc/picons/logos/DISCOVERY-KIDS-HD.jpg" group-title="LAT| ARGENTINA",ARG| DISCOVERY KIDS
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926544
+#EXTINF:-1 tvg-id="" tvg-name="ARG| DISCOVERY SCIENCE" tvg-logo="http://logo.protv.cc/picons/logos/DISCOVERY-SCIENCE--.png" group-title="LAT| ARGENTINA",ARG| DISCOVERY SCIENCE
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926543
+#EXTINF:-1 tvg-id="" tvg-name="ARG| DISCOVERY TLC" tvg-logo="http://logo.protv.cc/picons/logos/discoverytlc.png" group-title="LAT| ARGENTINA",ARG| DISCOVERY TLC
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926542
+#EXTINF:-1 tvg-id="" tvg-name="ARG| DISCOVERY WORLD" tvg-logo="http://logo.protv.cc/picons/logos/discoveryworld.png" group-title="LAT| ARGENTINA",ARG| DISCOVERY WORLD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926541
+#EXTINF:-1 tvg-id="" tvg-name="ARG| DISNEY" tvg-logo="http://logo.protv.cc/picons/logos/disney.png" group-title="LAT| ARGENTINA",ARG| DISNEY
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926540
+#EXTINF:-1 tvg-id="" tvg-name="ARG| DISNEY JR" tvg-logo="http://logo.protv.cc/picons/logos/disneyjr.png" group-title="LAT| ARGENTINA",ARG| DISNEY JR
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926539
+#EXTINF:-1 tvg-id="" tvg-name="ARG| E!" tvg-logo="http://logo.protv.cc/picons/logos/E!-.png" group-title="LAT| ARGENTINA",ARG| E!
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926538
+#EXTINF:-1 tvg-id="" tvg-name="ARG| EL GOURMET" tvg-logo="http://logo.protv.cc/picons/logos/laz.Elgourmet.png" group-title="LAT| ARGENTINA",ARG| EL GOURMET
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926537
+#EXTINF:-1 tvg-id="" tvg-name="ARG| EUROCHANNEL" tvg-logo="http://logo.protv.cc/picons/logos/eurochannel.png" group-title="LAT| ARGENTINA",ARG| EUROCHANNEL
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926535
+#EXTINF:-1 tvg-id="" tvg-name="ARG| EURONEWS" tvg-logo="http://logo.protv.cc/picons/logos/euronews.png" group-title="LAT| ARGENTINA",ARG| EURONEWS
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926534
+#EXTINF:-1 tvg-id="" tvg-name="ARG| EVENTOS 1" tvg-logo="http://logo.protv.cc/picons/logos/EVENTOS%20(1).png" group-title="LAT| ARGENTINA",ARG| EVENTOS 1
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926533
+#EXTINF:-1 tvg-id="" tvg-name="ARG| EVENTOS 2" tvg-logo="http://logo.protv.cc/picons/logos/EVENTOS%20(2).png" group-title="LAT| ARGENTINA",ARG| EVENTOS 2
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926532
+#EXTINF:-1 tvg-id="" tvg-name="ARG| FILM&ARTS" tvg-logo="http://logo.protv.cc/picons/logos/FILM-ARTS.png" group-title="LAT| ARGENTINA",ARG| FILM&ARTS
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926531
+#EXTINF:-1 tvg-id="" tvg-name="ARG| FLOW GAMING" tvg-logo="http://logo.protv.cc/picons/logos/FLOW-GAMING.jpeg" group-title="LAT| ARGENTINA",ARG| FLOW GAMING
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926530
+#EXTINF:-1 tvg-id="" tvg-name="ARG| FLOW MUSIC" tvg-logo="http://logo.protv.cc/picons/logos/FLOW-MUSIC.jpeg" group-title="LAT| ARGENTINA",ARG| FLOW MUSIC
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926529
+#EXTINF:-1 tvg-id="" tvg-name="ARG| FOOD NETWORK" tvg-logo="http://logo.protv.cc/picons/logos/FOOD%20NETWORK.png" group-title="LAT| ARGENTINA",ARG| FOOD NETWORK
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926528
+#EXTINF:-1 tvg-id="" tvg-name="ARG| FOX NEWS" tvg-logo="http://logo.protv.cc/picons/logos/foxnews.png" group-title="LAT| ARGENTINA",ARG| FOX NEWS
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926527
+#EXTINF:-1 tvg-id="" tvg-name="ARG| FRANCE 24" tvg-logo="http://logo.protv.cc/picons/logos/france24.png" group-title="LAT| ARGENTINA",ARG| FRANCE 24
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926526
+#EXTINF:-1 tvg-id="" tvg-name="ARG| FX" tvg-logo="http://logo.protv.cc/picons/logos/fx.png" group-title="LAT| ARGENTINA",ARG| FX
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926524
+#EXTINF:-1 tvg-id="" tvg-name="ARG| GALICIA TV" tvg-logo="http://logo.protv.cc/picons/logos/galicia.png" group-title="LAT| ARGENTINA",ARG| GALICIA TV
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926523
+#EXTINF:-1 tvg-id="" tvg-name="ARG| GLITZ" tvg-logo="http://logo.protv.cc/picons/logos/laz.Glitz.png" group-title="LAT| ARGENTINA",ARG| GLITZ
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926522
+#EXTINF:-1 tvg-id="" tvg-name="ARG| GOLF CHANNEL" tvg-logo="http://logo.protv.cc/picons/logos/golfchannel.jpeg" group-title="LAT| ARGENTINA",ARG| GOLF CHANNEL
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926521
+#EXTINF:-1 tvg-id="" tvg-name="ARG| H2" tvg-logo="http://logo.protv.cc/picons/logos/h2.jpg" group-title="LAT| ARGENTINA",ARG| H2
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926520
+#EXTINF:-1 tvg-id="" tvg-name="ARG| HGTV" tvg-logo="http://logo.protv.cc/picons/logos/hgtv.png" group-title="LAT| ARGENTINA",ARG| HGTV
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926519
+#EXTINF:-1 tvg-id="" tvg-name="ARG| HISTORY" tvg-logo="http://logo.protv.cc/picons/logos/history.png" group-title="LAT| ARGENTINA",ARG| HISTORY
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926518
+#EXTINF:-1 tvg-id="" tvg-name="ARG| HOLA TV" tvg-logo="http://logo.protv.cc/picons/logos/laz.holatv.png" group-title="LAT| ARGENTINA",ARG| HOLA TV
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926517
+#EXTINF:-1 tvg-id="" tvg-name="ARG| HOME AND HEALTH" tvg-logo="http://logo.protv.cc/picons/logos/homeandhealth.png" group-title="LAT| ARGENTINA",ARG| HOME AND HEALTH
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926516
+#EXTINF:-1 tvg-id="" tvg-name="ARG| HTV" tvg-logo="http://logo.protv.cc/picons/logos/HTV-ARG.png" group-title="LAT| ARGENTINA",ARG| HTV
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926515
+#EXTINF:-1 tvg-id="" tvg-name="ARG| I-SAT" tvg-logo="http://logo.protv.cc/picons/logos/ISAT.png" group-title="LAT| ARGENTINA",ARG| I-SAT
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926514
+#EXTINF:-1 tvg-id="" tvg-name="ARG| IP" tvg-logo="http://logo.protv.cc/picons/logos/fip.png" group-title="LAT| ARGENTINA",ARG| IP
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926513
+#EXTINF:-1 tvg-id="" tvg-name="ARG| KZO" tvg-logo="http://logo.protv.cc/picons/logos/KZO-TV-ARG.jpeg" group-title="LAT| ARGENTINA",ARG| KZO
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926512
+#EXTINF:-1 tvg-id="" tvg-name="ARG| LA NACION" tvg-logo="http://logo.protv.cc/picons/logos/LA-NACION-TV-ARG.jpeg" group-title="LAT| ARGENTINA",ARG| LA NACION
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926511
+#EXTINF:-1 tvg-id="" tvg-name="ARG| LIFETIME" tvg-logo="http://logo.protv.cc/picons/logos/lifetime.jpg" group-title="LAT| ARGENTINA",ARG| LIFETIME
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926510
+#EXTINF:-1 tvg-id="" tvg-name="ARG| MANIJOMIO" tvg-logo="http://logo.protv.cc/picons/logos/MANIJOMIO-TV-ARG.png" group-title="LAT| ARGENTINA",ARG| MANIJOMIO
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926509
+#EXTINF:-1 tvg-id="" tvg-name="ARG| MAS CHIC" tvg-logo="http://logo.protv.cc/picons/logos/laz.maschic.png" group-title="LAT| ARGENTINA",ARG| MAS CHIC
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926508
+#EXTINF:-1 tvg-id="" tvg-name="ARG| METRO" tvg-logo="http://logo.protv.cc/picons/logos/metro.png" group-title="LAT| ARGENTINA",ARG| METRO
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926507
+#EXTINF:-1 tvg-id="" tvg-name="ARG| MTV 00S" tvg-logo="http://logo.protv.cc/picons/logos/MTV-00s.jpeg" group-title="LAT| ARGENTINA",ARG| MTV 00S
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926506
+#EXTINF:-1 tvg-id="" tvg-name="ARG| MTV" tvg-logo="http://logo.protv.cc/picons/logos/MTV-HD.png" group-title="LAT| ARGENTINA",ARG| MTV
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926505
+#EXTINF:-1 tvg-id="" tvg-name="ARG| MTV HITS" tvg-logo="http://logo.protv.cc/picons/logos/mtvhits.png" group-title="LAT| ARGENTINA",ARG| MTV HITS
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926504
+#EXTINF:-1 tvg-id="" tvg-name="ARG| MUCHMUSIC" tvg-logo="http://logo.protv.cc/picons/logos/muchmusic.png" group-title="LAT| ARGENTINA",ARG| MUCHMUSIC
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926503
+#EXTINF:-1 tvg-id="" tvg-name="ARG| NBA TV" tvg-logo="http://logo.protv.cc/picons/logos/nbatv.png" group-title="LAT| ARGENTINA",ARG| NBA TV
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926502
+#EXTINF:-1 tvg-id="" tvg-name="ARG| NET TV" tvg-logo="http://logo.protv.cc/picons/logos/nettv.jpg" group-title="LAT| ARGENTINA",ARG| NET TV
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926501
+#EXTINF:-1 tvg-id="" tvg-name="ARG| NGC" tvg-logo="http://logo.protv.cc/picons/logos/ngc.png" group-title="LAT| ARGENTINA",ARG| NGC
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926500
+#EXTINF:-1 tvg-id="" tvg-name="ARG| NICK JR." tvg-logo="http://logo.protv.cc/picons/logos/nickjr.png" group-title="LAT| ARGENTINA",ARG| NICK JR.
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926499
+#EXTINF:-1 tvg-id="" tvg-name="ARG| NICKELODEON" tvg-logo="http://logo.protv.cc/picons/logos/nickelodeon.png" group-title="LAT| ARGENTINA",ARG| NICKELODEON
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926498
+#EXTINF:-1 tvg-id="ar.Fox Sports Argentina (Cono Sur) (FOXSP) [101]" tvg-name="ARG| FOX SPORTS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/FOX-SPORTS-1-HD.png" group-title="LAT| ARGENTINA",ARG| FOX SPORTS 1 HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79290
+#EXTINF:-1 tvg-id="ar.Fox Sports 2 Latin America (Cono Sur) (FOXSP2) [102]" tvg-name="ARG| FOX SPORTS 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/FOX-SPORTS-2-HD.png" group-title="LAT| ARGENTINA",ARG| FOX SPORTS 2 HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79289
+#EXTINF:-1 tvg-id="ar.Fox Sports 3 (Cono Sur) (FOXSP3) [103]" tvg-name="ARG| FOX SPORTS 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/foxsports3hd.png" group-title="LAT| ARGENTINA",ARG| FOX SPORTS 3 HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79288
+#EXTINF:-1 tvg-id="" tvg-name="ARG| NICKMUSIC" tvg-logo="http://logo.protv.cc/picons/logos/nickmusic.png" group-title="LAT| ARGENTINA",ARG| NICKMUSIC
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926497
+#EXTINF:-1 tvg-id="" tvg-name="ARG| NUEVA IMAGEN" tvg-logo="http://logo.protv.cc/picons/logos/NUEVA-IMAGEN-TV.jpeg" group-title="LAT| ARGENTINA",ARG| NUEVA IMAGEN
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926496
+#EXTINF:-1 tvg-id="" tvg-name="ARG| PAKAPAKA" tvg-logo="http://logo.protv.cc/picons/logos/ARGENTINA-PAKAPAKA.jpg" group-title="LAT| ARGENTINA",ARG| PAKAPAKA
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926495
+#EXTINF:-1 tvg-id="" tvg-name="ARG| PARAMOUNT" tvg-logo="http://logo.protv.cc/picons/logos/paramount.png" group-title="LAT| ARGENTINA",ARG| PARAMOUNT
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926494
+#EXTINF:-1 tvg-id="" tvg-name="ARG| PASIONES" tvg-logo="http://logo.protv.cc/picons/logos/laz.pasioneshd.png" group-title="LAT| ARGENTINA",ARG| PASIONES
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926493
+#EXTINF:-1 tvg-id="" tvg-name="ARG| PX SPORTS" tvg-logo="http://logo.protv.cc/picons/logos/PX-SPORTS-TV.png" group-title="LAT| ARGENTINA",ARG| PX SPORTS
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926492
+#EXTINF:-1 tvg-id="" tvg-name="ARG| QUIERO" tvg-logo="http://logo.protv.cc/picons/logos/QUIERO-TV-ARG.png" group-title="LAT| ARGENTINA",ARG| QUIERO
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926491
+#EXTINF:-1 tvg-id="" tvg-name="ARG| RAI" tvg-logo="http://logo.protv.cc/picons/logos/RAI-TV.png" group-title="LAT| ARGENTINA",ARG| RAI
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926490
+#EXTINF:-1 tvg-id="" tvg-name="ARG| SOMOS" tvg-logo="http://logo.protv.cc/picons/logos/somos.png" group-title="LAT| ARGENTINA",ARG| SOMOS
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926489
+#EXTINF:-1 tvg-id="" tvg-name="ARG| SOMOS BAHIA" tvg-logo="http://logo.protv.cc/picons/logos/SOMOS-BAHIA-TV-ARG.jpeg" group-title="LAT| ARGENTINA",ARG| SOMOS BAHIA
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926488
+#EXTINF:-1 tvg-id="" tvg-name="ARG| SOMOS CHACO" tvg-logo="http://logo.protv.cc/picons/logos/SOMOS-CHACO-TV-ARG.jpeg" group-title="LAT| ARGENTINA",ARG| SOMOS CHACO
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926487
+#EXTINF:-1 tvg-id="" tvg-name="ARG| SOMOS CORRIENTES" tvg-logo="http://logo.protv.cc/picons/logos/SOMOS-CORRIENTES-TV-ARG.jpeg" group-title="LAT| ARGENTINA",ARG| SOMOS CORRIENTES
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926486
+#EXTINF:-1 tvg-id="" tvg-name="ARG| SOMOS EL VALLE" tvg-logo="http://logo.protv.cc/picons/logos/SOMOS-EL-VALLE-TV-ARG.jpeg" group-title="LAT| ARGENTINA",ARG| SOMOS EL VALLE
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926485
+#EXTINF:-1 tvg-id="" tvg-name="ARG| SOMOS ENTRE RIOS" tvg-logo="http://logo.protv.cc/picons/logos/SOMOS-ENTRE-RIOS-TV-ARG.png" group-title="LAT| ARGENTINA",ARG| SOMOS ENTRE RIOS
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926484
+#EXTINF:-1 tvg-id="" tvg-name="ARG| SOMOS LA PLATA" tvg-logo="http://logo.protv.cc/picons/logos/SOMOS-LA-PLATA-TV-ARG.png" group-title="LAT| ARGENTINA",ARG| SOMOS LA PLATA
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926483
+#EXTINF:-1 tvg-id="" tvg-name="ARG| SOMOS MAR DEL PLATA" tvg-logo="http://logo.protv.cc/picons/logos/SOMOS-MAR-DEL-PLATA-TV-ARG.jpeg" group-title="LAT| ARGENTINA",ARG| SOMOS MAR DEL PLATA
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926482
+#EXTINF:-1 tvg-id="" tvg-name="ARG| SOMOS MISIONES" tvg-logo="http://logo.protv.cc/picons/logos/SOMOS-MISIONES-TV-ARG.jpeg" group-title="LAT| ARGENTINA",ARG| SOMOS MISIONES
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926481
+#EXTINF:-1 tvg-id="" tvg-name="ARG| SOMOS RAFAELA" tvg-logo="http://logo.protv.cc/picons/logos/SOMOS-RAFAELA-TV-ARG%20(1).jpeg" group-title="LAT| ARGENTINA",ARG| SOMOS RAFAELA
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926480
+#EXTINF:-1 tvg-id="" tvg-name="ARG| SOMOS ROSARIO" tvg-logo="http://logo.protv.cc/picons/logos/SOMOS-ROSARIO-TV-ARG.jpeg" group-title="LAT| ARGENTINA",ARG| SOMOS ROSARIO
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926479
+#EXTINF:-1 tvg-id="" tvg-name="ARG| SOMOS RÍO CUARTO" tvg-logo="http://logo.protv.cc/picons/logos/SOMOS-RIO-CUARTO-TV-ARG.jpeg" group-title="LAT| ARGENTINA",ARG| SOMOS RÍO CUARTO
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926478
+#EXTINF:-1 tvg-id="" tvg-name="ARG| SOMOS SALTA-JUJUY" tvg-logo="http://logo.protv.cc/picons/logos/SOMOS-SALTA-JUJUY-TV-ARG.jpeg" group-title="LAT| ARGENTINA",ARG| SOMOS SALTA-JUJUY
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926477
+#EXTINF:-1 tvg-id="" tvg-name="ARG| SOMOS SANTA FE" tvg-logo="http://logo.protv.cc/picons/logos/SOMOS-SANTA-FE-TV-ARG.jpeg" group-title="LAT| ARGENTINA",ARG| SOMOS SANTA FE
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926476
+#EXTINF:-1 tvg-id="" tvg-name="ARG| SONY" tvg-logo="http://logo.protv.cc/picons/logos/laz.sony.png" group-title="LAT| ARGENTINA",ARG| SONY
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926475
+#EXTINF:-1 tvg-id="" tvg-name="ARG| SPACE" tvg-logo="http://logo.protv.cc/picons/logos/laz.space.png" group-title="LAT| ARGENTINA",ARG| SPACE
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926474
+#EXTINF:-1 tvg-id="" tvg-name="ARG| STAR CHANNEL" tvg-logo="http://logo.protv.cc/picons/logos/starchannel.png" group-title="LAT| ARGENTINA",ARG| STAR CHANNEL
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926473
+#EXTINF:-1 tvg-id="" tvg-name="ARG| STUDIO UNIVERSAL" tvg-logo="http://logo.protv.cc/picons/logos/laz.studiouniversalhd.png" group-title="LAT| ARGENTINA",ARG| STUDIO UNIVERSAL
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926472
+#EXTINF:-1 tvg-id="" tvg-name="ARG| SUN CHANNEL" tvg-logo="http://logo.protv.cc/picons/logos/sunchannel.png" group-title="LAT| ARGENTINA",ARG| SUN CHANNEL
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926471
+#EXTINF:-1 tvg-id="" tvg-name="ARG| SY FY" tvg-logo="http://logo.protv.cc/picons/logos/SYFY-HD.png" group-title="LAT| ARGENTINA",ARG| SY FY
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926470
+#EXTINF:-1 tvg-id="" tvg-name="ARG| TBS" tvg-logo="http://logo.protv.cc/picons/logos/TBS-HD.png" group-title="LAT| ARGENTINA",ARG| TBS
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926469
+#EXTINF:-1 tvg-id="" tvg-name="ARG| TCM" tvg-logo="http://logo.protv.cc/picons/logos/TCM.jpg" group-title="LAT| ARGENTINA",ARG| TCM
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926468
+#EXTINF:-1 tvg-id="" tvg-name="ARG| TELEMUNDO" tvg-logo="http://logo.protv.cc/picons/logos/TELEMUNDO-.jpeg" group-title="LAT| ARGENTINA",ARG| TELEMUNDO
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926467
+#EXTINF:-1 tvg-id="" tvg-name="ARG| TELESUR" tvg-logo="http://logo.protv.cc/picons/logos/telesur.png" group-title="LAT| ARGENTINA",ARG| TELESUR
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926466
+#EXTINF:-1 tvg-id="" tvg-name="ARG| TNT" tvg-logo="http://logo.protv.cc/picons/logos/tnt.png" group-title="LAT| ARGENTINA",ARG| TNT
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926465
+#EXTINF:-1 tvg-id="" tvg-name="ARG| TNT SERIES" tvg-logo="http://logo.protv.cc/picons/logos/TNT-SERIE-HD.png" group-title="LAT| ARGENTINA",ARG| TNT SERIES
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926464
+#EXTINF:-1 tvg-id="" tvg-name="ARG| TOONCAST" tvg-logo="http://logo.protv.cc/picons/logos/TOONCAST-HD.png" group-title="LAT| ARGENTINA",ARG| TOONCAST
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926463
+#EXTINF:-1 tvg-id="" tvg-name="ARG| TRU TV" tvg-logo="http://logo.protv.cc/picons/logos/TRUTV-HD.jpg" group-title="LAT| ARGENTINA",ARG| TRU TV
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926462
+#EXTINF:-1 tvg-id="" tvg-name="ARG| TV 5" tvg-logo="http://logo.protv.cc/picons/logos/tv5.png" group-title="LAT| ARGENTINA",ARG| TV 5
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926461
+#EXTINF:-1 tvg-id="" tvg-name="ARG| TVE" tvg-logo="http://logo.protv.cc/picons/logos/tve.png" group-title="LAT| ARGENTINA",ARG| TVE
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926460
+#EXTINF:-1 tvg-id="" tvg-name="ARG| UCL" tvg-logo="http://logo.protv.cc/picons/logos/UCL-TV.png" group-title="LAT| ARGENTINA",ARG| UCL
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926458
+#EXTINF:-1 tvg-id="" tvg-name="ARG| UNIVERSAL CHANNEL" tvg-logo="http://logo.protv.cc/picons/logos/universalchannel.png" group-title="LAT| ARGENTINA",ARG| UNIVERSAL CHANNEL
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926457
+#EXTINF:-1 tvg-id="" tvg-name="ARG| VIAJAR" tvg-logo="http://logo.protv.cc/picons/logos/viajar.png" group-title="LAT| ARGENTINA",ARG| VIAJAR
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926456
+#EXTINF:-1 tvg-id="" tvg-name="ARG| VOLVER" tvg-logo="http://logo.protv.cc/picons/logos/VOLVER-TV-ARG.jpeg" group-title="LAT| ARGENTINA",ARG| VOLVER
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926455
+#EXTINF:-1 tvg-id="" tvg-name="ARG| VORTERIX" tvg-logo="http://logo.protv.cc/picons/logos/VORTERIX-TV-ARG.jpeg" group-title="LAT| ARGENTINA",ARG| VORTERIX
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926454
+#EXTINF:-1 tvg-id="" tvg-name="ARG| WARNER" tvg-logo="http://logo.protv.cc/picons/logos/laz.Warnerhd.png" group-title="LAT| ARGENTINA",ARG| WARNER
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926453
+#EXTINF:-1 tvg-id="" tvg-name="ARG| WOBI" tvg-logo="http://logo.protv.cc/picons/logos/laz.Wobi-HD.png" group-title="LAT| ARGENTINA",ARG| WOBI
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926452
+#EXTINF:-1 tvg-id="" tvg-name="ARG| INFO FLOW" tvg-logo="http://logo.protv.cc/picons/logos/INFO-FLOW-TV-ARG.png" group-title="LAT| ARGENTINA",ARG| INFO FLOW
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926451
+#EXTINF:-1 tvg-id="" tvg-name="ARG| TNT SPORTS" tvg-logo="http://logo.protv.cc/picons/logos/laz.TNT_Sports.png" group-title="LAT| ARGENTINA",ARG| TNT SPORTS
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926449
+#EXTINF:-1 tvg-id="" tvg-name="ARG| DISNEY XD" tvg-logo="http://logo.protv.cc/picons/logos/disneyxd.png" group-title="LAT| ARGENTINA",ARG| DISNEY XD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926448
+#EXTINF:-1 tvg-id="" tvg-name="ARG| HBO" tvg-logo="http://logo.protv.cc/picons/logos/hbo.png" group-title="LAT| ARGENTINA",ARG| HBO
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926447
+#EXTINF:-1 tvg-id="" tvg-name="ARG| HBO 2" tvg-logo="http://logo.protv.cc/picons/logos/hbo2.png" group-title="LAT| ARGENTINA",ARG| HBO 2
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926446
+#EXTINF:-1 tvg-id="" tvg-name="ARG| HBO PLUS" tvg-logo="http://logo.protv.cc/picons/logos/HBO-PLUS.png" group-title="LAT| ARGENTINA",ARG| HBO PLUS
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926445
+#EXTINF:-1 tvg-id="" tvg-name="ARG| HBO MUNDI" tvg-logo="http://logo.protv.cc/picons/logos/HBO-MUNDI.jpeg" group-title="LAT| ARGENTINA",ARG| HBO MUNDI
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926444
+#EXTINF:-1 tvg-id="" tvg-name="ARG| HBO POP" tvg-logo="http://logo.protv.cc/picons/logos/HBO-POP.png" group-title="LAT| ARGENTINA",ARG| HBO POP
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926443
+#EXTINF:-1 tvg-id="" tvg-name="ARG| HBO XTREME" tvg-logo="http://logo.protv.cc/picons/logos/HBO-XTREME.png" group-title="LAT| ARGENTINA",ARG| HBO XTREME
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926442
+#EXTINF:-1 tvg-id="" tvg-name="ARG| HBO FAMILY" tvg-logo="http://logo.protv.cc/picons/logos/HBO-FAMILY-HD.png" group-title="LAT| ARGENTINA",ARG| HBO FAMILY
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926441
+#EXTINF:-1 tvg-id="" tvg-name="ARG| HBO SIGNATURE" tvg-logo="http://logo.protv.cc/picons/logos/HBO-SIGNATURE-HD.png" group-title="LAT| ARGENTINA",ARG| HBO SIGNATURE
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/926440
+#EXTINF:-1 tvg-id="" tvg-name="ARG| EUROPA EUROPA" tvg-logo="http://logo.protv.cc/picons/logos/EUROPA-EUROPA-HD.png" group-title="LAT| ARGENTINA",ARG| EUROPA EUROPA
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/916646
+#EXTINF:-1 tvg-id="ar.El Garage TV - South (Latin America) (GARAG) [108]" tvg-name="ARG| GARAGE TV" tvg-logo="http://logo.protv.cc/picons/logos/garagetv.png" group-title="LAT| ARGENTINA",ARG| GARAGE TV
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79287
+#EXTINF:-1 tvg-id="AR - Gol TV" tvg-name="ARG| GOL TV" tvg-logo="http://logo.protv.cc/picons/logos/GOL-TV.jpg" group-title="LAT| ARGENTINA",ARG| GOL TV
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79304
+#EXTINF:-1 tvg-id="AR - Musictop" tvg-name="ARG| MUSICTOP" tvg-logo="http://logo.protv.cc/picons/logos/musictop.png" group-title="LAT| ARGENTINA",ARG| MUSICTOP
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25314
+#EXTINF:-1 tvg-id="" tvg-name="ARG| TELEFE HD" tvg-logo="http://logo.protv.cc/picons/logos/TELEFE-HD.jpeg" group-title="LAT| ARGENTINA",ARG| TELEFE HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25307
+#EXTINF:-1 tvg-id="ar.Telemax (TLMAX) [2]" tvg-name="ARG| TELEMAX" tvg-logo="http://logo.protv.cc/picons/logos/TELEMAX-.png" group-title="LAT| ARGENTINA",ARG| TELEMAX
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/26290
+#EXTINF:-1 tvg-id="" tvg-name="ARG| TELPIN CANAL 2" tvg-logo="http://logo.protv.cc/picons/logos/TELPIN-CANAL-2-HD.png" group-title="LAT| ARGENTINA",ARG| TELPIN CANAL 2
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25311
+#EXTINF:-1 tvg-id="" tvg-name="ARG| TLX HD" tvg-logo="http://logo.protv.cc/picons/logos/TLX-HD.png" group-title="LAT| ARGENTINA",ARG| TLX HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79286
+#EXTINF:-1 tvg-id="TN.ar" tvg-name="ARG| TN HD" tvg-logo="http://logo.protv.cc/picons/logos/TN-.jpg" group-title="LAT| ARGENTINA",ARG| TN HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79302
+#EXTINF:-1 tvg-id="la.Canal A&E (Latinoamérica)" tvg-name="LAT| A&E" tvg-logo="http://logo.protv.cc/picons/iptvlogos/A&E.png" group-title="LAT| GENERAL",LAT| A&E
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90826
+#EXTINF:-1 tvg-id="LAT| A&E HD" tvg-name="LAT| A&E HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.AyEhd.png" group-title="LAT| GENERAL",LAT| A&E HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25524
+#EXTINF:-1 tvg-id="la.Canal AMC (México)" tvg-name="LAT| AMC" tvg-logo="http://logo.protv.cc/picons/iptvlogos/AMC_HD.png" group-title="LAT| GENERAL",LAT| AMC
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90823
+#EXTINF:-1 tvg-id="LAT| AMC HD" tvg-name="LAT| AMC HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.amchd.png" group-title="LAT| GENERAL",LAT| AMC HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25560
+#EXTINF:-1 tvg-id="la.Animal Planet" tvg-name="LAT| ANIMAL PLANET HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/ANIMAL_PLANET.png" group-title="LAT| GENERAL",LAT| ANIMAL PLANET HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/145414
+#EXTINF:-1 tvg-id="la.Canal ATV" tvg-name="LAT| ATV NOTICIAS HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.ant_noticia.png" group-title="LAT| GENERAL",LAT| ATV NOTICIAS HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/75288
+#EXTINF:-1 tvg-id="la.Canal AXN" tvg-name="LAT| AXN" tvg-logo="http://logo.protv.cc/picons/logos/laz.axn.png" group-title="LAT| GENERAL",LAT| AXN
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25559
+#EXTINF:-1 tvg-id="LAT| AXN HD" tvg-name="LAT| AXN HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/AXN_HD.png" group-title="LAT| GENERAL",LAT| AXN HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90825
+#EXTINF:-1 tvg-id="la.Canal AYM Sports" tvg-name="LAT| AYM SPORTS" tvg-logo="http://logo.protv.cc/picons/logos/laz.AYMSports.png" group-title="LAT| GENERAL",LAT| AYM SPORTS
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90306
+#EXTINF:-1 tvg-id="la.Az Corazón" tvg-name="LAT| AZ CORAZON" tvg-logo="http://logo.protv.cc/picons/logos/laz.azcorazon.png" group-title="LAT| GENERAL",LAT| AZ CORAZON
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/75286
+#EXTINF:-1 tvg-id="la.Canal Azteca Uno" tvg-name="LAT| AZTECA UNO" tvg-logo="http://logo.protv.cc/picons/logos/laz.aztecauno.png" group-title="LAT| GENERAL",LAT| AZTECA UNO
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79350
+#EXTINF:-1 tvg-id="la.Canal Baby TV" tvg-name="LAT| BABY TV" tvg-logo="http://logo.protv.cc/picons/logos/laz.babytv.png" group-title="LAT| GENERAL",LAT| BABY TV
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79396
+#EXTINF:-1 tvg-id="LAT| BABY TV HD" tvg-name="LAT| BABY TV HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/BABY_TV.png" group-title="LAT| GENERAL",LAT| BABY TV HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90817
+#EXTINF:-1 tvg-id="la.BBC World" tvg-name="LAT| BBC WORLD NEWS" tvg-logo="http://logo.protv.cc/picons/logos/laz.BBC_World_News.png" group-title="LAT| GENERAL",LAT| BBC WORLD NEWS
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79394
+#EXTINF:-1 tvg-id="la.El Financiero Bloomberg" tvg-name="LAT| BLOOMBERG" tvg-logo="http://logo.protv.cc/picons/logos/laz.Bloomberg.png" group-title="LAT| GENERAL",LAT| BLOOMBERG
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79393
+#EXTINF:-1 tvg-id="LAT| BLOOMBERG HD" tvg-name="LAT| BLOOMBERG HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/BLOOMBERG_HD.png" group-title="LAT| GENERAL",LAT| BLOOMBERG HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90828
+#EXTINF:-1 tvg-id="la.Bolivia TV" tvg-name="LAT| BOLIVIA TV HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.boliviatv.png" group-title="LAT| GENERAL",LAT| BOLIVIA TV HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/14822
+#EXTINF:-1 tvg-id="" tvg-name="LAT| RED UNO" tvg-logo="http://logo.protv.cc/picons/logos/LATINO/RED-UNO.png" group-title="LAT| GENERAL",LAT| RED UNO
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/1115967
+#EXTINF:-1 tvg-id="la.Tigo Sports" tvg-name="LAT| TIGO SPORTS PLUS PY" tvg-logo="http://logo.protv.cc/picons/logos/TIGO-SPORTS.png" group-title="LAT| GENERAL",LAT| TIGO SPORTS PLUS PY
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/554685
+#EXTINF:-1 tvg-id="" tvg-name="LAT| TIGO SPORTS 1 BO  HD" tvg-logo="http://logo.protv.cc/picons/logos/TIGO-SPORTS.png" group-title="LAT| GENERAL",LAT| TIGO SPORTS 1 BO  HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/389448
+#EXTINF:-1 tvg-id="" tvg-name="LAT| TIGO SPORTS 2 BO  HD" tvg-logo="http://logo.protv.cc/picons/logos/TIGO-SPORTS.png" group-title="LAT| GENERAL",LAT| TIGO SPORTS 2 BO  HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/389449
+#EXTINF:-1 tvg-id="cr.Tigo Sports (Costa Rica) (TIGOSP) [9]" tvg-name="LAT| TIGO SPORTS 3 BO HD" tvg-logo="http://logo.protv.cc/picons/logos/TIGO-SPORTS.png" group-title="LAT| GENERAL",LAT| TIGO SPORTS 3 BO HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/389450
+#EXTINF:-1 tvg-id="la.ATB Red Nacional (CRISTAL) [72]" tvg-name="LAT| RTB BOLIVIA TV" tvg-logo="http://logo.protv.cc/picons/logos/ATB-BOLIVIA-TV.jpg" group-title="LAT| GENERAL",LAT| RTB BOLIVIA TV
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/408199
+#EXTINF:-1 tvg-id="la.Gigavisión Canal 13 (GIGAVIS) [79]" tvg-name="LAT| GIGAVISION BOL" tvg-logo="http://logo.protv.cc/picons/logos/GIGAVISION-BOL.jpg" group-title="LAT| GENERAL",LAT| GIGAVISION BOL
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/408197
+#EXTINF:-1 tvg-id="RTPRedNacional.bo" tvg-name="LAT| RTP BOL" tvg-logo="http://logo.protv.cc/picons/logos/RTP-BOL.png" group-title="LAT| GENERAL",LAT| RTP BOL
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/408195
+#EXTINF:-1 tvg-id="la.UNITEL (UNITEL) [74]" tvg-name="LAT| UNITEL BOL" tvg-logo="http://logo.protv.cc/picons/logos/UNITEL-BOL.png" group-title="LAT| GENERAL",LAT| UNITEL BOL
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/408192
+#EXTINF:-1 tvg-id="la.C9N" tvg-name="LAT| C9N PY" tvg-logo="http://logo.protv.cc/picons/logos/PARAGUAY-TV.png" group-title="LAT| GENERAL",LAT| C9N PY
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/408186
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="LAT| GEN TV PY" tvg-logo="http://logo.protv.cc/picons/logos/GEN-TV-PY.png" group-title="LAT| GENERAL",LAT| GEN TV PY
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/408185
+#EXTINF:-1 tvg-id="la.Canal ATV" tvg-name="LAT| NOTICIAS PY" tvg-logo="http://logo.protv.cc/picons/logos/NOTICIAS-PY.jpg" group-title="LAT| GENERAL",LAT| NOTICIAS PY
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/408180
+#EXTINF:-1 tvg-id="la.Paraguay TV" tvg-name="LAT| PARAGUAY TV" tvg-logo="http://logo.protv.cc/picons/logos/PARAGUAY-TV.png" group-title="LAT| GENERAL",LAT| PARAGUAY TV
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/408179
+#EXTINF:-1 tvg-id="la.Boomerang" tvg-name="LAT| BOOMERANG" tvg-logo="http://logo.protv.cc/picons/logos/laz.Bomerang.png" group-title="LAT| GENERAL",LAT| BOOMERANG
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79392
+#EXTINF:-1 tvg-id="LAT| BOOMERANG HD" tvg-name="LAT| BOOMERANG HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/BOOMERANG_HD.png" group-title="LAT| GENERAL",LAT| BOOMERANG HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90818
+#EXTINF:-1 tvg-id="la.Cablenoticias" tvg-name="LAT| CABLE NOTICIAS COLOMBIA" tvg-logo="http://logo.protv.cc/picons/logos/laz.cablenoticias.png" group-title="LAT| GENERAL",LAT| CABLE NOTICIAS COLOMBIA
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/14818
+#EXTINF:-1 tvg-id="la.Canal Antigua" tvg-name="LAT| CANAL ANTIGUA" tvg-logo="http://logo.protv.cc/picons/logos/laz.canal-antigua.png" group-title="LAT| GENERAL",LAT| CANAL ANTIGUA
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/75220
+#EXTINF:-1 tvg-id="la.Caracol HD" tvg-name="LAT| CARACOL HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.caracolhd.png" group-title="LAT| GENERAL",LAT| CARACOL HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/14781
+#EXTINF:-1 tvg-id="la.Cartoon Network" tvg-name="LAT| CARTOON NETWORK" tvg-logo="http://logo.protv.cc/picons/iptvlogos/CARTOON_NETWORK.png" group-title="LAT| GENERAL",LAT| CARTOON NETWORK
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90796
+#EXTINF:-1 tvg-id="LAT| CARTOON NETWORK HD" tvg-name="LAT| CARTOON NETWORK HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.Cartoon_Network_HD.png" group-title="LAT| GENERAL",LAT| CARTOON NETWORK HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90288
+#EXTINF:-1 tvg-id="la.Canal CDF HD" tvg-name="LAT| CDF CHILE" tvg-logo="http://logo.protv.cc/picons/logos/laz.cdf.png" group-title="LAT| GENERAL",LAT| CDF CHILE
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/24067
+#EXTINF:-1 tvg-id="la.CGTN (CCTV4)" tvg-name="LAT| CGTN" tvg-logo="http://logo.protv.cc/picons/logos/laz.cgtnespanol.png" group-title="LAT| GENERAL",LAT| CGTN
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90291
+#EXTINF:-1 tvg-id="la.Cinecanal HD" tvg-name="LAT| CINECANAL" tvg-logo="http://logo.protv.cc/picons/iptvlogos/CINECANAL.png" group-title="LAT| GENERAL",LAT| CINECANAL
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90795
+#EXTINF:-1 tvg-id="LAT| CINECANAL HD" tvg-name="LAT| CINECANAL HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.cinecanal-hd.png" group-title="LAT| GENERAL",LAT| CINECANAL HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90287
+#EXTINF:-1 tvg-id="la.Cinemax" tvg-name="LAT| CINEMAX" tvg-logo="http://logo.protv.cc/picons/logos/laz.Cinemax.png" group-title="LAT| GENERAL",LAT| CINEMAX
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90286
+#EXTINF:-1 tvg-id="LAT| CINEMAX HD" tvg-name="LAT| CINEMAX HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/CINEMAX_EAST_HD.png" group-title="LAT| GENERAL",LAT| CINEMAX HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90794
+#EXTINF:-1 tvg-id="la.CNN Chile" tvg-name="LAT| CNN CHILE" tvg-logo="http://logo.protv.cc/picons/logos/laz.cnnchile.png" group-title="LAT| CHILE",LAT| CNN CHILE
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/23179
+#EXTINF:-1 tvg-id="mx.Comedy Central" tvg-name="LAT| COMEDY CENTRAL" tvg-logo="http://logo.protv.cc/picons/iptvlogos/COMEDY_CENTRAL_HD.png" group-title="LAT| GENERAL",LAT| COMEDY CENTRAL
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90824
+#EXTINF:-1 tvg-id="LAT| COMEDY CENTRAL HD" tvg-name="LAT| COMEDY CENTRAL HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.Comedycentral.png" group-title="LAT| GENERAL",LAT| COMEDY CENTRAL HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25557
+#EXTINF:-1 tvg-id="LAT| CUBAVISION INT." tvg-name="LAT| CUBAVISION INT." tvg-logo="http://logo.protv.cc/picons/logos/laz.cubavision.png" group-title="LAT| GENERAL",LAT| CUBAVISION INT.
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/62037
+#EXTINF:-1 tvg-id="la.Cuba Visión" tvg-name="LAT| CUBAVISION" tvg-logo="http://logo.protv.cc/picons/logos/cubavision.png" group-title="LAT| GENERAL",LAT| CUBAVISION
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/790502
+#EXTINF:-1 tvg-id="la.Canal De Película" tvg-name="LAT| DE PELICULA" tvg-logo="http://logo.protv.cc/picons/iptvlogos/DE_PELICULA_HD.png" group-title="LAT| GENERAL",LAT| DE PELICULA
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90813
+#EXTINF:-1 tvg-id="la.Canal De Película Clásico" tvg-name="LAT| DE PELICULA CLASSICO" tvg-logo="http://logo.protv.cc/picons/logos/laz.depelicula_clasico.png" group-title="LAT| GENERAL",LAT| DE PELICULA CLASSICO
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/75289
+#EXTINF:-1 tvg-id="LAT| DE PELICULA HD" tvg-name="LAT| DE PELICULA HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.depelicula_hd.png" group-title="LAT| GENERAL",LAT| DE PELICULA HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/75290
+#EXTINF:-1 tvg-id="la.Canal De Película (Multiplex)" tvg-name="LAT| DE PELICULA PLUS" tvg-logo="http://logo.protv.cc/picons/iptvlogos/DE_PELICULA_PLUS_HD.png" group-title="LAT| GENERAL",LAT| DE PELICULA PLUS
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90812
+#EXTINF:-1 tvg-id="LAT| DE PELICULA PLUS HD" tvg-name="LAT| DE PELICULA PLUS HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.depeliculaplus.png" group-title="LAT| GENERAL",LAT| DE PELICULA PLUS HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/83807
+#EXTINF:-1 tvg-id="la.Discovery HD" tvg-name="LAT| DISCOVERY CHANNEL" tvg-logo="http://logo.protv.cc/picons/logos/laz.discoverychannel.png" group-title="LAT| GENERAL",LAT| DISCOVERY CHANNEL
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25552
+#EXTINF:-1 tvg-id="LAT| DISCOVERY CHANNEL HD" tvg-name="LAT| DISCOVERY CHANNEL HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/DISCOVERY_CHANNEL_HD.png" group-title="LAT| GENERAL",LAT| DISCOVERY CHANNEL HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90780
+#EXTINF:-1 tvg-id="DiscoveryCivilizationLatinAmerica.pa" tvg-name="LAT| DISCOVERY CIVILIZATION" tvg-logo="http://logo.protv.cc/picons/logos/laz.Discovery_Civilization.png" group-title="LAT| GENERAL",LAT| DISCOVERY CIVILIZATION
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25553
+#EXTINF:-1 tvg-id="la.Discovery Home & Health" tvg-name="LAT| DISCOVERY HOME & HEALTH" tvg-logo="http://logo.protv.cc/picons/logos/laz.discoveryhyh.png" group-title="LAT| GENERAL",LAT| DISCOVERY HOME & HEALTH
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25551
+#EXTINF:-1 tvg-id="LAT| DISCOVERY HOME & HEALTH HD" tvg-name="LAT| DISCOVERY HOME & HEALTH HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/DISCOVERY_HOME_&_HEALTH_HD.png" group-title="LAT| GENERAL",LAT| DISCOVERY HOME & HEALTH HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90779
+#EXTINF:-1 tvg-id="la.Discovery Kids" tvg-name="LAT| DISCOVERY KIDS" tvg-logo="http://logo.protv.cc/picons/logos/laz.Discovery_kids.png" group-title="LAT| GENERAL",LAT| DISCOVERY KIDS
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25550
+#EXTINF:-1 tvg-id="LAT| DISCOVERY KIDS HD" tvg-name="LAT| DISCOVERY KIDS HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/DISCOVERY_KIDS_HD.png" group-title="LAT| GENERAL",LAT| DISCOVERY KIDS HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90778
+#EXTINF:-1 tvg-id="la.Discovery Science" tvg-name="LAT| DISCOVERY SCIENCE" tvg-logo="http://logo.protv.cc/picons/logos/laz.discovery_science.png" group-title="LAT| GENERAL",LAT| DISCOVERY SCIENCE
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90290
+#EXTINF:-1 tvg-id="la.Discovery Theater" tvg-name="LAT| DISCOVERY THEATER" tvg-logo="http://logo.protv.cc/picons/logos/laz.discoverytheater.png" group-title="LAT| GENERAL",LAT| DISCOVERY THEATER
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25549
+#EXTINF:-1 tvg-id="LAT| DISCOVERY THEATER HD" tvg-name="LAT| DISCOVERY THEATER HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/DISCOVERY_THEATER_HD.png" group-title="LAT| GENERAL",LAT| DISCOVERY THEATER HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90777
+#EXTINF:-1 tvg-id="la.Discovery Turbo" tvg-name="LAT| DISCOVERY TURBO" tvg-logo="http://logo.protv.cc/picons/logos/laz.Discovery_Turbo.png" group-title="LAT| GENERAL",LAT| DISCOVERY TURBO
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25548
+#EXTINF:-1 tvg-id="LAT| DISCOVERY TURBO HD" tvg-name="LAT| DISCOVERY TURBO HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/DISCOVERY_TURBO_HD.png" group-title="LAT| GENERAL",LAT| DISCOVERY TURBO HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90776
+#EXTINF:-1 tvg-id="la.Discovery World" tvg-name="LAT| DISCOVERY WORLD" tvg-logo="http://logo.protv.cc/picons/logos/laz.discoveryworld.png" group-title="LAT| GENERAL",LAT| DISCOVERY WORLD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25547
+#EXTINF:-1 tvg-id="LAT| DISCOVERY WORLD HD" tvg-name="LAT| DISCOVERY WORLD HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/DISCOVERY_WORLD_HD.png" group-title="LAT| GENERAL",LAT| DISCOVERY WORLD HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90775
+#EXTINF:-1 tvg-id="la.Disney Channel" tvg-name="LAT| DISNEY CHANNEL" tvg-logo="http://logo.protv.cc/picons/logos/laz.disney.png" group-title="LAT| GENERAL",LAT| DISNEY CHANNEL
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25544
+#EXTINF:-1 tvg-id="LAT| DISNEY CHANNEL HD" tvg-name="LAT| DISNEY CHANNEL HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.disneyhd.png" group-title="LAT| GENERAL",LAT| DISNEY CHANNEL HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25542
+#EXTINF:-1 tvg-id="la.Disney Junior" tvg-name="LAT| DISNEY JUNIOR" tvg-logo="http://logo.protv.cc/picons/logos/laz.Disney_Junior.png" group-title="LAT| GENERAL",LAT| DISNEY JUNIOR
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25543
+#EXTINF:-1 tvg-id="LAT| DISNEY JUNIOR HD" tvg-name="LAT| DISNEY JUNIOR HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/DISNEY_JUNIOR.png" group-title="LAT| GENERAL",LAT| DISNEY JUNIOR HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90774
+#EXTINF:-1 tvg-id="la.Disney XD" tvg-name="LAT| DISNEY XD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/DISNEY_XD.png" group-title="LAT| GENERAL",LAT| DISNEY XD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90773
+#EXTINF:-1 tvg-id="LAT| DISNEY XD HD" tvg-name="LAT| DISNEY XD HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.Disney_XD_HD.png" group-title="LAT| GENERAL",LAT| DISNEY XD HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90285
+#EXTINF:-1 tvg-id="la.Distrito Comedia" tvg-name="LAT| DISTRITO COMEDIA" tvg-logo="http://logo.protv.cc/picons/logos/laz.distritocomedia.png" group-title="LAT| GENERAL",LAT| DISTRITO COMEDIA
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90284
+#EXTINF:-1 tvg-id="la.E!" tvg-name="LAT| E! ENTERTAINMENT" tvg-logo="http://logo.protv.cc/picons/iptvlogos/E!_ENTERTAINMENT_WEST_HD.png" group-title="LAT| GENERAL",LAT| E! ENTERTAINMENT
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90772
+#EXTINF:-1 tvg-id="LAT| E! ENTERTAINMENT HD" tvg-name="LAT| E! ENTERTAINMENT HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.ie.png" group-title="LAT| GENERAL",LAT| E! ENTERTAINMENT HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90282
+#EXTINF:-1 tvg-id="la.El Gourmet" tvg-name="LAT| EL GOURMET" tvg-logo="http://logo.protv.cc/picons/logos/laz.Elgourmet.png" group-title="LAT| GENERAL",LAT| EL GOURMET
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25558
+#EXTINF:-1 tvg-id="LAT| EL GOURMET HD" tvg-name="LAT| EL GOURMET HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/EL_GOURMET_HD.png" group-title="LAT| GENERAL",LAT| EL GOURMET HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90816
+#EXTINF:-1 tvg-id="la.FOROtv" tvg-name="LAT| FORO TV" tvg-logo="http://logo.protv.cc/picons/logos/laz.forotv.png" group-title="LAT| GENERAL",LAT| FORO TV
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/75287
+#EXTINF:-1 tvg-id="LAT| FORO TV HD" tvg-name="LAT| FORO TV HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.forotvhd.png" group-title="LAT| GENERAL",LAT| FORO TV HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79353
+#EXTINF:-1 tvg-id="cr.FUTV (Costa Rica) (FUTV) [136]" tvg-name="LAT| FUTV GRITALO CR HD" tvg-logo="https://imageserver.one/logos/FUTV_GRITALO.png" group-title="LAT| GENERAL",LAT| FUTV GRITALO CR HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/153270
+#EXTINF:-1 tvg-id="la.FX" tvg-name="LAT| FX" tvg-logo="http://logo.protv.cc/picons/iptvlogos/FX.png" group-title="LAT| GENERAL",LAT| FX
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90800
+#EXTINF:-1 tvg-id="LAT| FX HD" tvg-name="LAT| FX HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.fx_hd.png" group-title="LAT| GENERAL",LAT| FX HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25521
+#EXTINF:-1 tvg-id="la.FX Movies" tvg-name="LAT| FXM" tvg-logo="http://logo.protv.cc/picons/iptvlogos/FXM.png" group-title="LAT| GENERAL",LAT| FXM
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90802
+#EXTINF:-1 tvg-id="LAT| FXM HD" tvg-name="LAT| FXM HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/FXM_HD.png" group-title="LAT| GENERAL",LAT| FXM HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90801
+#EXTINF:-1 tvg-id="la.Glitz" tvg-name="LAT| GLITZ" tvg-logo="http://logo.protv.cc/picons/logos/laz.Glitz.png" group-title="LAT| GENERAL",LAT| GLITZ
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25522
+#EXTINF:-1 tvg-id="la.Golden" tvg-name="LAT| GOLDEN" tvg-logo="http://logo.protv.cc/picons/logos/laz.golden.png" group-title="LAT| GENERAL",LAT| GOLDEN
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25538
+#EXTINF:-1 tvg-id="la.Golden Edge" tvg-name="LAT| GOLDEN EDGE" tvg-logo="http://logo.protv.cc/picons/iptvlogos/GOLDEN_EDGE.png" group-title="LAT| GENERAL",LAT| GOLDEN EDGE
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90317
+#EXTINF:-1 tvg-id="la.Canal Golden Plus" tvg-name="LAT| GOLDEN PLUS" tvg-logo="http://logo.protv.cc/picons/iptvlogos/GOLDEN_PLUS_HD.png" group-title="LAT| GENERAL",LAT| GOLDEN PLUS
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90766
+#EXTINF:-1 tvg-id="la.Canal Golden Plus" tvg-name="LAT| GOLDEN PLUS HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/GOLDEN_PLUS_HD.png" group-title="LAT| GENERAL",LAT| GOLDEN PLUS HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90765
+#EXTINF:-1 tvg-id="la.Guatevisión" tvg-name="LAT| GUATEVISION" tvg-logo="http://logo.protv.cc/picons/logos/laz.guatevision.png" group-title="LAT| GENERAL",LAT| GUATEVISION
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/75219
+#EXTINF:-1 tvg-id="la.Canal History 2" tvg-name="LAT| H2" tvg-logo="http://logo.protv.cc/picons/iptvlogos/H2.png" group-title="LAT| GENERAL",LAT| H2
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90316
+#EXTINF:-1 tvg-id="LAT| H2 HD" tvg-name="LAT| H2 HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/H2_HD.png" group-title="LAT| GENERAL",LAT| H2 HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90764
+#EXTINF:-1 tvg-id="la.HBO HD" tvg-name="LAT| HBO" tvg-logo="http://logo.protv.cc/picons/iptvlogos/HBO.png" group-title="LAT| GENERAL",LAT| HBO
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90786
+#EXTINF:-1 tvg-id="la.HBO HD" tvg-name="LAT| HBO HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.hbohd.png" group-title="LAT| GENERAL",LAT| HBO HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25518
+#EXTINF:-1 tvg-id="la.HBO 2" tvg-name="LAT| HBO 2" tvg-logo="http://logo.protv.cc/picons/iptvlogos/HBO_2.png" group-title="LAT| GENERAL",LAT| HBO 2
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90787
+#EXTINF:-1 tvg-id="LAZ| HBO 2 HD" tvg-name="LAT| HBO 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.hbo2hd.png" group-title="LAT| GENERAL",LAT| HBO 2 HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25520
+#EXTINF:-1 tvg-id="la.HBO Xtreme" tvg-name="LAT| HBO XTREME" tvg-logo="http://logo.protv.cc/picons/logos/laz.max_prime.png" group-title="LAT| GENERAL",LAT| HBO XTREME
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90300
+#EXTINF:-1 tvg-id="la.HBO Family" tvg-name="LAT| HBO FAMILY" tvg-logo="http://logo.protv.cc/picons/iptvlogos/HBO_FAMILY.png" group-title="LAT| GENERAL",LAT| HBO FAMILY
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90785
+#EXTINF:-1 tvg-id="LAT| HBO FAMILY HD" tvg-name="LAT| HBO FAMILY HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.hbo_family.png" group-title="LAT| GENERAL",LAT| HBO FAMILY HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25519
+#EXTINF:-1 tvg-id="la.HBO Mundi" tvg-name="LAT| HBO MUNDI" tvg-logo="http://logo.protv.cc/picons/logos/laz.Max_HD.png" group-title="LAT| GENERAL",LAT| HBO MUNDI
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90301
+#EXTINF:-1 tvg-id="la.HBO Plus México" tvg-name="LAT| HBO PLUS" tvg-logo="http://logo.protv.cc/picons/iptvlogos/HBO_PLUS.png" group-title="LAT| GENERAL",LAT| HBO PLUS
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90784
+#EXTINF:-1 tvg-id="LAT| HBO PLUS HD" tvg-name="LAT| HBO PLUS HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.hbo_plus.png" group-title="LAT| GENERAL",LAT| HBO PLUS HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25517
+#EXTINF:-1 tvg-id="la.HBO Pop" tvg-name="LAT| HBO POP" tvg-logo="http://logo.protv.cc/picons/logos/laz.maxup.png" group-title="LAT| GENERAL",LAT| HBO POP
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90299
+#EXTINF:-1 tvg-id="la.HBO Signature" tvg-name="LAT| HBO SIGNATURE" tvg-logo="http://logo.protv.cc/picons/iptvlogos/HBO_SIGNATURE.png" group-title="LAT| GENERAL",LAT| HBO SIGNATURE
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90783
+#EXTINF:-1 tvg-id="LAT| HBO SIGNATURE HD" tvg-name="LAT| HBO SIGNATURE HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.HBO_Signaturehd.png" group-title="LAT| GENERAL",LAT| HBO SIGNATURE HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25516
+#EXTINF:-1 tvg-id="LAT| HISTORY 2 HD" tvg-name="LAT| HISTORY 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.h2hd.png" group-title="LAT| GENERAL",LAT| HISTORY 2 HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25545
+#EXTINF:-1 tvg-id="la.History" tvg-name="LAT| HISTORY HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.historyhd.png" group-title="LAT| GENERAL",LAT| HISTORY HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25546
+#EXTINF:-1 tvg-id="la.INDIE IndiePlex" tvg-name="LAT| INDIEPLEX HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.RETROPLEX.png" group-title="LAT| GENERAL",LAT| INDIEPLEX HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79388
+#EXTINF:-1 tvg-id="la.Investigation Discovery" tvg-name="LAT| INVESTIGATION DISCOVERY" tvg-logo="http://logo.protv.cc/picons/iptvlogos/INVESTIGATION_DISCOVERY.png" group-title="LAT| GENERAL",LAT| INVESTIGATION DISCOVERY
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90782
+#EXTINF:-1 tvg-id="LAT| INVESTIGATION DISCOVERY HD" tvg-name="LAT| INVESTIGATION DISCOVERY HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/INVESTIGATION_DISCOVERY_HD.png" group-title="LAT| GENERAL",LAT| INVESTIGATION DISCOVERY HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90781
+#EXTINF:-1 tvg-id="la.Canal Lifetime" tvg-name="LAT| LIFETIME" tvg-logo="http://logo.protv.cc/picons/logos/laz.lifetime.png" group-title="LAT| GENERAL",LAT| LIFETIME
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25556
+#EXTINF:-1 tvg-id="LAT| LIFETIME HD" tvg-name="LAT| LIFETIME HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/LIFETIME_HD.png" group-title="LAT| GENERAL",LAT| LIFETIME HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90815
+#EXTINF:-1 tvg-id="la.Más Chic" tvg-name="LAT| MAS CHIC HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.maschic.png" group-title="LAT| GENERAL",LAT| MAS CHIC HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90302
+#EXTINF:-1 tvg-id="hn.Maya TV Canal 66 (MAYA) [93]" tvg-name="LAT| MAYA TV (HN)" tvg-logo="http://logo.protv.cc/picons/logos/laz.mayatv.png" group-title="LAT| GENERAL",LAT| MAYA TV (HN)
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79362
+#EXTINF:-1 tvg-id="la.MOVIE MovieMax" tvg-name="LAT| MOVIEMAX HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.MOVIEPLEXHD.png" group-title="LAT| GENERAL",LAT| MOVIEMAX HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79386
+#EXTINF:-1 tvg-id="la.MPLEX MoviePlex" tvg-name="LAT| MOVIEPLEX HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.MOVIEPLEXHD.png" group-title="LAT| GENERAL",LAT| MOVIEPLEX HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79385
+#EXTINF:-1 tvg-id="la.MTV" tvg-name="LAT| MTV HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MTV_HD.png" group-title="LAT| GENERAL",LAT| MTV HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90762
+#EXTINF:-1 tvg-id="la.Canal MTV 80s" tvg-name="LAT| MTV 80S" tvg-logo="http://logo.protv.cc/picons/logos/laz.vh1_classic.png" group-title="LAT| GENERAL",LAT| MTV 80S
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90307
+#EXTINF:-1 tvg-id="la.MTV Hits" tvg-name="LAT| MTV HITS" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MTV_HITS.png" group-title="LAT| GENERAL",LAT| MTV HITS
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90315
+#EXTINF:-1 tvg-id="la.MTV Live HD" tvg-name="LAT| MTV LIVE HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/OSN_MTV_LIVE_HD.png" group-title="LAT| GENERAL",LAT| MTV LIVE HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90761
+#EXTINF:-1 tvg-id="la.MULTV MULTIMEDIOS TV SD" tvg-name="LAT| MULTIMEDIOS" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MULTIMEDIOS_PLUS_HD.png" group-title="LAT| GENERAL",LAT| MULTIMEDIOS
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90806
+#EXTINF:-1 tvg-id="LAT| MULTIMEDIOS HD" tvg-name="LAT| MULTIMEDIOS HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.multimediohd.png" group-title="LAT| GENERAL",LAT| MULTIMEDIOS HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25535
+#EXTINF:-1 tvg-id="la.Canal Multimedios Plus" tvg-name="LAT| MULTIMEDIOS PLUS" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MULTIMEDIOS_PLUS.png" group-title="LAT| GENERAL",LAT| MULTIMEDIOS PLUS
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90805
+#EXTINF:-1 tvg-id="LAT| MULTIMEDIOS PLUS HD" tvg-name="LAT| MULTIMEDIOS PLUS HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/MULTIMEDIOS_PLUS_HD.png" group-title="LAT| GENERAL",LAT| MULTIMEDIOS PLUS HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90804
+#EXTINF:-1 tvg-id="la.National Geographic" tvg-name="LAT| NAT GEO" tvg-logo="http://logo.protv.cc/picons/iptvlogos/NAT_GEO.png" group-title="LAT| GENERAL",LAT| NAT GEO
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90822
+#EXTINF:-1 tvg-id="LAT| NAT GEO HD" tvg-name="LAT| NAT GEO HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.Nat_Geo_HD.png" group-title="LAT| GENERAL",LAT| NAT GEO HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25594
+#EXTINF:-1 tvg-id="la.Nat Geo Kids" tvg-name="LAT| NAT GEO KIDS" tvg-logo="http://logo.protv.cc/picons/iptvlogos/NAT_GEO_KIDS.png" group-title="LAT| GENERAL",LAT| NAT GEO KIDS
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90821
+#EXTINF:-1 tvg-id="LAT| NAT GEO KIDS HD" tvg-name="LAT| NAT GEO KIDS HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/NAT_GEO_KIDS_HD.png" group-title="LAT| GENERAL",LAT| NAT GEO KIDS HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90820
+#EXTINF:-1 tvg-id="la.NGMUNDO Nat Geo Mundo" tvg-name="LAT| NAT GEO MUNDO HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.natgeomundo.png" group-title="LAT| GENERAL",LAT| NAT GEO MUNDO HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25593
+#EXTINF:-1 tvg-id="la.Nat Geo Wild" tvg-name="LAT| NAT GEO WILD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/NAT_GEO_WILD.png" group-title="LAT| GENERAL",LAT| NAT GEO WILD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90819
+#EXTINF:-1 tvg-id="LAT| NAT GEO WILD HD" tvg-name="LAT| NAT GEO WILD HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.natgeowildhd.png" group-title="LAT| GENERAL",LAT| NAT GEO WILD HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25592
+#EXTINF:-1 tvg-id="la.Nick 2" tvg-name="LAT| NICK 2" tvg-logo="http://logo.protv.cc/picons/logos/laz.nick2.png" group-title="LAT| GENERAL",LAT| NICK 2
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/57141
+#EXTINF:-1 tvg-id="la.Nick Jr." tvg-name="LAT| NICK JR" tvg-logo="http://logo.protv.cc/picons/iptvlogos/NICK_JR.png" group-title="LAT| GENERAL",LAT| NICK JR
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90314
+#EXTINF:-1 tvg-id="la.NickToons" tvg-name="LAT| NICK TOONS" tvg-logo="http://logo.protv.cc/picons/iptvlogos/NICK_TOONS.png" group-title="LAT| GENERAL",LAT| NICK TOONS
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90313
+#EXTINF:-1 tvg-id="la.Nick" tvg-name="LAT| NICKELODEON HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.Nick_hd.png" group-title="LAT| GENERAL",LAT| NICKELODEON HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25591
+#EXTINF:-1 tvg-id="la.OMAX OuterMAX" tvg-name="LAT| OUTERMAX HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.OuterMax.png" group-title="LAT| GENERAL",LAT| OUTERMAX HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79384
+#EXTINF:-1 tvg-id="la.Paramount Network" tvg-name="LAT| PARAMOUNT CHANNEL" tvg-logo="http://logo.protv.cc/picons/logos/laz.paramounthd.png" group-title="LAT| GENERAL",LAT| PARAMOUNT CHANNEL
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25537
+#EXTINF:-1 tvg-id="LAT| PARAMOUNT CHANNEL HD" tvg-name="LAT| PARAMOUNT CHANNEL HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.paramounthd.png" group-title="LAT| GENERAL",LAT| PARAMOUNT CHANNEL HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25534
+#EXTINF:-1 tvg-id="la.Telehit" tvg-name="LAT| RITMOSON" tvg-logo="http://logo.protv.cc/picons/logos/laz.ritmoson.png" group-title="LAT| GENERAL",LAT| RITMOSON
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90298
+#EXTINF:-1 tvg-id="la.Sony HD" tvg-name="LAT| SONY CHANNEL" tvg-logo="http://logo.protv.cc/picons/iptvlogos/SONY_CHANNEL.png" group-title="LAT| GENERAL",LAT| SONY CHANNEL
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90312
+#EXTINF:-1 tvg-id="la.Space" tvg-name="LAT| SPACE" tvg-logo="http://logo.protv.cc/picons/iptvlogos/SPACE_TV_HD.png" group-title="LAT| GENERAL",LAT| SPACE
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90810
+#EXTINF:-1 tvg-id="LAT| SPACE HD" tvg-name="LAT| SPACE HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.spacehd.png" group-title="LAT| GENERAL",LAT| SPACE HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25533
+#EXTINF:-1 tvg-id="la.Star Channel" tvg-name="LAT| STAR CHANNEL" tvg-logo="http://logo.protv.cc/picons/iptvlogos/FOX.png" group-title="LAT| GENERAL",LAT| STAR CHANNEL
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90799
+#EXTINF:-1 tvg-id="LAT| STAR CHANNEL HD" tvg-name="LAT| STAR CHANNEL HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.foxhd.png" group-title="LAT| GENERAL",LAT| STAR CHANNEL HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25555
+#EXTINF:-1 tvg-id="la.Star Action HD" tvg-name="LAT| STAR ACTION" tvg-logo="http://logo.protv.cc/picons/logos/laz.Fox_action.png" group-title="LAT| GENERAL",LAT| STAR ACTION
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25554
+#EXTINF:-1 tvg-id="LAT| STAR ACTION HD" tvg-name="LAT| STAR ACTION HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/FOX_ACTION_HD.png" group-title="LAT| GENERAL",LAT| STAR ACTION HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90771
+#EXTINF:-1 tvg-id="la.Star Classics" tvg-name="LAT| STAR CLASSICS" tvg-logo="http://logo.protv.cc/picons/logos/laz.Fox_classics.png" group-title="LAT| GENERAL",LAT| STAR CLASSICS
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90280
+#EXTINF:-1 tvg-id="LAT| STAR CLASSICS HD" tvg-name="LAT| STAR CLASSICS HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/FOX_PREMIUM_CLASSICS.png" group-title="LAT| GENERAL",LAT| STAR CLASSICS HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90770
+#EXTINF:-1 tvg-id="la.Star Comedy HD" tvg-name="LAT| STAR COMEDY" tvg-logo="http://logo.protv.cc/picons/logos/laz.Fox_comedy.png" group-title="LAT| GENERAL",LAT| STAR COMEDY
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90278
+#EXTINF:-1 tvg-id="LAT| STAR COMEDY HD" tvg-name="LAT| STAR COMEDY HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/FOX_PREMIUM_COMEDY.png" group-title="LAT| GENERAL",LAT| STAR COMEDY HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90769
+#EXTINF:-1 tvg-id="la.Star Fun HD" tvg-name="LAT| STAR FUN" tvg-logo="http://logo.protv.cc/picons/iptvlogos/FOX_FAMILY_HD.png" group-title="LAT| GENERAL",LAT| STAR FUN
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90768
+#EXTINF:-1 tvg-id="LAT| STAR FUN HD" tvg-name="LAT| STAR FUN HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.Fox_family.png" group-title="LAT| GENERAL",LAT| STAR FUN HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90277
+#EXTINF:-1 tvg-id="la.Star Life" tvg-name="LAT| STAR LIFE" tvg-logo="http://logo.protv.cc/picons/iptvlogos/FOX_LIFE_HD.png" group-title="LAT| GENERAL",LAT| STAR LIFE
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90767
+#EXTINF:-1 tvg-id="LAT| STAR LIFE HD" tvg-name="LAT| STAR LIFE HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/FOX_LIFE_HD.png" group-title="LAT| GENERAL",LAT| STAR LIFE HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90318
+#EXTINF:-1 tvg-id="la.Star Hits HD" tvg-name="LAT| STAR HITS" tvg-logo="http://logo.protv.cc/picons/logos/laz.foxmovie.png" group-title="LAT| GENERAL",LAT| STAR HITS
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90279
+#EXTINF:-1 tvg-id="LAT| STAR HITS HD" tvg-name="LAT| STAR MOVIES" tvg-logo="http://logo.protv.cc/picons/logos/laz.foxmovieshd.png" group-title="LAT| GENERAL",LAT| STAR MOVIES
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25541
+#EXTINF:-1 tvg-id="la.Star Series HD" tvg-name="LAT| STAR SERIES" tvg-logo="http://logo.protv.cc/picons/logos/laz.foxseries.png" group-title="LAT| GENERAL",LAT| STAR SERIES
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25540
+#EXTINF:-1 tvg-id="LAT| STAR SERIES HD" tvg-name="LAT| STAR SERIES HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.foxserieshd.png" group-title="LAT| GENERAL",LAT| STAR SERIES HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25539
+#EXTINF:-1 tvg-id="la.Starz Comedy" tvg-name="LAT| STARZ COMEDY HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.startzcomedyhd.png" group-title="LAT| GENERAL",LAT| STARZ COMEDY HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79376
+#EXTINF:-1 tvg-id="la.Starz" tvg-name="LAT| STARZ EAST HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.startzhd.png" group-title="LAT| GENERAL",LAT| STARZ EAST HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79375
+#EXTINF:-1 tvg-id="la.Starz Edge" tvg-name="LAT| STARZ EDGE HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.startz_edgehd.png" group-title="LAT| GENERAL",LAT| STARZ EDGE HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79374
+#EXTINF:-1 tvg-id="la.Starz Encore Action" tvg-name="LAT| STARZ ENCORE ACTION" tvg-logo="http://logo.protv.cc/picons/logos/laz.startz_encore_action.png" group-title="LAT| GENERAL",LAT| STARZ ENCORE ACTION
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79373
+#EXTINF:-1 tvg-id="la.Starz Encore Black" tvg-name="LAT| STARZ ENCORE BLACK HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.startzencoreblackhd.png" group-title="LAT| GENERAL",LAT| STARZ ENCORE BLACK HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79372
+#EXTINF:-1 tvg-id="la.Starz Encore Classic" tvg-name="LAT| STARZ ENCORE CLASSIC HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.startzencoreclassichd.png" group-title="LAT| GENERAL",LAT| STARZ ENCORE CLASSIC HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79371
+#EXTINF:-1 tvg-id="la.Starz Encore Family" tvg-name="LAT| STARZ ENCORE FAMILY HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.encore_family.png" group-title="LAT| GENERAL",LAT| STARZ ENCORE FAMILY HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79370
+#EXTINF:-1 tvg-id="la.Canal Starz Encore Español" tvg-name="LAT| STARZ ENCORE HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.startzencore.png" group-title="LAT| GENERAL",LAT| STARZ ENCORE HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79369
+#EXTINF:-1 tvg-id="la.Starz Encore Suspense" tvg-name="LAT| STARZ ENCORE SUSPENSE HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.startzencoresuspense.png" group-title="LAT| GENERAL",LAT| STARZ ENCORE SUSPENSE HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79368
+#EXTINF:-1 tvg-id="la.Starz Encore Westerns" tvg-name="LAT| STARZ ENCORE WESTERN HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.encore_westerns.png" group-title="LAT| GENERAL",LAT| STARZ ENCORE WESTERN HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79367
+#EXTINF:-1 tvg-id="la.Starz Kids" tvg-name="LAT| STARZ FAMILY HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.startzencorefamily.png" group-title="LAT| GENERAL",LAT| STARZ FAMILY HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79366
+#EXTINF:-1 tvg-id="LAZ| STARZ HD" tvg-name="LAT| STARZ HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.startzhd.png" group-title="LAT| GENERAL",LAT| STARZ HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79365
+#EXTINF:-1 tvg-id="StarzKidsFamily.us" tvg-name="LAT| STARZ KIDS & FAMILY HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.startzkidsyfamily.png" group-title="LAT| GENERAL",LAT| STARZ KIDS & FAMILY HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79364
+#EXTINF:-1 tvg-id="LAZ| STARZ WEST HD" tvg-name="LAT| STARZ WEST HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.startzhd.png" group-title="LAT| GENERAL",LAT| STARZ WEST HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79363
+#EXTINF:-1 tvg-id="la.Studio Universal" tvg-name="LAT| STUDIO UNIVERSAL" tvg-logo="http://logo.protv.cc/picons/iptvlogos/STUDIO_UNIVERSAL_HD.png" group-title="LAT| GENERAL",LAT| STUDIO UNIVERSAL
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90803
+#EXTINF:-1 tvg-id="LAT| STUDIO UNIVERSAL HD" tvg-name="LAT| STUDIO UNIVERSAL HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.studiouniversalhd.png" group-title="LAT| GENERAL",LAT| STUDIO UNIVERSAL HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25532
+#EXTINF:-1 tvg-id="la.Canal Sundance TV" tvg-name="LAT| SUNDANCE TV" tvg-logo="http://logo.protv.cc/picons/iptvlogos/SUNDANCE_TV.png" group-title="LAT| GENERAL",LAT| SUNDANCE TV
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90811
+#EXTINF:-1 tvg-id="LAT| SUNDANCE TV HD" tvg-name="LAT| SUNDANCE TV HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.Sundancetvhd.png" group-title="LAT| GENERAL",LAT| SUNDANCE TV HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25531
+#EXTINF:-1 tvg-id="la.Syfy" tvg-name="LAT| SYFY HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/SYFY_HD.png" group-title="LAT| GENERAL",LAT| SYFY HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90311
+#EXTINF:-1 tvg-id="la.TBS" tvg-name="LAT| TBS" tvg-logo="http://logo.protv.cc/picons/logos/laz.TBS_HD.png" group-title="LAT| GENERAL",LAT| TBS
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90297
+#EXTINF:-1 tvg-id="la.TCM" tvg-name="LAT| TCM" tvg-logo="http://logo.protv.cc/picons/iptvlogos/TCM.png" group-title="LAT| GENERAL",LAT| TCM
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90310
+#EXTINF:-1 tvg-id="TeleRebelde.cu" tvg-name="LAT| TELE REBELDE (MX)" tvg-logo="http://logo.protv.cc/picons/logos/laz.telerebelde.png" group-title="LAT| GENERAL",LAT| TELE REBELDE (MX)
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79404
+#EXTINF:-1 tvg-id="la.Canal Telecentro TV" tvg-name="LAT| TELECENTRO" tvg-logo="http://logo.protv.cc/picons/logos/laz.telecentro.png" group-title="LAT| GENERAL",LAT| TELECENTRO
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/14815
+#EXTINF:-1 tvg-id="la.Canal 13 de Panamá (Telemetro)" tvg-name="LAT| TELEMETRO (PA)" tvg-logo="http://logo.protv.cc/picons/logos/laz.Telemetro.png" group-title="LAT| GENERAL",LAT| TELEMETRO (PA)
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79402
+#EXTINF:-1 tvg-id="" tvg-name="LAT| TELEMUNDO 49 TAMPA" tvg-logo="http://logo.protv.cc/picons/logos/TELEMUNDO-.jpeg" group-title="LAT| GENERAL",LAT| TELEMUNDO 49 TAMPA
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/1060021
+#EXTINF:-1 tvg-id="la.Telemundo (KTMD) Houston, TX" tvg-name="LAT| TELEMUNDO HOUSTON HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.Telemundo_Houston.png" group-title="LAT| GENERAL",LAT| TELEMUNDO HOUSTON HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25567
+#EXTINF:-1 tvg-id="la.Telemundo (WKTB-CD2) Atlanta, GA" tvg-name="LAT| TELEMUNDO ATLANTA HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.telemundoatlanta.png" group-title="LAT| GENERAL",LAT| TELEMUNDO ATLANTA HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25568
+#EXTINF:-1 tvg-id="la.Telemundo (WNEU)  Manchester, MA" tvg-name="LAT| TELEMUNDO BOSTON HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.telemundoboston.png" group-title="LAT| GENERAL",LAT| TELEMUNDO BOSTON HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25573
+#EXTINF:-1 tvg-id="la.Telemundo (WSNS) Chicago, IL" tvg-name="LAT| TELEMUNDO CHICAGO HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.telemundochicago.png" group-title="LAT| GENERAL",LAT| TELEMUNDO CHICAGO HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25576
+#EXTINF:-1 tvg-id="la.Telemundo (KXTX) Dallas, TX" tvg-name="LAT| TELEMUNDO DALLAS HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.telemundodallas.png" group-title="LAT| GENERAL",LAT| TELEMUNDO DALLAS HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25575
+#EXTINF:-1 tvg-id="la.Telemundo (KNSO) Fresno, CA" tvg-name="LAT| TELEMUNDO FRESNO HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.telemundo51.png" group-title="LAT| GENERAL",LAT| TELEMUNDO FRESNO HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25578
+#EXTINF:-1 tvg-id="la.Canal Telemundo (México)" tvg-name="LAT| TELEMUNDO HARTFORD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/WRDM_logo_2012.png/200px-WRDM_logo_2012.png" group-title="LAT| GENERAL",LAT| TELEMUNDO HARTFORD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/806851
+#EXTINF:-1 tvg-id="la.Telemundo (KBLR) Las Vegas, NV" tvg-name="LAT| TELEMUNDO LAS VEGAS HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.telemundo39.png" group-title="LAT| GENERAL",LAT| TELEMUNDO LAS VEGAS HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25571
+#EXTINF:-1 tvg-id="la.Telemundo (KVEA) Los Angeles, CA" tvg-name="LAT| TELEMUNDO LOS ANGELES HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.telemundo_los_anjeles.png" group-title="LAT| GENERAL",LAT| TELEMUNDO LOS ANGELES HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25577
+#EXTINF:-1 tvg-id="la.Telemundo (WSCV) Fort Lauderdale, FL" tvg-name="LAT| TELEMUNDO MIAMI HD" tvg-logo="http://logo.protv.cc/picons/logos/TELEMUNDO-.jpeg" group-title="LAT| GENERAL",LAT| TELEMUNDO MIAMI HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/721973
+#EXTINF:-1 tvg-id="la.Telemundo (WNJU) Teterboro, NJ" tvg-name="LAT| TELEMUNDO NEW YORK HD" tvg-logo="http://logo.protv.cc/picons/logos/TELEMUNDO-.jpeg" group-title="LAT| GENERAL",LAT| TELEMUNDO NEW YORK HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25580
+#EXTINF:-1 tvg-id="" tvg-name="LAT| TELEMUNDO 42 NEW ORLEANS" tvg-logo="http://logo.protv.cc/picons/logos/TELEMUNDO-.jpeg" group-title="LAT| GENERAL",LAT| TELEMUNDO 42 NEW ORLEANS
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/1010772
+#EXTINF:-1 tvg-id="" tvg-name="LAT| TELEMUNDO PHILADELPHIA HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.telemundo62.png" group-title="LAT| GENERAL",LAT| TELEMUNDO PHILADELPHIA HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25570
+#EXTINF:-1 tvg-id="la.Telemundo (KTAZ) Phoenix, AZ" tvg-name="LAT| TELEMUNDO PHOENIX HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.telemundo52.png" group-title="LAT| GENERAL",LAT| TELEMUNDO PHOENIX HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25569
+#EXTINF:-1 tvg-id="la.Telemundo (WKAQ) San Juan, PR" tvg-name="LAT| TELEMUNDO PUERTO RICO HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/TELEMUNDO.png" group-title="LAT| GENERAL",LAT| TELEMUNDO PUERTO RICO HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/149812
+#EXTINF:-1 tvg-id="la.Telemundo (KSTS) San Jose, CA" tvg-name="LAT| TELEMUNDO SAN FRANSISCO HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.telemundo48.png" group-title="LAT| GENERAL",LAT| TELEMUNDO SAN FRANSISCO HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25574
+#EXTINF:-1 tvg-id="la.Telemundo (WZDC) Washington, DC" tvg-name="LAT| TELEMUNDO WASHINGTON HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.telemundo_internaciona.png" group-title="LAT| GENERAL",LAT| TELEMUNDO WASHINGTON HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25572
+#EXTINF:-1 tvg-id="la.Telepacifico" tvg-name="LAT| TELEPACIFICO" tvg-logo="http://logo.protv.cc/picons/logos/laz.telepacifico_hd.png" group-title="LAT| GENERAL",LAT| TELEPACIFICO
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79390
+#EXTINF:-1 tvg-id="la.Canal Telesistema 11" tvg-name="LAT| TELESISTEMA" tvg-logo="http://logo.protv.cc/picons/logos/laz.telesistema11.png" group-title="LAT| GENERAL",LAT| TELESISTEMA
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/14833
+#EXTINF:-1 tvg-id="la.Canal 7 de Costa Rica (Teletica)" tvg-name="LAT| TELETICA 7 (CR)" tvg-logo="http://logo.protv.cc/picons/logos/laz.Teletica.png" group-title="LAT| GENERAL",LAT| TELETICA 7 (CR)
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79348
+#EXTINF:-1 tvg-id="la.Canal TLC" tvg-name="LAT| TLC" tvg-logo="http://logo.protv.cc/picons/iptvlogos/OSN_TLC.png" group-title="LAT| GENERAL",LAT| TLC
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90814
+#EXTINF:-1 tvg-id="LAT| TLC HD" tvg-name="LAT| TLC HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.tlchd.png" group-title="LAT| GENERAL",LAT| TLC HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25530
+#EXTINF:-1 tvg-id="la.TNT HD" tvg-name="LAT| TNT" tvg-logo="http://logo.protv.cc/picons/iptvlogos/TNT.png" group-title="LAT| GENERAL",LAT| TNT
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90808
+#EXTINF:-1 tvg-id="LAT| TNT HD" tvg-name="LAT| TNT HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.tnthd.png" group-title="LAT| GENERAL",LAT| TNT HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25529
+#EXTINF:-1 tvg-id="la.TNT Series" tvg-name="LAT| TNT SERIES" tvg-logo="http://logo.protv.cc/picons/iptvlogos/TNT_SERIES.png" group-title="LAT| GENERAL",LAT| TNT SERIES
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90807
+#EXTINF:-1 tvg-id="LAT| TNT SERIES HD" tvg-name="LAT| TNT SERIES HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.tntseriehd.png" group-title="LAT| GENERAL",LAT| TNT SERIES HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25528
+#EXTINF:-1 tvg-id="la.Tooncast" tvg-name="LAT| TOONCAST" tvg-logo="http://logo.protv.cc/picons/logos/laz.toocast.png" group-title="LAT| GENERAL",LAT| TOONCAST
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25515
+#EXTINF:-1 tvg-id="AR - Musictop" tvg-name="LAT| TOP LATINO" tvg-logo="http://logo.protv.cc/picons/logos/laz.TOP_LATINO.png" group-title="LAT| GENERAL",LAT| TOP LATINO
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90304
+#EXTINF:-1 tvg-id="la.truTV HD" tvg-name="LAT| TRU TV HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.trutv.png" group-title="LAT| GENERAL",LAT| TRU TV HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90309
+#EXTINF:-1 tvg-id="la.Canal TV Chile" tvg-name="LAT| TV CHILE" tvg-logo="http://logo.protv.cc/picons/logos/tvchile.png" group-title="LAT| CHILE",LAT| TV CHILE
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/23177
+#EXTINF:-1 tvg-id="la.Canal 9 de Panamá (TVMax)" tvg-name="LAT| TV MAX (PA)" tvg-logo="http://logo.protv.cc/picons/logos/laz.tvn.png" group-title="LAT| GENERAL",LAT| TV MAX (PA)
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79401
+#EXTINF:-1 tvg-id="la.TVE" tvg-name="LAT| TVE" tvg-logo="http://logo.protv.cc/picons/logos/laz.tvehd.png" group-title="LAT| GENERAL",LAT| TVE
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79354
+#EXTINF:-1 tvg-id="la.Canal 2 de Panamá (TVN-2)" tvg-name="LAT| TVN (PA)" tvg-logo="http://logo.protv.cc/picons/logos/laz.tvn.png" group-title="LAT| GENERAL",LAT| TVN (PA)
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/79400
+#EXTINF:-1 tvg-id="la.UniMás (KSTR) Dallas, TX" tvg-name="LAT| UNIMAS DALLAS HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.unimas.png" group-title="LAT| GENERAL",LAT| UNIMAS DALLAS HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25566
+#EXTINF:-1 tvg-id="la.UniMás (KMEX-DT2) Los Angeles, CA" tvg-name="LAT| UNIMAS LOS ANGELES HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.unimas.png" group-title="LAT| GENERAL",LAT| UNIMAS LOS ANGELES HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25564
+#EXTINF:-1 tvg-id="LAT| UNIMAS NEW YORK HD" tvg-name="LAT| UNIMAS NEW YORK HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.unimas.png" group-title="LAT| GENERAL",LAT| UNIMAS NEW YORK HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25563
+#EXTINF:-1 tvg-id="la.Universal Channel HD" tvg-name="LAT| UNIVERSAL CHANNEL" tvg-logo="http://logo.protv.cc/picons/logos/laz.Universal_Channel.png" group-title="LAT| GENERAL",LAT| UNIVERSAL CHANNEL
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25523
+#EXTINF:-1 tvg-id="la.UNI (WUVG) Atlanta, GA" tvg-name="LAT| UNIVISION ATLANTA HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.univision.png" group-title="LAT| GENERAL",LAT| UNIVISION ATLANTA HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25585
+#EXTINF:-1 tvg-id="la.UNI (KAKW) Austin, TX HD" tvg-name="LAT| UNIVISION AUSTIN HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/UNIVISION.png" group-title="LAT| GENERAL",LAT| UNIVISION AUSTIN HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90834
+#EXTINF:-1 tvg-id="la.UNI (WGBO) Chicago, IL" tvg-name="LAT| UNIVISION CHICAGO HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/UNIVISION.png" group-title="LAT| GENERAL",LAT| UNIVISION CHICAGO HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90832
+#EXTINF:-1 tvg-id="la.UNI (WQHS) Cleveland, OH" tvg-name="LAT| UNIVISION CLEVELAND HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/UNIVISION.png" group-title="LAT| GENERAL",LAT| UNIVISION CLEVELAND HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90831
+#EXTINF:-1 tvg-id="la.UNI (WLTV) Miami, FL" tvg-name="LAT| UNIVISION FORT LAUDERDALE HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.univision.png" group-title="LAT| GENERAL",LAT| UNIVISION FORT LAUDERDALE HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25584
+#EXTINF:-1 tvg-id="" tvg-name="LAT| UNIVISION BOSTON HD" tvg-logo="http://logo.protv.cc/picons/logos/USA/UNIVISION-BOSTON.png" group-title="LAT| GENERAL",LAT| UNIVISION BOSTON HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/1275601
+#EXTINF:-1 tvg-id="la.UNI (KUVN) Dallas, TX" tvg-name="LAT| UNIVISION DALLAS HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.univision.png" group-title="LAT| GENERAL",LAT| UNIVISION DALLAS HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25583
+#EXTINF:-1 tvg-id="la.UNI (KFTV) Fresno, CA" tvg-name="LAT| UNIVISION FRESNO HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/UNIVISION.png" group-title="LAT| GENERAL",LAT| UNIVISION FRESNO HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90836
+#EXTINF:-1 tvg-id="la.Univision - Eastern Feed" tvg-name="LAT| UNIVISION HARTFORD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/260px-Univision_logo.svg.png" group-title="LAT| GENERAL",LAT| UNIVISION HARTFORD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/806850
+#EXTINF:-1 tvg-id="la.UNI (KXLN) Houston, TX" tvg-name="LAT| UNIVISION HOUSTON HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/UNIVISION.png" group-title="LAT| GENERAL",LAT| UNIVISION HOUSTON HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90830
+#EXTINF:-1 tvg-id="la.UNI (KMEX) Los Angeles, CA" tvg-name="LAT| UNIVISION LOS ANGELES HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/UNIVISION.png" group-title="LAT| GENERAL",LAT| UNIVISION LOS ANGELES HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90833
+#EXTINF:-1 tvg-id="la.UNI (WLTV) Miami, FL HD" tvg-name="LAT| UNIVISION MIAMI HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.univision.png" group-title="LAT| GENERAL",LAT| UNIVISION MIAMI HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/721974
+#EXTINF:-1 tvg-id="la.UNI (WFTY-DT2) New York, NY" tvg-name="LAT| UNIVISION 41 NEW YORK HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/UNIVISION.png" group-title="LAT| GENERAL",LAT| UNIVISION 41 NEW YORK HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/722824
+#EXTINF:-1 tvg-id="la.UNI (WLII) San Juan, PR" tvg-name="LAT| UNIVISION 11 PUERTO RICO HD" tvg-logo="http://logo.protv.cc/picons/logos/UNIVISION-PUERTO-RICO.jpeg" group-title="LAT| GENERAL",LAT| UNIVISION 11 PUERTO RICO HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/729773
+#EXTINF:-1 tvg-id="" tvg-name="LAT| TUDN XTRA 1" tvg-logo="http://logo.protv.cc/picons/logos/TUDN-XTRA.jpg" group-title="LAT| GENERAL",LAT| TUDN XTRA 1
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/982317
+#EXTINF:-1 tvg-id="" tvg-name="LAT| TUDN XTRA 2" tvg-logo="http://logo.protv.cc/picons/logos/TUDN-XTRA.jpg" group-title="LAT| GENERAL",LAT| TUDN XTRA 2
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/982320
+#EXTINF:-1 tvg-id="" tvg-name="LAT| TUDN XTRA 3" tvg-logo="http://logo.protv.cc/picons/logos/TUDN-XTRA.jpg" group-title="LAT| GENERAL",LAT| TUDN XTRA 3
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/982321
+#EXTINF:-1 tvg-id="" tvg-name="LAT| TUDN XTRA 4" tvg-logo="http://logo.protv.cc/picons/logos/TUDN-XTRA.jpg" group-title="LAT| GENERAL",LAT| TUDN XTRA 4
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/982322
+#EXTINF:-1 tvg-id="" tvg-name="LAT| TUDN XTRA 5" tvg-logo="http://logo.protv.cc/picons/logos/TUDN-XTRA.jpg" group-title="LAT| GENERAL",LAT| TUDN XTRA 5
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/982323
+#EXTINF:-1 tvg-id="" tvg-name="LAT| TUDN XTRA 6" tvg-logo="http://logo.protv.cc/picons/logos/TUDN-XTRA.jpg" group-title="LAT| GENERAL",LAT| TUDN XTRA 6
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/982324
+#EXTINF:-1 tvg-id="" tvg-name="LAT| TUDN XTRA 7" tvg-logo="http://logo.protv.cc/picons/logos/TUDN-XTRA.jpg" group-title="LAT| GENERAL",LAT| TUDN XTRA 7
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/982325
+#EXTINF:-1 tvg-id="" tvg-name="LAT| TUDN XTRA 8" tvg-logo="http://logo.protv.cc/picons/logos/TUDN-XTRA.jpg" group-title="LAT| GENERAL",LAT| TUDN XTRA 8
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/982326
+#EXTINF:-1 tvg-id="" tvg-name="LAT| TUDN XTRA 9" tvg-logo="http://logo.protv.cc/picons/logos/TUDN-XTRA.jpg" group-title="LAT| GENERAL",LAT| TUDN XTRA 9
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/982327
+#EXTINF:-1 tvg-id="" tvg-name="LAT| TUDN XTRA 10" tvg-logo="http://logo.protv.cc/picons/logos/TUDN-XTRA.jpg" group-title="LAT| GENERAL",LAT| TUDN XTRA 10
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/982318
+#EXTINF:-1 tvg-id="" tvg-name="LAT| TUDN XTRA 11" tvg-logo="http://logo.protv.cc/picons/logos/TUDN-XTRA.jpg" group-title="LAT| GENERAL",LAT| TUDN XTRA 11
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/982319
+#EXTINF:-1 tvg-id="la.Canal VH1 (Latinoamérica)" tvg-name="LAT| VH1 HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.VH1_HD.png" group-title="LAT| GENERAL",LAT| VH1 HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90308
+#EXTINF:-1 tvg-id="" tvg-name="LAT| VTV" tvg-logo="http://logo.protv.cc/picons/logos/laz.vtv.png" group-title="LAT| GENERAL",LAT| VTV
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25525
+#EXTINF:-1 tvg-id="la.Canal WAPA-TV" tvg-name="LAT| WAPA HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/WAPA_TV.png" group-title="LAT| GENERAL",LAT| WAPA HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/149808
+#EXTINF:-1 tvg-id="la.Canal WAPA 2 Deportes" tvg-name="LAT| WAPA 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/WAPA-2-HD.png" group-title="LAT| GENERAL",LAT| WAPA 2 HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/149809
+#EXTINF:-1 tvg-id="la.Warner Channel" tvg-name="LAT| WARNER" tvg-logo="http://logo.protv.cc/picons/iptvlogos/WARNER_HD.png" group-title="LAT| GENERAL",LAT| WARNER
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90827
+#EXTINF:-1 tvg-id="LAT| WARNER HD" tvg-name="LAT| WARNER HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.Warnerhd.png" group-title="LAT| GENERAL",LAT| WARNER HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25527
+#EXTINF:-1 tvg-id="la.WOBI TV" tvg-name="LAT| WOBI HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.Wobi-HD.png" group-title="LAT| GENERAL",LAT| WOBI HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90295
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 01" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="LAT| PELICULA",LAT| PPV 01
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/543974
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 02" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="LAT| PELICULA",LAT| PPV 02
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/543975
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 03" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="LAT| PELICULA",LAT| PPV 03
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/543976
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 04" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="LAT| PELICULA",LAT| PPV 04
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/543977
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 05" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="LAT| PELICULA",LAT| PPV 05
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/543978
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 06" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="LAT| PELICULA",LAT| PPV 06
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/543979
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 07" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="LAT| PELICULA",LAT| PPV 07
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/543980
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 08" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="LAT| PELICULA",LAT| PPV 08
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/28567
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 09" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="LAT| PELICULA",LAT| PPV 09
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/543981
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 10" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="LAT| PELICULA",LAT| PPV 10
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/543982
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 11" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="LAT| PELICULA",LAT| PPV 11
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/543983
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 12" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="LAT| PELICULA",LAT| PPV 12
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/543984
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 13" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="LAT| PELICULA",LAT| PPV 13
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/543985
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 14" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="LAT| PELICULA",LAT| PPV 14
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/543986
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 15" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="LAT| PELICULA",LAT| PPV 15
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/28560
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 16" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="LAT| PELICULA",LAT| PPV 16
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/543987
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 17" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="LAT| PELICULA",LAT| PPV 17
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/28558
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 18" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="LAT| PELICULA",LAT| PPV 18
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/28557
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 19" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="LAT| PELICULA",LAT| PPV 19
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/543988
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 20" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="LAT| PELICULA",LAT| PPV 20
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/28555
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 21" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="LAT| PELICULA",LAT| PPV 21
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/28554
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 22" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="LAT| PELICULA",LAT| PPV 22
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/543989
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 23" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="LAT| PELICULA",LAT| PPV 23
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/543990
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 24" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="LAT| PELICULA",LAT| PPV 24
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/543991
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 25" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="LAT| PELICULA",LAT| PPV 25
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/543992
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 26" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="LAT| PELICULA",LAT| PPV 26
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/543993
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 27" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="LAT| PELICULA",LAT| PPV 27
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/28548
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 28" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="LAT| PELICULA",LAT| PPV 28
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/28547
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 29" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="LAT| PELICULA",LAT| PPV 29
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/28546
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 30" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="LAT| PELICULA",LAT| PPV 30
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/28545
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 31" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="LAT| PELICULA",LAT| PPV 31
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/543994
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 32" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="LAT| PELICULA",LAT| PPV 32
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/28543
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 33" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="LAT| PELICULA",LAT| PPV 33
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/28542
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 34" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="LAT| PELICULA",LAT| PPV 34
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/28541
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 35" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="LAT| PELICULA",LAT| PPV 35
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/543995
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 36" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="LAT| PELICULA",LAT| PPV 36
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/28539
+#EXTINF:-1 tvg-id="" tvg-name="LAT| PPV 37" tvg-logo="http://logo.protv.cc/picons/logos/laz.ppv.png" group-title="LAT| PELICULA",LAT| PPV 37
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/543996
+#EXTINF:-1 tvg-id="sv.Canal 6 de El Salvador" tvg-name="LSV| 6 EL SALVADOR" tvg-logo="http://logo.protv.cc/picons/logos/6-EL-SALVADOR.png" group-title="LAT| EL SALVADOR",LSV| 6 EL SALVADOR
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/111712
+#EXTINF:-1 tvg-id="sv.Canal 2 de El Salvador" tvg-name="LSV| CANAL 2" tvg-logo="http://logo.protv.cc/picons/logos/CANAL-2.jpg" group-title="LAT| EL SALVADOR",LSV| CANAL 2
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/111709
+#EXTINF:-1 tvg-id="sv.Canal 4 de El Salvador" tvg-name="LSV| CANAL 4" tvg-logo="http://logo.protv.cc/picons/logos/CANAL-4.jpg" group-title="LAT| EL SALVADOR",LSV| CANAL 4
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/111710
+#EXTINF:-1 tvg-id="LSV| CANAL 6" tvg-name="LSV| CANAL 6" tvg-logo="http://logo.protv.cc/picons/logos/CANAL-6.jpeg" group-title="LAT| EL SALVADOR",LSV| CANAL 6
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/111711
+#EXTINF:-1 tvg-id="sv.Canal 12 de El Salvador" tvg-name="LSV| CANAL 12" tvg-logo="http://logo.protv.cc/picons/logos/CANAL-12.png" group-title="LAT| EL SALVADOR",LSV| CANAL 12
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/111707
+#EXTINF:-1 tvg-id="sv.Canal 17 de San Salvador" tvg-name="LSV| CANAL 17" tvg-logo="http://logo.protv.cc/picons/logos/laz.cinecanal-hd.png" group-title="LAT| EL SALVADOR",LSV| CANAL 17
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/557319
+#EXTINF:-1 tvg-id="LSV| CANAL 19" tvg-name="LSV| CANAL 19" tvg-logo="http://logo.protv.cc/picons/logos/CANAL-19.jpg" group-title="LAT| EL SALVADOR",LSV| CANAL 19
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/111708
+#EXTINF:-1 tvg-id="sv.Canal 21 de El Salvador (Megavisión)" tvg-name="LSV| MEGAVISION CANAL 19" tvg-logo="http://logo.protv.cc/picons/logos/MEGAVISION-CANAL-19.jpg" group-title="LAT| EL SALVADOR",LSV| MEGAVISION CANAL 19
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/111713
+#EXTINF:-1 tvg-id="LSV| MEGAVISION CANAL 21" tvg-name="LSV| MEGAVISION CANAL 21" tvg-logo="http://logo.protv.cc/picons/logos/MEGAVISION-CANAL-21.jpg" group-title="LAT| EL SALVADOR",LSV| MEGAVISION CANAL 21
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/111714
+#EXTINF:-1 tvg-id="" tvg-name="LSV| TUTV CANAL 11" tvg-logo="http://logo.protv.cc/picons/logos/TUTV-CANAL-11.png" group-title="LAT| EL SALVADOR",LSV| TUTV CANAL 11
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/111715
+#EXTINF:-1 tvg-id="sv.Canal 10 de San Salvador" tvg-name="LSV| TVES CANAL 10" tvg-logo="http://logo.protv.cc/picons/logos/TVES-CANAL-10.jpeg" group-title="LAT| EL SALVADOR",LSV| TVES CANAL 10
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/111716
+#EXTINF:-1 tvg-id="sv.VTV Canal 35 ESA (VTV Canal)" tvg-name="LSV| VTV CANAL 35" tvg-logo="http://logo.protv.cc/picons/logos/vtv.png" group-title="LAT| EL SALVADOR",LSV| VTV CANAL 35
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/111717
+#EXTINF:-1 tvg-id="" tvg-name="LSV| WOW TV" tvg-logo="http://logo.protv.cc/picons/logos/WOW-TV.png" group-title="LAT| EL SALVADOR",LSV| WOW TV
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/111718
+#EXTINF:-1 tvg-id="mx.Canal 24hs España" tvg-name="MXC| 24H SD" tvg-logo="http://logo.protv.cc/picons/logos/24h.png" group-title="LAT| MEXICO",MXC| 24H SD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552782
+#EXTINF:-1 tvg-id="mx.A&E" tvg-name="MXC| A&E HD" tvg-logo="http://logo.protv.cc/picons/logos/aandehd.png" group-title="LAT| MEXICO",MXC| A&E HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552903
+#EXTINF:-1 tvg-id="mx.Atrescine" tvg-name="MXC| A3CINE FHD" tvg-logo="http://logo.protv.cc/picons/logos/A3CINE.jpeg" group-title="LAT| MEXICO",MXC| A3CINE FHD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552786
+#EXTINF:-1 tvg-id="mx.adn40" tvg-name="MXC| ADN 40" tvg-logo="http://logo.protv.cc/picons/logos/laz.and40.png" group-title="LAT| MEXICO",MXC| ADN 40
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25332
+#EXTINF:-1 tvg-id="mx.Canal Adrenalina Sports Network" tvg-name="MXC| ADRENALINA FHD" tvg-logo="http://logo.protv.cc/picons/logos/ADRENALINA.png" group-title="LAT| MEXICO",MXC| ADRENALINA FHD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552783
+#EXTINF:-1 tvg-id="mx.Canal Afizzionados" tvg-name="MXC| AFIZZIONADOS FHD" tvg-logo="http://logo.protv.cc/picons/logos/AFIZZIONADOS.png" group-title="LAT| MEXICO",MXC| AFIZZIONADOS FHD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552784
+#EXTINF:-1 tvg-id="" tvg-name="MXC| ALEBRIJE TV" tvg-logo="http://logo.protv.cc/picons/logos/LATINO/ALEBRIJE.png" group-title="LAT| MEXICO",MXC| ALEBRIJE TV
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/806278
+#EXTINF:-1 tvg-id="mx.AMC HD" tvg-name="MXC| AMC" tvg-logo="http://logo.protv.cc/picons/logos/amc.png" group-title="LAT| MEXICO",MXC| AMC
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552971
+#EXTINF:-1 tvg-id="mx.Animal Planet" tvg-name="MXC| ANIMAL PLANET HD" tvg-logo="http://logo.protv.cc/picons/logos/animalplanethd.png" group-title="LAT| MEXICO",MXC| ANIMAL PLANET HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552905
+#EXTINF:-1 tvg-id="mx.Antena 3" tvg-name="MXC| ANTENA 3" tvg-logo="http://logo.protv.cc/picons/logos/antena3.png" group-title="LAT| MEXICO",MXC| ANTENA 3
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552785
+#EXTINF:-1 tvg-id="MXC| ANTENA 3 INTERNACIONAL" tvg-name="MXC| ANTENA 3 INTERNACIONAL" tvg-logo="http://logo.protv.cc/picons/logos/ANTENA-3-INTERNACIONAL.jpeg" group-title="LAT| MEXICO",MXC| ANTENA 3 INTERNACIONAL
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552972
+#EXTINF:-1 tvg-id="mx.Atreseries" tvg-name="MXC| ATRE SERIES" tvg-logo="http://logo.protv.cc/picons/logos/atreseries.png" group-title="LAT| MEXICO",MXC| ATRE SERIES
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552968
+#EXTINF:-1 tvg-id="MXC| ATRES SERIES FHD" tvg-name="MXC| ATRES SERIES FHD" tvg-logo="http://logo.protv.cc/picons/logos/atreseries.png" group-title="LAT| MEXICO",MXC| ATRES SERIES FHD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552787
+#EXTINF:-1 tvg-id="mx.AXN" tvg-name="MXC| AXN HD" tvg-logo="http://logo.protv.cc/picons/logos/axnhd.png" group-title="LAT| MEXICO",MXC| AXN HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552904
+#EXTINF:-1 tvg-id="mx.Az Cinema" tvg-name="MXC| AZ CINEMA" tvg-logo="http://logo.protv.cc/picons/logos/AZ-CINEMA.jpeg" group-title="LAT| MEXICO",MXC| AZ CINEMA
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552973
+#EXTINF:-1 tvg-id="mx.Canal AZ Clic!" tvg-name="MXC| AZ CLIC" tvg-logo="http://logo.protv.cc/picons/logos/mxc.azclic.png" group-title="LAT| MEXICO",MXC| AZ CLIC
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25329
+#EXTINF:-1 tvg-id="mx.Canal AZ Corazón" tvg-name="MXC| AZ CORAZON" tvg-logo="http://logo.protv.cc/picons/logos/mxc.azcorazon.png" group-title="LAT| MEXICO",MXC| AZ CORAZON
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25328
+#EXTINF:-1 tvg-id="mx.Canal AZ Mundo" tvg-name="MXC| AZ MUNDO" tvg-logo="http://logo.protv.cc/picons/logos/mxc.AZ_Mundo.png" group-title="LAT| MEXICO",MXC| AZ MUNDO
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25325
+#EXTINF:-1 tvg-id="mx.Canal Azteca 7  (México)" tvg-name="MXC| AZTECA 7" tvg-logo="http://logo.protv.cc/picons/logos/mxc.Azteca_7.png" group-title="LAT| MEXICO",MXC| AZTECA 7
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25330
+#EXTINF:-1 tvg-id="MXC| AZTECA CORAZON HD" tvg-name="MXC| AZTECA CORAZON HD" tvg-logo="http://logo.protv.cc/picons/logos/AZTECA-CORAZON.jpeg" group-title="LAT| MEXICO",MXC| AZTECA CORAZON HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552975
+#EXTINF:-1 tvg-id="mx.Canal Azteca Uno" tvg-name="MXC| AZTECA UNO" tvg-logo="http://logo.protv.cc/picons/logos/mxc.azteca_uno.png" group-title="LAT| MEXICO",MXC| AZTECA UNO
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25331
+#EXTINF:-1 tvg-id="" tvg-name="MXC| B CINE FHD" tvg-logo="http://logo.protv.cc/picons/logos/B-CINE.png" group-title="LAT| MEXICO",MXC| B CINE FHD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552788
+#EXTINF:-1 tvg-id="mx.Canal BabyFirst TV" tvg-name="MXC| BABY FIRST" tvg-logo="http://logo.protv.cc/picons/logos/babyfirst.png" group-title="LAT| MEXICO",MXC| BABY FIRST
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552906
+#EXTINF:-1 tvg-id="mx.Bandamax" tvg-name="MXC| BANDAMAX" tvg-logo="http://logo.protv.cc/picons/logos/mxc.Bandamax.png" group-title="LAT| MEXICO",MXC| BANDAMAX
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/90349
+#EXTINF:-1 tvg-id="mx.Canal BitMe" tvg-name="MXC| BITME FHD" tvg-logo="http://logo.protv.cc/picons/logos/BITME.png" group-title="LAT| MEXICO",MXC| BITME FHD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552790
+#EXTINF:-1 tvg-id="mx.Bloomberg" tvg-name="MXC| BLOOMBERG TV HD" tvg-logo="http://logo.protv.cc/picons/logos/bloombergtv.png" group-title="LAT| MEXICO",MXC| BLOOMBERG TV HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/553078
+#EXTINF:-1 tvg-id="mx.Hola TV" tvg-name="MXC| CADENA H" tvg-logo="http://logo.protv.cc/picons/logos/CADENA-H.jpeg" group-title="LAT| MEXICO",MXC| CADENA H
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552981
+#EXTINF:-1 tvg-id="" tvg-name="MXC| CANAL 113 HD" tvg-logo="http://logo.protv.cc/picons/logos/CANAL-11.jpeg" group-title="LAT| MEXICO",MXC| CANAL 113 HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/553060
+#EXTINF:-1 tvg-id="" tvg-name="MXC| CANAL 4" tvg-logo="http://logo.protv.cc/picons/logos/CANAL-4.jpg" group-title="LAT| MEXICO",MXC| CANAL 4
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/553056
+#EXTINF:-1 tvg-id="" tvg-name="MXC| CANAL 5" tvg-logo="http://logo.protv.cc/picons/logos/mxc.canal5hd.png" group-title="LAT| MEXICO",MXC| CANAL 5
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552823
+#EXTINF:-1 tvg-id="" tvg-name="MXC| CANAL 5 HD" tvg-logo="http://logo.protv.cc/picons/logos/mxc.canal5hd.png" group-title="LAT| MEXICO",MXC| CANAL 5 HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25327
+#EXTINF:-1 tvg-id="" tvg-name="MXC| CANAL 9" tvg-logo="http://logo.protv.cc/picons/logos/canal9.png" group-title="LAT| MEXICO",MXC| CANAL 9
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552824
+#EXTINF:-1 tvg-id="mx.Las Estrellas" tvg-name="MXC| CANAL DE LAS ESTRELLAS" tvg-logo="http://logo.protv.cc/picons/logos/laz.canal_de_las_estrellas.png" group-title="LAT| MEXICO",MXC| CANAL DE LAS ESTRELLAS
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25321
+#EXTINF:-1 tvg-id="mx.Canal Once" tvg-name="MXC| CANAL ONCE" tvg-logo="http://logo.protv.cc/picons/logos/mxc.canalonce.png" group-title="LAT| MEXICO",MXC| CANAL ONCE
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25323
+#EXTINF:-1 tvg-id="mx.Canal Once" tvg-name="MXC| CANAL ONCE INT." tvg-logo="http://logo.protv.cc/picons/logos/mxc.canalonce.png" group-title="LAT| MEXICO",MXC| CANAL ONCE INT.
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25322
+#EXTINF:-1 tvg-id="mx.Canal Once" tvg-name="MXC| CANAL ONCE INTNL HD" tvg-logo="http://logo.protv.cc/picons/logos/mxc.canalonce.png" group-title="LAT| MEXICO",MXC| CANAL ONCE INTNL HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552956
+#EXTINF:-1 tvg-id="mx.Canal Once" tvg-name="MXC| CANAL ONCE MX" tvg-logo="http://logo.protv.cc/picons/logos/mxc.canalonce.png" group-title="LAT| MEXICO",MXC| CANAL ONCE MX
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25324
+#EXTINF:-1 tvg-id="mx.Cartoon Network" tvg-name="MXC| CARTOON NETWORK HD" tvg-logo="http://logo.protv.cc/picons/logos/cartoonnetworkhd.png" group-title="LAT| MEXICO",MXC| CARTOON NETWORK HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552909
+#EXTINF:-1 tvg-id="mx.Cinecanal" tvg-name="MXC| CINECANAL" tvg-logo="http://logo.protv.cc/picons/logos/laz.cinecanal.png" group-title="LAT| MEXICO",MXC| CINECANAL
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552826
+#EXTINF:-1 tvg-id="mx.Cinecanal HD" tvg-name="MXC| CINECANAL HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.cinecanal-hd.png" group-title="LAT| MEXICO",MXC| CINECANAL HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552982
+#EXTINF:-1 tvg-id="mx.Cinemax" tvg-name="MXC| CINEMAX HD" tvg-logo="http://logo.protv.cc/picons/logos/cinemaxhd.png" group-title="LAT| MEXICO",MXC| CINEMAX HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552910
+#EXTINF:-1 tvg-id="mx.Canal Clan TVE" tvg-name="MXC| CLAN FHD" tvg-logo="http://logo.protv.cc/picons/logos/tveclanhd.png" group-title="LAT| MEXICO",MXC| CLAN FHD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552792
+#EXTINF:-1 tvg-id="mx.Comedy Central" tvg-name="MXC| COMEDY CENTRAL HD" tvg-logo="http://logo.protv.cc/picons/logos/comedycentralhd.png" group-title="LAT| MEXICO",MXC| COMEDY CENTRAL HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552908
+#EXTINF:-1 tvg-id="ES| COCINA TV" tvg-name="MXC| COCINA TV" tvg-logo="http://logo.protv.cc/picons/logos/canalcocina.png" group-title="LAT| MEXICO",MXC| COCINA TV
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/806272
+#EXTINF:-1 tvg-id="" tvg-name="MXC| COMO DICE EL DICHO TV" tvg-logo="http://logo.protv.cc/picons/logos/LATINO/COMO-DICE-EL-DICHO.jpg" group-title="LAT| MEXICO",MXC| COMO DICE EL DICHO TV
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/806276
+#EXTINF:-1 tvg-id="mx.De Película" tvg-name="MXC| DE  PELICULA" tvg-logo="http://logo.protv.cc/picons/logos/laz.depelicula_hd.png" group-title="LAT| MEXICO",MXC| DE  PELICULA
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552828
+#EXTINF:-1 tvg-id="mx.Canal De Película Clásico" tvg-name="MXC| DE PELICULA CLASSICO" tvg-logo="http://logo.protv.cc/picons/logos/laz.depelicula_clasico.png" group-title="LAT| MEXICO",MXC| DE PELICULA CLASSICO
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/553079
+#EXTINF:-1 tvg-id="mx.De Película HD" tvg-name="MXC| DE PELICULA HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.de_pelicula.png" group-title="LAT| MEXICO",MXC| DE PELICULA HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/553081
+#EXTINF:-1 tvg-id="mx.Canal De Película (Multiplex)" tvg-name="MXC| DE PELICULA PLUS FHD" tvg-logo="http://logo.protv.cc/picons/logos/laz.depeliculaplus.png" group-title="LAT| MEXICO",MXC| DE PELICULA PLUS FHD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552794
+#EXTINF:-1 tvg-id="MXC| DE PELICULA PLUS HD" tvg-name="MXC| DE PELICULA PLUS HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.depeliculaplus.png" group-title="LAT| MEXICO",MXC| DE PELICULA PLUS HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/553080
+#EXTINF:-1 tvg-id="MXC| DE PELICULA SD" tvg-name="MXC| DE PELICULA SD" tvg-logo="http://logo.protv.cc/picons/logos/laz.depelicula_hd.png" group-title="LAT| MEXICO",MXC| DE PELICULA SD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552793
+#EXTINF:-1 tvg-id="mx.Discovery HD" tvg-name="MXC| DISCOVERY CHANNEL HD" tvg-logo="http://logo.protv.cc/picons/logos/discoverychannel.png" group-title="LAT| MEXICO",MXC| DISCOVERY CHANNEL HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552911
+#EXTINF:-1 tvg-id="mx.Discovery Civilization" tvg-name="MXC| DISCOVERY CIVILIZATION HD" tvg-logo="http://logo.protv.cc/picons/logos/DISCOVERY-CIVILIZATION.png" group-title="LAT| MEXICO",MXC| DISCOVERY CIVILIZATION HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552985
+#EXTINF:-1 tvg-id="mx.Discovery Home & Health" tvg-name="MXC| DISCOVERY H&H HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.discoveryhyh.png" group-title="LAT| MEXICO",MXC| DISCOVERY H&H HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552986
+#EXTINF:-1 tvg-id="mx.Discovery Kids" tvg-name="MXC| DISCOVERY KIDS" tvg-logo="http://logo.protv.cc/picons/logos/DISCOVERY-KIDS-HD.jpg" group-title="LAT| MEXICO",MXC| DISCOVERY KIDS
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552829
+#EXTINF:-1 tvg-id="mx.Discovery Science" tvg-name="MXC| DISCOVERY SCIENCE HD" tvg-logo="http://logo.protv.cc/picons/logos/discoveryscience.png" group-title="LAT| MEXICO",MXC| DISCOVERY SCIENCE HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552987
+#EXTINF:-1 tvg-id="mx.Discovery Theater" tvg-name="MXC| DISCOVERY THEATER HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.discoverytheater.png" group-title="LAT| MEXICO",MXC| DISCOVERY THEATER HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552913
+#EXTINF:-1 tvg-id="mx.Discovery Turbo" tvg-name="MXC| DISCOVERY TURBO HD" tvg-logo="http://logo.protv.cc/picons/logos/discoveryturbo.png" group-title="LAT| MEXICO",MXC| DISCOVERY TURBO HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552912
+#EXTINF:-1 tvg-id="mx.Discovery World" tvg-name="MXC| DISCOVERY WORLD" tvg-logo="http://logo.protv.cc/picons/logos/discoveryworld.png" group-title="LAT| MEXICO",MXC| DISCOVERY WORLD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552832
+#EXTINF:-1 tvg-id="mx.Disney Channel" tvg-name="MXC| DISNEY CHANNEL HD" tvg-logo="http://logo.protv.cc/picons/logos/disneychannelhd.png" group-title="LAT| MEXICO",MXC| DISNEY CHANNEL HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552922
+#EXTINF:-1 tvg-id="mx.Disney Junior" tvg-name="MXC| DISNEY JR" tvg-logo="http://logo.protv.cc/picons/logos/disneyjr.png" group-title="LAT| MEXICO",MXC| DISNEY JR
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552989
+#EXTINF:-1 tvg-id="la.Distrito Comedia" tvg-name="MXC| DISTRITO COMEDIA" tvg-logo="http://logo.protv.cc/picons/logos/laz.distritocomedia.png" group-title="LAT| MEXICO",MXC| DISTRITO COMEDIA
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/806271
+#EXTINF:-1 tvg-id="mx.E!" tvg-name="MXC| E! ENTERTAINMENT HD" tvg-logo="http://logo.protv.cc/picons/logos/eentertainment.png" group-title="LAT| MEXICO",MXC| E! ENTERTAINMENT HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552937
+#EXTINF:-1 tvg-id="mx.El Gourmet" tvg-name="MXC| EL GOURMET HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.Elgourmet.png" group-title="LAT| MEXICO",MXC| EL GOURMET HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552935
+#EXTINF:-1 tvg-id="mx.ESPN 2" tvg-name="MXC| ESPN 2" tvg-logo="http://logo.protv.cc/picons/logos/laz.espn2.png" group-title="LAT| MEXICO",MXC| ESPN 2
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552834
+#EXTINF:-1 tvg-id="mx.ESPN 3" tvg-name="MXC| ESPN 3" tvg-logo="http://logo.protv.cc/picons/logos/laz.espn3.png" group-title="LAT| MEXICO",MXC| ESPN 3
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552835
+#EXTINF:-1 tvg-id="mx.ESPN" tvg-name="MXC| ESPN HD" tvg-logo="http://logo.protv.cc/picons/logos/espnhd.png" group-title="LAT| MEXICO",MXC| ESPN HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552836
+#EXTINF:-1 tvg-id="mx.ESPN+ HD" tvg-name="MXC| ESPN PLUS HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.espn_plus_hd.png" group-title="LAT| MEXICO",MXC| ESPN PLUS HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552837
+#EXTINF:-1 tvg-id="mx.film&arts" tvg-name="MXC| FILM & ART HD" tvg-logo="http://logo.protv.cc/picons/logos/FILM-AND-ART-HD.png" group-title="LAT| MEXICO",MXC| FILM & ART HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552993
+#EXTINF:-1 tvg-id="mx.Food Network" tvg-name="MXC| FOOD NETWORK" tvg-logo="http://logo.protv.cc/picons/logos/foodnetwork.png" group-title="LAT| MEXICO",MXC| FOOD NETWORK
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552994
+#EXTINF:-1 tvg-id="mx.FOROtv" tvg-name="MXC| FORO TV" tvg-logo="http://logo.protv.cc/picons/logos/laz.forotvhd.png" group-title="LAT| MEXICO",MXC| FORO TV
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25326
+#EXTINF:-1 tvg-id="mx.FOX Sports 3" tvg-name="MXC| FOX SPORTS 3" tvg-logo="http://logo.protv.cc/picons/logos/foxsports3.png" group-title="LAT| MEXICO",MXC| FOX SPORTS 3
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552846
+#EXTINF:-1 tvg-id="mx.FOX Sports 2" tvg-name="MXC| FOX SPORTS 2" tvg-logo="http://logo.protv.cc/picons/logos/foxsports2hd.png" group-title="LAT| MEXICO",MXC| FOX SPORTS 2
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552847
+#EXTINF:-1 tvg-id="mx.FOX Sports" tvg-name="MXC| FOX SPORTS HD" tvg-logo="http://logo.protv.cc/picons/logos/foxsportshd.png" group-title="LAT| MEXICO",MXC| FOX SPORTS HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552849
+#EXTINF:-1 tvg-id="mx.FX" tvg-name="MXC| FX HD" tvg-logo="http://logo.protv.cc/picons/logos/FX-HD.jpg" group-title="LAT| MEXICO",MXC| FX HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552919
+#EXTINF:-1 tvg-id="mx.FX Movies" tvg-name="MXC| FX MOVIES HD" tvg-logo="http://logo.protv.cc/picons/logos/FOX-MOVIES-HD.jpeg" group-title="LAT| MEXICO",MXC| FX MOVIES HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552925
+#EXTINF:-1 tvg-id="MXC| FXM HD" tvg-name="MXC| FXM HD" tvg-logo="http://logo.protv.cc/picons/logos/FXM-HD.png" group-title="LAT| MEXICO",MXC| FXM HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552920
+#EXTINF:-1 tvg-id="GalaTV9Nacional.mx" tvg-name="MXC| GALA TV 9 HD" tvg-logo="http://logo.protv.cc/picons/logos/GALA-TV.jpeg" group-title="LAT| MEXICO",MXC| GALA TV 9 HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552901
+#EXTINF:-1 tvg-id="mx.Canal 5 Galavision" tvg-name="MXC| GALAVISION HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.galavision.png" group-title="LAT| MEXICO",MXC| GALAVISION HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552878
+#EXTINF:-1 tvg-id="mx.Glitz" tvg-name="MXC| GLITZ HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.Glitz.png" group-title="LAT| MEXICO",MXC| GLITZ HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552997
+#EXTINF:-1 tvg-id="mx.Golden" tvg-name="MXC| GOLDEN" tvg-logo="http://logo.protv.cc/picons/logos/laz.golden.png" group-title="LAT| MEXICO",MXC| GOLDEN
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552998
+#EXTINF:-1 tvg-id="mx.Golden Edge" tvg-name="MXC| GOLDEN EDGE" tvg-logo="http://logo.protv.cc/picons/logos/GOLDEN-EDGE.png" group-title="LAT| MEXICO",MXC| GOLDEN EDGE
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552999
+#EXTINF:-1 tvg-id="mx.Canal Golden Multiplex" tvg-name="MXC| GOLDEN MULTIPLEX" tvg-logo="http://logo.protv.cc/picons/logos/laz.golden.png" group-title="LAT| MEXICO",MXC| GOLDEN MULTIPLEX
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552799
+#EXTINF:-1 tvg-id="mx.Canal Golden Plus" tvg-name="MXC| GOLDEN PLUS" tvg-logo="http://logo.protv.cc/picons/logos/laz.goldenplus.png" group-title="LAT| MEXICO",MXC| GOLDEN PLUS
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/553000
+#EXTINF:-1 tvg-id="mx.HBO 2" tvg-name="MXC| HBO 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/hbo2hd.png" group-title="LAT| MEXICO",MXC| HBO 2 HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552933
+#EXTINF:-1 tvg-id="mx.HBO" tvg-name="MXC| HBO HD" tvg-logo="http://logo.protv.cc/picons/logos/hbohd.png" group-title="LAT| MEXICO",MXC| HBO HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552934
+#EXTINF:-1 tvg-id="mx.HBO Mundi" tvg-name="MXC| HBO MUNDI" tvg-logo="http://logo.protv.cc/picons/logos/HBO-MUNDI.jpeg" group-title="LAT| MEXICO",MXC| HBO MUNDI
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552854
+#EXTINF:-1 tvg-id="mx.HBO Plus México" tvg-name="MXC| HBO PLUS HD" tvg-logo="http://logo.protv.cc/picons/logos/HBO-PLUS.png" group-title="LAT| MEXICO",MXC| HBO PLUS HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552931
+#EXTINF:-1 tvg-id="mx.HBO Signature" tvg-name="MXC| HBO SIGNATURE HD" tvg-logo="http://logo.protv.cc/picons/logos/hbosignature.jpeg" group-title="LAT| MEXICO",MXC| HBO SIGNATURE HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552930
+#EXTINF:-1 tvg-id="mx.History 2" tvg-name="MXC| HISTORY 2" tvg-logo="http://logo.protv.cc/picons/logos/history2.png" group-title="LAT| MEXICO",MXC| HISTORY 2
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552855
+#EXTINF:-1 tvg-id="mx.History" tvg-name="MXC| HISTORY HD" tvg-logo="http://logo.protv.cc/picons/logos/historyhd.png" group-title="LAT| MEXICO",MXC| HISTORY HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552939
+#EXTINF:-1 tvg-id="mx.Canal HLN" tvg-name="MXC| HLN HD" tvg-logo="http://logo.protv.cc/picons/logos/HLN-HD.png" group-title="LAT| MEXICO",MXC| HLN HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/553001
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="MXC| IMAGEN HD" tvg-logo="http://logo.protv.cc/picons/logos/mxc.Imagentv.png" group-title="LAT| MEXICO",MXC| IMAGEN HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25316
+#EXTINF:-1 tvg-id="mx.Investigation Discovery" tvg-name="MXC| INVESTIGATION DISCOVERY HD" tvg-logo="http://logo.protv.cc/picons/logos/investigationdiscovery.png" group-title="LAT| MEXICO",MXC| INVESTIGATION DISCOVERY HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552914
+#EXTINF:-1 tvg-id="" tvg-name="MXC| LA ROSA DE GUADALUPE TV" tvg-logo="http://logo.protv.cc/picons/logos/LATINO/LA-ROSA-DE-GUADALUPE.png" group-title="LAT| MEXICO",MXC| LA ROSA DE GUADALUPE TV
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/806275
+#EXTINF:-1 tvg-id="MXC| LAS ESTRELLAS" tvg-name="MXC| LAS ESTRELLAS" tvg-logo="http://logo.protv.cc/picons/logos/lasestrellas.png" group-title="LAT| MEXICO",MXC| LAS ESTRELLAS
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552802
+#EXTINF:-1 tvg-id="MXC| LAS ESTRELLAS -1 HORA" tvg-name="MXC| LAS ESTRELLAS -1 HORA" tvg-logo="http://logo.protv.cc/picons/logos/lasestrellas.png" group-title="LAT| MEXICO",MXC| LAS ESTRELLAS -1 HORA
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552803
+#EXTINF:-1 tvg-id="MXC| LAS ESTRELLAS -2 HORA" tvg-name="MXC| LAS ESTRELLAS -2 HORA" tvg-logo="http://logo.protv.cc/picons/logos/lasestrellas.png" group-title="LAT| MEXICO",MXC| LAS ESTRELLAS -2 HORA
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552804
+#EXTINF:-1 tvg-id="MXC| LAS ESTRELLAS 1 HD" tvg-name="MXC| LAS ESTRELLAS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/lasestrellas.png" group-title="LAT| MEXICO",MXC| LAS ESTRELLAS 1 HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552873
+#EXTINF:-1 tvg-id="MXC| LAS ESTRELLAS FHD" tvg-name="MXC| LAS ESTRELLAS FHD" tvg-logo="http://logo.protv.cc/picons/logos/lasestrellas.png" group-title="LAT| MEXICO",MXC| LAS ESTRELLAS FHD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552872
+#EXTINF:-1 tvg-id="MXC| LAS ESTRELLAS HD" tvg-name="MXC| LAS ESTRELLAS HD" tvg-logo="http://logo.protv.cc/picons/logos/CANAL-DE-LAS-ESTRELLAS.png" group-title="LAT| MEXICO",MXC| LAS ESTRELLAS HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552874
+#EXTINF:-1 tvg-id="mx.Lifetime" tvg-name="MXC| LIFETIME HD" tvg-logo="http://logo.protv.cc/picons/logos/lifetimehd.png" group-title="LAT| MEXICO",MXC| LIFETIME HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552943
+#EXTINF:-1 tvg-id="mx.Más Chic" tvg-name="MXC| MAS CHIC" tvg-logo="http://logo.protv.cc/picons/logos/laz.maschic.png" group-title="LAT| MEXICO",MXC| MAS CHIC
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/553006
+#EXTINF:-1 tvg-id="MXC| MAS CHIC HD" tvg-name="MXC| MAS CHIC HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.maschic.png" group-title="LAT| MEXICO",MXC| MAS CHIC HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/553047
+#EXTINF:-1 tvg-id="mx.Canal Mexiquense TV" tvg-name="MXC| MEXIQUENSE HD" tvg-logo="http://logo.protv.cc/picons/logos/mxc.mexiquensetv.png" group-title="LAT| MEXICO",MXC| MEXIQUENSE HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25315
+#EXTINF:-1 tvg-id="mx.Milenio TV" tvg-name="MXC| MILENIO TV HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.MilenioTV.png" group-title="LAT| MEXICO",MXC| MILENIO TV HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552955
+#EXTINF:-1 tvg-id="mx.MORBIDO TV [Morbido TV]" tvg-name="MXC| MORBIDO HD" tvg-logo="http://logo.protv.cc/picons/logos/MORBIDO.png" group-title="LAT| MEXICO",MXC| MORBIDO HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552898
+#EXTINF:-1 tvg-id="mx.MTV" tvg-name="MXC| MTV HD" tvg-logo="http://logo.protv.cc/picons/logos/mtvhd.png" group-title="LAT| MEXICO",MXC| MTV HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/553009
+#EXTINF:-1 tvg-id="mx.MTV Live HD" tvg-name="MXC| MTV LIVE HD" tvg-logo="http://logo.protv.cc/picons/logos/mtvlivehd.png" group-title="LAT| MEXICO",MXC| MTV LIVE HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/553007
+#EXTINF:-1 tvg-id="" tvg-name="MXC| MTV NEWS HD" tvg-logo="http://logo.protv.cc/picons/logos/MTV-HD.png" group-title="LAT| MEXICO",MXC| MTV NEWS HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/553008
+#EXTINF:-1 tvg-id="mx.Canal Multimedios" tvg-name="MXC| MULTIMEDIOS" tvg-logo="http://logo.protv.cc/picons/logos/laz.multimedios.png" group-title="LAT| MEXICO",MXC| MULTIMEDIOS
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552881
+#EXTINF:-1 tvg-id="mx.Canal Multimedios" tvg-name="MXC| MULTIMEDIOS MONTERREY HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.multimedios.png" group-title="LAT| MEXICO",MXC| MULTIMEDIOS MONTERREY HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552879
+#EXTINF:-1 tvg-id="mx.Canal Multimedios Plus" tvg-name="MXC| MULTIMEDIOS PLUS HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.multimedioplus.png" group-title="LAT| MEXICO",MXC| MULTIMEDIOS PLUS HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552897
+#EXTINF:-1 tvg-id="mx.National Geographic" tvg-name="MXC| NAT GEO HD" tvg-logo="http://logo.protv.cc/picons/logos/natgeohd.png" group-title="LAT| MEXICO",MXC| NAT GEO HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552944
+#EXTINF:-1 tvg-id="mx.Nat Geo Kids" tvg-name="MXC| NAT GEO KIDS HD" tvg-logo="http://logo.protv.cc/picons/logos/NAT-GEO-KIDS.jpeg" group-title="LAT| MEXICO",MXC| NAT GEO KIDS HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/553010
+#EXTINF:-1 tvg-id="LAT| NAT GEO WILD HD" tvg-name="MXC| NAT GEO WILD HD" tvg-logo="http://logo.protv.cc/picons/logos/natgeowildhd.png" group-title="LAT| MEXICO",MXC| NAT GEO WILD HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552938
+#EXTINF:-1 tvg-id="mx.Nat Geo Wild HD" tvg-name="MXC| NATGEO KIDS" tvg-logo="http://logo.protv.cc/picons/logos/NAT-GEO-KIDS.jpeg" group-title="LAT| MEXICO",MXC| NATGEO KIDS
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552859
+#EXTINF:-1 tvg-id="mx.Nick" tvg-name="MXC| NICK" tvg-logo="http://logo.protv.cc/picons/logos/nick.png" group-title="LAT| MEXICO",MXC| NICK
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552860
+#EXTINF:-1 tvg-id="mx.Nick 2" tvg-name="MXC| NICK 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.nick2.png" group-title="LAT| MEXICO",MXC| NICK 2 HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552945
+#EXTINF:-1 tvg-id="mx.Nick Jr." tvg-name="MXC| NICK JR HD" tvg-logo="http://logo.protv.cc/picons/logos/nickjrhd.png" group-title="LAT| MEXICO",MXC| NICK JR HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552949
+#EXTINF:-1 tvg-id="MXC| NICKELODEON HD" tvg-name="MXC| NICKELODEON HD" tvg-logo="http://logo.protv.cc/picons/logos/nickelodeonhd.png" group-title="LAT| MEXICO",MXC| NICKELODEON HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552948
+#EXTINF:-1 tvg-id="mx.NickToons" tvg-name="MXC| NICKTOONS" tvg-logo="http://logo.protv.cc/picons/logos/nicktoons.png" group-title="LAT| MEXICO",MXC| NICKTOONS
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/553011
+#EXTINF:-1 tvg-id="mx.El Nu9ve" tvg-name="MXC| NU9VE" tvg-logo="http://logo.protv.cc/picons/logos/NU9VE.png" group-title="LAT| MEXICO",MXC| NU9VE
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552805
+#EXTINF:-1 tvg-id="" tvg-name="MXC| NUESTRO CINE" tvg-logo="http://logo.protv.cc/picons/logos/NUESTRO-CINE.png" group-title="LAT| MEXICO",MXC| NUESTRO CINE
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/806277
+#EXTINF:-1 tvg-id="mx.Paramount Network" tvg-name="MXC| PARAMOUNT CHANNEL HD" tvg-logo="http://logo.protv.cc/picons/logos/paramountchannel.png" group-title="LAT| MEXICO",MXC| PARAMOUNT CHANNEL HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552929
+#EXTINF:-1 tvg-id="mx.Canal Pasiones (Latinoamérica)" tvg-name="MXC| PASIONES HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.pasioneshd.png" group-title="LAT| MEXICO",MXC| PASIONES HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552950
+#EXTINF:-1 tvg-id="" tvg-name="MXC| RETRO AMOR TV" tvg-logo="http://logo.protv.cc/picons/logos/RETRO-TV.png" group-title="LAT| MEXICO",MXC| RETRO AMOR TV
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/806273
+#EXTINF:-1 tvg-id="" tvg-name="MXC| ROMANCE TV" tvg-logo="http://logo.protv.cc/picons/logos/romancetvhd.png" group-title="LAT| MEXICO",MXC| ROMANCE TV
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/806274
+#EXTINF:-1 tvg-id="" tvg-name="MXC| RCG 2" tvg-logo="http://logo.protv.cc/picons/logos/RCG-2-HD.jpeg" group-title="LAT| MEXICO",MXC| RCG 2
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552959
+#EXTINF:-1 tvg-id="mx.Sony" tvg-name="MXC| SONY CHANNEL HD" tvg-logo="http://logo.protv.cc/picons/logos/SONY-CHANNEL.png" group-title="LAT| MEXICO",MXC| SONY CHANNEL HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552951
+#EXTINF:-1 tvg-id="mx.Space" tvg-name="MXC| SPACE HD" tvg-logo="http://logo.protv.cc/picons/logos/space.png" group-title="LAT| MEXICO",MXC| SPACE HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552899
+#EXTINF:-1 tvg-id="mx.Canal Star TVE" tvg-name="MXC| STAR TVE" tvg-logo="http://logo.protv.cc/picons/logos/STAR-TV-HD.jpg" group-title="LAT| MEXICO",MXC| STAR TVE
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552806
+#EXTINF:-1 tvg-id="mx.Studio Universal" tvg-name="MXC| STUDIO UNIVERSAL HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.studiouniversalhd.png" group-title="LAT| MEXICO",MXC| STUDIO UNIVERSAL HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552947
+#EXTINF:-1 tvg-id="mx.Star Channel" tvg-name="MXC| STAR CHANNEL" tvg-logo="http://logo.protv.cc/picons/logos/fox.png" group-title="LAT| MEXICO",MXC| STAR CHANNEL
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552842
+#EXTINF:-1 tvg-id="mx.Star Hits" tvg-name="MXC| STAR HITS HD" tvg-logo="http://logo.protv.cc/picons/logos/FOX-MOVIES-HD.jpeg" group-title="LAT| MEXICO",MXC| STAR HITS HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552926
+#EXTINF:-1 tvg-id="mx.Star Action HD" tvg-name="MXC| STAR ACTION" tvg-logo="http://logo.protv.cc/picons/logos/FOX-ACTION-MOVIES.png" group-title="LAT| MEXICO",MXC| STAR ACTION
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552843
+#EXTINF:-1 tvg-id="MXC| STAR ACTION MEXICO HD" tvg-name="MXC| STAR ACTION MEXICO HD" tvg-logo="http://logo.protv.cc/picons/logos/FOX-ACTION-MOVIES.png" group-title="LAT| MEXICO",MXC| STAR ACTION MEXICO HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552917
+#EXTINF:-1 tvg-id="mx.Star Cinema" tvg-name="MXC| STAR CINEMA HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.foxcinema.png" group-title="LAT| MEXICO",MXC| STAR CINEMA HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552923
+#EXTINF:-1 tvg-id="mx.Star Classics" tvg-name="MXC| STAR CLASSICS HD" tvg-logo="http://logo.protv.cc/picons/logos/FOX-PREMIUM-CLASSIC.png" group-title="LAT| MEXICO",MXC| STAR CLASSICS HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552924
+#EXTINF:-1 tvg-id="mx.Star Channel HD" tvg-name="MXC| STAR CHANNEL HD" tvg-logo="http://logo.protv.cc/picons/logos/foxhd.png" group-title="LAT| MEXICO",MXC| STAR CHANNEL HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552928
+#EXTINF:-1 tvg-id="mx.Star Life" tvg-name="MXC| STAR LIFE" tvg-logo="http://logo.protv.cc/picons/logos/foxlife.png" group-title="LAT| MEXICO",MXC| STAR LIFE
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552966
+#EXTINF:-1 tvg-id="mx.Star Series HD" tvg-name="MXC| STAR SERIES HD" tvg-logo="http://logo.protv.cc/picons/logos/FOX-PREMIUM-2.png" group-title="LAT| MEXICO",MXC| STAR SERIES HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552927
+#EXTINF:-1 tvg-id="mx.Canal Syfy (Latinoamérica)" tvg-name="MXC| SYFY" tvg-logo="http://logo.protv.cc/picons/logos/SYFY-HD.png" group-title="LAT| MEXICO",MXC| SYFY
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/553016
+#EXTINF:-1 tvg-id="MXC| STAR SERIES" tvg-name="MXC| STAR SERIES" tvg-logo="http://logo.protv.cc/picons/logos/laz.foxseries.png" group-title="LAT| MEXICO",MXC| STAR SERIES
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552845
+#EXTINF:-1 tvg-id="mx.TBS" tvg-name="MXC| TBS HD" tvg-logo="http://logo.protv.cc/picons/logos/TBS-HD.png" group-title="LAT| MEXICO",MXC| TBS HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/553017
+#EXTINF:-1 tvg-id="mx.TCM" tvg-name="MXC| TCM HD" tvg-logo="http://logo.protv.cc/picons/logos/tcmhd.png" group-title="LAT| MEXICO",MXC| TCM HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/553042
+#EXTINF:-1 tvg-id="mx.Canal Telefórmula" tvg-name="MXC| TELEFORMULA" tvg-logo="http://logo.protv.cc/picons/logos/mxc.teleformula.png" group-title="LAT| MEXICO",MXC| TELEFORMULA
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/25317
+#EXTINF:-1 tvg-id="mx.Telehit" tvg-name="MXC| TELEHIT MUSICA" tvg-logo="http://logo.protv.cc/picons/logos/TELEHIT-PLUS.png" group-title="LAT| MEXICO",MXC| TELEHIT MUSICA
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552808
+#EXTINF:-1 tvg-id="mx.Telehit" tvg-name="MXC| TELEHIT MUSICA PLUS" tvg-logo="http://logo.protv.cc/picons/logos/TELEHIT-PLUS.png" group-title="LAT| MEXICO",MXC| TELEHIT MUSICA PLUS
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552809
+#EXTINF:-1 tvg-id="TelehitHD.mx" tvg-name="MXC| TELEHIT PLUS HD" tvg-logo="http://logo.protv.cc/picons/logos/TELEHIT-PLUS.png" group-title="LAT| MEXICO",MXC| TELEHIT PLUS HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552902
+#EXTINF:-1 tvg-id="Telemundo.mx" tvg-name="MXC| TELEMUNDO" tvg-logo="http://logo.protv.cc/picons/logos/TELEMUNDO-.jpeg" group-title="LAT| MEXICO",MXC| TELEMUNDO
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552867
+#EXTINF:-1 tvg-id="mx.Canal Telemundo (Panregional)" tvg-name="MXC| TELEMUNDO INTERNATIONAL" tvg-logo="http://logo.protv.cc/picons/logos/laz.telemundo_internaciona.png" group-title="LAT| MEXICO",MXC| TELEMUNDO INTERNATIONAL
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552810
+#EXTINF:-1 tvg-id="mx.TLNovelas" tvg-name="MXC| TELENOVELAS FHD" tvg-logo="http://logo.protv.cc/picons/logos/laz.telenovelas.png" group-title="LAT| MEXICO",MXC| TELENOVELAS FHD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/553043
+#EXTINF:-1 tvg-id="" tvg-name="MXC| TELERITMO" tvg-logo="http://logo.protv.cc/picons/logos/TELERITMO.png" group-title="LAT| MEXICO",MXC| TELERITMO
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552963
+#EXTINF:-1 tvg-id="mx.Canal 4 de Guadalajara (México)" tvg-name="MXC| TELEVISA GUADALAJARA" tvg-logo="http://logo.protv.cc/picons/logos/TELEVISA.jpeg" group-title="LAT| MEXICO",MXC| TELEVISA GUADALAJARA
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552811
+#EXTINF:-1 tvg-id="mx.Canal 4 de Monterrey (XEFB-TDT)" tvg-name="MXC| TELEVISA MONTERREY 4 FHD" tvg-logo="http://logo.protv.cc/picons/logos/TELEVISA.jpeg" group-title="LAT| MEXICO",MXC| TELEVISA MONTERREY 4 FHD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552795
+#EXTINF:-1 tvg-id="mx.Canal 4 de Monterrey (XEFB-TDT)" tvg-name="MXC| TELEVISA MTY" tvg-logo="http://logo.protv.cc/picons/logos/TELEVISA.jpeg" group-title="LAT| MEXICO",MXC| TELEVISA MTY
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552876
+#EXTINF:-1 tvg-id="mx.Canal TLC (México)" tvg-name="MXC| TLC HD" tvg-logo="http://logo.protv.cc/picons/logos/tlchd.png" group-title="LAT| MEXICO",MXC| TLC HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552940
+#EXTINF:-1 tvg-id="mx.TLNovelas" tvg-name="MXC| TLNOVELAS" tvg-logo="http://logo.protv.cc/picons/logos/laz.Univision_tlnovelas.png" group-title="LAT| MEXICO",MXC| TLNOVELAS
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552812
+#EXTINF:-1 tvg-id="" tvg-name="MXC| TLR HD" tvg-logo="http://logo.protv.cc/picons/logos/rtlradio.png" group-title="LAT| MEXICO",MXC| TLR HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/553044
+#EXTINF:-1 tvg-id="mx.TNT" tvg-name="MXC| TNT HD" tvg-logo="http://logo.protv.cc/picons/logos/tnthd.png" group-title="LAT| MEXICO",MXC| TNT HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552942
+#EXTINF:-1 tvg-id="mx.TNT Series" tvg-name="MXC| TNT SERIES" tvg-logo="http://logo.protv.cc/picons/logos/tntserie.png" group-title="LAT| MEXICO",MXC| TNT SERIES
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/553045
+#EXTINF:-1 tvg-id="mx.Tooncast" tvg-name="MXC| TOONCAST HD" tvg-logo="http://logo.protv.cc/picons/logos/TOONCAST-HD.png" group-title="LAT| MEXICO",MXC| TOONCAST HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/553046
+#EXTINF:-1 tvg-id="mx.TruTV" tvg-name="MXC| TRU TV HD" tvg-logo="http://logo.protv.cc/picons/logos/TRUTV-HD.jpg" group-title="LAT| MEXICO",MXC| TRU TV HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552952
+#EXTINF:-1 tvg-id="mx.Canal TUDN (México)" tvg-name="MXC| TUDN" tvg-logo="http://logo.protv.cc/picons/logos/TUDN.jpeg" group-title="LAT| MEXICO",MXC| TUDN
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552870
+#EXTINF:-1 tvg-id="XHGV.mx" tvg-name="MXC| TV MAS HD" tvg-logo="http://logo.protv.cc/picons/logos/TV-MAS.png" group-title="LAT| MEXICO",MXC| TV MAS HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552958
+#EXTINF:-1 tvg-id="mx.Canal TV5MONDE" tvg-name="MXC| TV5 FRANCIA" tvg-logo="http://logo.protv.cc/picons/logos/tv5.png" group-title="LAT| MEXICO",MXC| TV5 FRANCIA
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/553048
+#EXTINF:-1 tvg-id="mx.TVC" tvg-name="MXC| TVC" tvg-logo="http://logo.protv.cc/picons/logos/televicentro_tvc.png" group-title="LAT| MEXICO",MXC| TVC
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552900
+#EXTINF:-1 tvg-id="mx.TVE" tvg-name="MXC| TVE" tvg-logo="http://logo.protv.cc/picons/logos/tve.png" group-title="LAT| MEXICO",MXC| TVE
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552814
+#EXTINF:-1 tvg-id="MXC| TVE HD" tvg-name="MXC| TVE HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.tvehd.png" group-title="LAT| MEXICO",MXC| TVE HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/553049
+#EXTINF:-1 tvg-id="" tvg-name="MXC| U-BEAT" tvg-logo="http://logo.protv.cc/picons/logos/U-BEAT.png" group-title="LAT| MEXICO",MXC| U-BEAT
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/813203
+#EXTINF:-1 tvg-id="mx.Canal Unicable (México)" tvg-name="MXC| UNICABLE HD" tvg-logo="http://logo.protv.cc/picons/logos/mxc.Unicable.png" group-title="LAT| MEXICO",MXC| UNICABLE HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552936
+#EXTINF:-1 tvg-id="mx.Canal Studio Universal (México)" tvg-name="MXC| UNIVERSAL CHANNEL HD" tvg-logo="http://logo.protv.cc/picons/logos/universalchannelhd.png" group-title="LAT| MEXICO",MXC| UNIVERSAL CHANNEL HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552953
+#EXTINF:-1 tvg-id="mx.VH1" tvg-name="MXC| VH1" tvg-logo="http://logo.protv.cc/picons/logos/vh1.png" group-title="LAT| MEXICO",MXC| VH1
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/553051
+#EXTINF:-1 tvg-id="mx.VTV" tvg-name="MXC| VTV HD" tvg-logo="http://logo.protv.cc/picons/logos/vtv.png" group-title="LAT| MEXICO",MXC| VTV HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/553052
+#EXTINF:-1 tvg-id="mx.Warner Channel" tvg-name="MXC| WARNER HD" tvg-logo="http://logo.protv.cc/picons/logos/warnertv.png" group-title="LAT| MEXICO",MXC| WARNER HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/552941
+#EXTINF:-1 tvg-id="mx.WOBI TV" tvg-name="MXC| WOBI HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.Wobi-HD.png" group-title="LAT| MEXICO",MXC| WOBI HD
+http://premium-iptvesun.com:80/Jasmine1/Jasmine1/553053
